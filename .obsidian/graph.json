@@ -22,21 +22,21 @@
       }
     },
     {
-      "query": "path:\"20 Concepts\" \"Financial Statement Analysis\" \"Fixed Income\"",
+      "query": "path:\"20 Concepts\" [topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"]",
       "color": {
         "a": 1,
         "rgb": 10980346
       }
     },
     {
-      "query": "path:\"20 Concepts\" \"Financial Statement Analysis\"",
+      "query": "path:\"20 Concepts\" [topics:\"Financial Statement Analysis\"]",
       "color": {
         "a": 1,
         "rgb": 3462041
       }
     },
     {
-      "query": "path:\"20 Concepts\" \"Fixed Income\"",
+      "query": "path:\"20 Concepts\" [topics:\"Fixed Income\"]",
       "color": {
         "a": 1,
         "rgb": 6333946

@@ -3,6 +3,7 @@
 __pycache__/
 *.pyc
 tmp/
+output/
 .DS_Store
 .trash/
 .obsidian/workspace.json

@@ -37,7 +37,7 @@ This includes everything in `20 Concepts/` and explicitly includes the CFA level
 | --- | --- |
 | Gold | CFA level maps |
 | Amber | Topic maps |
-| Purple | Concepts spanning both FSA and Fixed Income |
+| Purple | Concepts whose `topics` property contains both FSA and Fixed Income |
 | Green | Financial Statement Analysis concepts |
 | Blue | Fixed Income concepts |
 
@@ -49,9 +49,11 @@ Add the groups in this order because the first matching group controls a node's 
 | --- | --- | --- |
 | 1 | `file:"CFA Level 1"` | CFA level maps |
 | 2 | `file:"Financial Statement Analysis" OR file:"Fixed Income"` | Topic maps |
-| 3 | `path:"20 Concepts" "Financial Statement Analysis" "Fixed Income"` | Concepts used by both topics |
-| 4 | `path:"20 Concepts" "Financial Statement Analysis"` | FSA concepts |
-| 5 | `path:"20 Concepts" "Fixed Income"` | Fixed Income concepts |
+| 3 | `path:"20 Concepts" [topics:"Financial Statement Analysis"] [topics:"Fixed Income"]` | Concepts assigned to both topics |
+| 4 | `path:"20 Concepts" [topics:"Financial Statement Analysis"]` | FSA concepts |
+| 5 | `path:"20 Concepts" [topics:"Fixed Income"]` | Fixed Income concepts |
+
+The property filters are intentional. Plain-text searches for the topic names can produce false purple nodes when a topic name appears only in a source note or prose connection.
 
 ## Display choices
 

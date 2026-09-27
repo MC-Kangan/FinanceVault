@@ -140,6 +140,13 @@ def test_valid_fixture_has_no_issues(valid_vault: Path) -> None:
     assert validate_vault(valid_vault) == []
 
 
+def test_output_artifacts_are_outside_vault_validation(valid_vault: Path) -> None:
+    artifact = valid_vault / "output" / "draft.md"
+    artifact.parent.mkdir(parents=True, exist_ok=True)
+    artifact.write_text("No vault frontmatter required here.\n", encoding="utf-8")
+    assert validate_vault(valid_vault) == []
+
+
 def test_duplicate_alias_is_rejected(valid_vault: Path) -> None:
     second = valid_vault / "20 Concepts" / "Bond Structure.md"
     second.write_text(concept_text("Bond Structure", "BS"), encoding="utf-8")

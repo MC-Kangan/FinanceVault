@@ -65,7 +65,7 @@ def iter_notes(vault: Path) -> Iterable[Path]:
         relative = path.relative_to(vault)
         if relative == Path("AGENTS.md"):
             continue
-        if relative.parts and relative.parts[0] in {".venv", "tmp"}:
+        if relative.parts and relative.parts[0] in {".venv", "tmp", "output"}:
             continue
         if relative.parts[:2] == ("99 System", "Templates"):
             continue
