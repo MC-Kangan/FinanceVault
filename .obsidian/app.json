@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "50 Assets/Inbox",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "30 Personal",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "readableLineLength": true,
+  "spellcheck": true,
+  "defaultViewMode": "source",
+  "livePreview": true
+}

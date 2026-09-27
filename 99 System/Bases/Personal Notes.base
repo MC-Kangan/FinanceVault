@@ -1,0 +1,32 @@
+filters:
+  and:
+    - 'file.inFolder("30 Personal")'
+    - 'type == "personal"'
+properties:
+  file.name:
+    displayName: Note
+  file.mtime:
+    displayName: Modified
+  tags:
+    displayName: Tags
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: Recent 30 days
+    limit: 10
+    filters:
+      and:
+        - 'file.mtime > now() - "30d"'
+    order:
+      - file.name
+      - file.mtime
+      - note.tags
+      - note.status
+  - type: table
+    name: All personal notes
+    order:
+      - file.name
+      - file.mtime
+      - note.tags
+      - note.status

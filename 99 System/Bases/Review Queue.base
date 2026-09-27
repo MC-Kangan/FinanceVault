@@ -1,0 +1,32 @@
+filters:
+  and:
+    - 'file.inFolder("90 Inbox/Proposals")'
+    - 'type == "proposal"'
+properties:
+  file.name:
+    displayName: Proposal
+  target:
+    displayName: Target
+  change_type:
+    displayName: Change
+  status:
+    displayName: Review Status
+views:
+  - type: table
+    name: Pending review
+    filters:
+      and:
+        - 'status == "pending-review"'
+    order:
+      - file.name
+      - note.target
+      - note.change_type
+      - note.status
+  - type: table
+    name: All proposals
+    order:
+      - file.name
+      - note.target
+      - note.change_type
+      - note.status
+

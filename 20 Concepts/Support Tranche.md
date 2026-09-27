@@ -1,0 +1,48 @@
+---
+id: concept-support-tranche
+type: concept
+title: Support Tranche
+aliases:
+- Companion Tranche
+- Support Bond
+- 支持档
+first_level: 1
+topics:
+- '[[Fixed Income]]'
+prerequisites: []
+used_in: []
+related:
+- '[[Planned Amortization Class Tranche]]'
+contrasts_with: []
+source_notes:
+- '[[Source - Fixed Income Level 1 Speed Review]]'
+status: trusted
+tags:
+- cfa/level-1
+---
+
+# Support Tranche
+
+> [!summary]
+> A support tranche absorbs prepayment variability to stabilize the planned amortization class tranche.[^fi-l1-p100]
+
+## Level 1 - Foundation
+
+### Definition and mechanics
+
+A support tranche absorbs prepayment variability to stabilize the planned amortization class tranche.[^fi-l1-p100]
+
+### Exam focus
+
+Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p100]
+
+## Connections
+
+- Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
+
+## Personal Notes
+<!-- personal:start -->
+<!-- personal:end -->
+
+## Sources
+[^fi-l1-p100]: [[fixed-income-level-1-speed-review.pdf#page=100|Fixed Income Level I Speed Review, PDF p. 100]]

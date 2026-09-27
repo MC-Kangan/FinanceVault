@@ -1,0 +1,28 @@
+filters:
+  and:
+    - 'file.inFolder("40 Sources/Source Notes")'
+    - 'type == "source"'
+properties:
+  file.name:
+    displayName: Source
+  cfa_level:
+    displayName: Level
+  curriculum_year:
+    displayName: Curriculum Year
+  provider:
+    displayName: Provider
+  page_count:
+    displayName: Pages
+  status:
+    displayName: Status
+views:
+  - type: table
+    name: Registered sources
+    order:
+      - file.name
+      - note.cfa_level
+      - note.curriculum_year
+      - note.provider
+      - note.page_count
+      - note.status
+

@@ -1,0 +1,14 @@
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+tmp/
+.DS_Store
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace*.json
+
+# Licensed source decks stay local. Source notes retain filename, page count, and SHA-256.
+40 Sources/PDFs/*.pdf
+!40 Sources/PDFs/.gitkeep

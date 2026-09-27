@@ -1,0 +1,16 @@
+[project]
+name = "cfa-obsidian-vault-tools"
+version = "0.1.0"
+description = "Validation and source-registration tools for the CFA Obsidian vault"
+requires-python = ">=3.11"
+dependencies = [
+  "PyYAML>=6.0.2,<7",
+  "pypdf>=6.0,<7",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=8.3,<9"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+

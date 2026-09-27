@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "-path:\"99 System\" -path:\"50 Assets\" -path:\"40 Sources/PDFs\" -path:\"90 Inbox/Archive\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:\"00 Home\"",
+      "color": {
+        "a": 1,
+        "rgb": 16498468
+      }
+    },
+    {
+      "query": "path:\"10 Maps\"",
+      "color": {
+        "a": 1,
+        "rgb": 16096779
+      }
+    },
+    {
+      "query": "path:\"20 Concepts\" \"Financial Statement Analysis\" \"Fixed Income\"",
+      "color": {
+        "a": 1,
+        "rgb": 10980346
+      }
+    },
+    {
+      "query": "path:\"20 Concepts\" \"Financial Statement Analysis\"",
+      "color": {
+        "a": 1,
+        "rgb": 3462041
+      }
+    },
+    {
+      "query": "path:\"20 Concepts\" \"Fixed Income\"",
+      "color": {
+        "a": 1,
+        "rgb": 6333946
+      }
+    },
+    {
+      "query": "path:\"30 Personal\"",
+      "color": {
+        "a": 1,
+        "rgb": 16020150
+      }
+    },
+    {
+      "query": "path:\"90 Inbox/Proposals\"",
+      "color": {
+        "a": 1,
+        "rgb": 16478597
+      }
+    },
+    {
+      "query": "path:\"40 Sources/Source Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 9741240
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 1.25,
+  "lineSizeMultiplier": 1.15,
+  "collapse-forces": false,
+  "centerStrength": 0.42,
+  "repelStrength": 12,
+  "linkStrength": 0.85,
+  "linkDistance": 190,
+  "scale": 1.1210507530907456,
+  "close": true
+}

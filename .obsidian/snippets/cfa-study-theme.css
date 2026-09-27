@@ -1,0 +1,187 @@
+/* CFA Study Theme: portable bilingual typography and restrained finance colors. */
+
+body {
+  --font-interface-theme: Inter, "Avenir Next", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  --font-text-theme: Charter, "Source Serif 4", "Songti SC", STSong, "Noto Serif CJK SC", serif;
+  --font-monospace-theme: SFMono-Regular, Menlo, Monaco, Consolas, "Noto Sans Mono CJK SC", monospace;
+  --file-line-width: 880px;
+  --line-height-normal: 1.68;
+  --line-height-tight: 1.28;
+  --radius-s: 6px;
+  --radius-m: 10px;
+  --radius-l: 14px;
+}
+
+.theme-dark {
+  --background-primary: #0f172a;
+  --background-primary-alt: #111c31;
+  --background-secondary: #111827;
+  --background-secondary-alt: #172033;
+  --background-modifier-border: #29364d;
+  --background-modifier-hover: #1d2a40;
+  --background-modifier-active-hover: #253450;
+  --text-normal: #e5e7eb;
+  --text-muted: #9ca9bb;
+  --text-faint: #718096;
+  --text-accent: #7dd3fc;
+  --text-accent-hover: #bae6fd;
+  --interactive-accent: #3b82f6;
+  --interactive-accent-hover: #60a5fa;
+  --h1-color: #f8fafc;
+  --h2-color: #bfdbfe;
+  --h3-color: #a7f3d0;
+  --link-color: #7dd3fc;
+  --link-color-hover: #bae6fd;
+  --link-unresolved-color: #fca5a5;
+  --code-normal: #c4b5fd;
+  --code-background: #111827;
+  --graph-line: #475569;
+  --graph-node: #60a5fa;
+  --graph-node-focused: #fbbf24;
+  --graph-node-unresolved: #64748b;
+  --graph-node-tag: #34d399;
+  --graph-node-attachment: #94a3b8;
+}
+
+.theme-light {
+  --background-primary: #fbfcfe;
+  --background-primary-alt: #f4f7fb;
+  --background-secondary: #eef3f8;
+  --background-secondary-alt: #e5edf6;
+  --background-modifier-border: #d4deea;
+  --background-modifier-hover: #e8f0f8;
+  --text-normal: #172033;
+  --text-muted: #5b677a;
+  --text-faint: #8190a5;
+  --text-accent: #2563eb;
+  --text-accent-hover: #1d4ed8;
+  --interactive-accent: #2563eb;
+  --interactive-accent-hover: #3b82f6;
+  --h1-color: #0f172a;
+  --h2-color: #1d4ed8;
+  --h3-color: #047857;
+  --link-color: #2563eb;
+  --link-color-hover: #1d4ed8;
+  --link-unresolved-color: #b91c1c;
+  --code-normal: #6d28d9;
+  --code-background: #f1f5f9;
+  --graph-line: #94a3b8;
+  --graph-node: #3b82f6;
+  --graph-node-focused: #d97706;
+  --graph-node-unresolved: #94a3b8;
+  --graph-node-tag: #059669;
+  --graph-node-attachment: #64748b;
+}
+
+.markdown-rendered,
+.markdown-source-view.mod-cm6 .cm-scroller {
+  font-variant-numeric: lining-nums tabular-nums;
+  letter-spacing: 0.005em;
+}
+
+.markdown-rendered p,
+.markdown-rendered li,
+.markdown-source-view.mod-cm6 .cm-line {
+  line-height: 1.68;
+}
+
+.markdown-rendered h1,
+.markdown-source-view.mod-cm6 .HyperMD-header-1 {
+  font-family: var(--font-interface);
+  font-weight: 750;
+  letter-spacing: -0.025em;
+  border-bottom: 1px solid var(--background-modifier-border);
+  padding-bottom: 0.35em;
+}
+
+.markdown-rendered h2,
+.markdown-source-view.mod-cm6 .HyperMD-header-2 {
+  font-family: var(--font-interface);
+  font-weight: 700;
+  margin-top: 1.8em;
+}
+
+.markdown-rendered h3,
+.markdown-source-view.mod-cm6 .HyperMD-header-3 {
+  font-family: var(--font-interface);
+  font-weight: 650;
+}
+
+.markdown-rendered a.internal-link,
+.markdown-source-view.mod-cm6 .cm-hmd-internal-link {
+  font-weight: 600;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+.callout {
+  border-radius: var(--radius-m);
+  border-width: 1px;
+  box-shadow: 0 5px 18px rgb(0 0 0 / 8%);
+}
+
+.callout[data-callout="summary"] {
+  --callout-color: 52, 211, 153;
+  --callout-icon: lucide-landmark;
+}
+
+.callout[data-callout="tip"] {
+  --callout-color: 251, 191, 36;
+  --callout-icon: lucide-languages;
+}
+
+.callout[data-callout="warning"] {
+  --callout-color: 251, 113, 133;
+}
+
+.metadata-container {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  padding: 0.45rem 0.75rem;
+  background: var(--background-primary-alt);
+}
+
+.markdown-rendered table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  overflow: hidden;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+}
+
+.markdown-rendered th {
+  font-family: var(--font-interface);
+  background: var(--background-secondary);
+}
+
+.markdown-rendered tr:nth-child(even) td {
+  background: var(--background-primary-alt);
+}
+
+.markdown-rendered img {
+  border-radius: var(--radius-m);
+  box-shadow: 0 7px 24px rgb(0 0 0 / 14%);
+}
+
+.math-block > mjx-container {
+  padding: 0.65rem 0.8rem;
+  overflow-x: auto;
+  border-radius: var(--radius-s);
+  background: var(--background-primary-alt);
+}
+
+.nav-folder-title {
+  font-family: var(--font-interface);
+  font-weight: 650;
+}
+
+.workspace-tab-header-container,
+.status-bar {
+  font-family: var(--font-interface);
+}
+
+.graph-view.color-fill-highlight,
+.graph-view.color-fill-focused {
+  color: #fbbf24;
+}

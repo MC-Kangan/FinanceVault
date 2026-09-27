@@ -1,0 +1,14 @@
+.markdown-rendered h2[data-heading^="Level 1"] {
+  border-left: 4px solid #3b82f6;
+  padding-left: 0.55rem;
+}
+
+.markdown-rendered h2[data-heading^="Level 2"] {
+  border-left: 4px solid #8b5cf6;
+  padding-left: 0.55rem;
+}
+
+.markdown-rendered h2[data-heading^="Level 3"] {
+  border-left: 4px solid #d97706;
+  padding-left: 0.55rem;
+}

@@ -1,0 +1,34 @@
+filters:
+  and:
+    - 'file.inFolder("20 Concepts")'
+    - 'type == "concept"'
+properties:
+  file.name:
+    displayName: Concept
+  first_level:
+    displayName: First Level
+  topics:
+    displayName: Topics
+  tags:
+    displayName: CFA Levels
+  status:
+    displayName: Trust Status
+views:
+  - type: table
+    name: All concepts
+    order:
+      - file.name
+      - note.first_level
+      - note.topics
+      - note.tags
+      - note.status
+  - type: table
+    name: Level 1
+    filters:
+      and:
+        - 'file.hasTag("cfa/level-1")'
+    order:
+      - file.name
+      - note.topics
+      - note.status
+
