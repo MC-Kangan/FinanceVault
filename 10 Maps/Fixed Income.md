@@ -28,7 +28,6 @@ tags:
 - [[Credit Risk]]
 - [[Expected Loss]]
 - [[Corporate Credit Analysis]]
-- [[Credit Analysis Bridge]]
 
 <!-- merged:full-deck:start -->
 ## Full-deck concept index
@@ -141,4 +140,3 @@ tags:
 ## Source
 
 [[Source - Fixed Income Level 1 Speed Review]]
-

@@ -51,7 +51,7 @@ Always identify which claimholders the measure belongs to. FCFF and FCFE differ 
 
 - Use [[Free Cash Flow to the Firm]] for all-capital-provider cash flow.
 - Use [[Free Cash Flow to Equity]] for common-equity cash flow.
-- Follow [[Credit Analysis Bridge]] to see how cash generation supports [[Corporate Credit Analysis]].
+- Apply cash-generation evidence directly in [[Corporate Credit Analysis]].
 
 ## Personal Notes
 <!-- personal:start -->
@@ -60,4 +60,3 @@ Always identify which claimholders the measure belongs to. FCFF and FCFE differ 
 ## Sources
 [^fsa-l1-p40]: [[financial-statement-analysis-level-1-speed-review.pdf#page=40|Financial Statement Analysis Level I Speed Review, PDF p. 40]]
 [^fi-l1-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]
-

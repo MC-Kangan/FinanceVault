@@ -35,7 +35,7 @@ tags:
 
 ## Applied elsewhere
 
-The [[Credit Analysis Bridge]] shows how accounting-derived measures become inputs to [[Corporate Credit Analysis]].
+Accounting-derived [[Interest Coverage Ratio]], [[Debt-to-EBITDA Ratio]], [[Net Profit Margin]], and [[Free Cash Flow]] measures become direct inputs to [[Corporate Credit Analysis]].
 
 <!-- merged:full-deck:start -->
 ## Full-deck concept index
@@ -167,4 +167,3 @@ The [[Credit Analysis Bridge]] shows how accounting-derived measures become inpu
 ## Source
 
 [[Source - Financial Statement Analysis Level 1 Speed Review]]
-

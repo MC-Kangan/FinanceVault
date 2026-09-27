@@ -15,10 +15,6 @@ tags:
 - [[Financial Statement Analysis]]
 - [[Fixed Income]]
 
-## Cross-topic routes
-
-- [[Credit Analysis Bridge]] connects financial-statement ratios and cash flow to issuer creditworthiness.
-
 ## Source coverage
 
 - [[Source - Financial Statement Analysis Level 1 Speed Review]]
@@ -26,4 +22,3 @@ tags:
 
 > [!note]
 > This is a representative pilot, not a complete Level 1 curriculum map. Add later topics only after their sources are registered and reviewed.
-

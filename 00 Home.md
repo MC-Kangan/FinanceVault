@@ -17,7 +17,6 @@ tags:
 - [[CFA Level 1]] - curriculum-level overview
 - [[Financial Statement Analysis]] - statements, cash flow, ratios, and DuPont analysis
 - [[Fixed Income]] - valuation, yield, duration, convexity, and credit risk
-- [[Credit Analysis Bridge]] - cross-topic path from accounting measures to bond credit analysis
 - [[Graph View Guide]] - colour legend and a practical local-graph workflow
 - [[Vault Operations Handbook]] - source registration, transcription, proposals, linking, validation, and Git
 - [[Ingestion Log]] - human-readable history of registered decks and trusted merges

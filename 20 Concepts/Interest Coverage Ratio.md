@@ -53,7 +53,7 @@ Check the exact numerator and denominator definitions before comparing companies
 
 - Calculate the ratio in [[Financial Statement Analysis]].
 - Apply it with [[Debt-to-EBITDA Ratio]], [[Net Profit Margin]], and [[Free Cash Flow]] in [[Corporate Credit Analysis]].
-- The complete cross-topic route is in [[Credit Analysis Bridge]].
+- Interpret the accounting calculation alongside leverage and cash generation in [[Corporate Credit Analysis]].
 
 ## Personal Notes
 <!-- personal:start -->
@@ -62,4 +62,3 @@ Check the exact numerator and denominator definitions before comparing companies
 ## Sources
 [^fsa-l1-p45]: [[financial-statement-analysis-level-1-speed-review.pdf#page=45|Financial Statement Analysis Level I Speed Review, PDF p. 45]]
 [^fi-l1-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]
-

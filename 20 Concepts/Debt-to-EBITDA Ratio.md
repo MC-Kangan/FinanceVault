@@ -50,7 +50,7 @@ EBITDA is not free cash flow: it omits working-capital investment, fixed-capital
 
 - Debt is grounded in the [[Balance Sheet]].
 - Use alongside [[Interest Coverage Ratio]], profitability measures, and [[Free Cash Flow]] in [[Corporate Credit Analysis]].
-- Follow [[Credit Analysis Bridge]] for the cross-topic route.
+- Use the ratio with [[Interest Coverage Ratio]], [[Net Profit Margin]], and [[Free Cash Flow]] in [[Corporate Credit Analysis]].
 
 ## Personal Notes
 <!-- personal:start -->
@@ -58,4 +58,3 @@ EBITDA is not free cash flow: it omits working-capital investment, fixed-capital
 
 ## Sources
 [^fi-l1-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]
-

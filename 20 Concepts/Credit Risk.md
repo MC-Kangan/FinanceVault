@@ -52,7 +52,7 @@ Do not equate credit risk only with default probability: loss severity also matt
 
 - Quantify the loss component with [[Expected Loss]].
 - Evaluate issuer capacity in [[Corporate Credit Analysis]].
-- Follow the accounting-to-credit route in [[Credit Analysis Bridge]].
+- Use [[Corporate Credit Analysis]] to connect accounting-derived coverage, leverage, profitability, and cash-flow measures to this risk assessment.
 
 ## Personal Notes
 <!-- personal:start -->

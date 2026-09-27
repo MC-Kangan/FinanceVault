@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"20 Concepts\" OR file:\"CFA Level 1\" OR file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Credit Analysis Bridge\"",
+  "search": "path:\"20 Concepts\" OR file:\"CFA Level 1\" OR file:\"Financial Statement Analysis\" OR file:\"Fixed Income\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -19,13 +19,6 @@
       "color": {
         "a": 1,
         "rgb": 16096779
-      }
-    },
-    {
-      "query": "file:\"Credit Analysis Bridge\"",
-      "color": {
-        "a": 1,
-        "rgb": 10980346
       }
     },
     {

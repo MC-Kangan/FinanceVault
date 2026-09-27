@@ -103,7 +103,7 @@ Existing `Interest Coverage Ratio` and `Debt-to-EBITDA Ratio` remain the canonic
 
 - Open [[Interest Coverage Ratio]] for formula, interpretation, the [[Financial Statement Analysis]] map, and exact supporting pages.
 - Combine [[Debt-to-EBITDA Ratio]], [[Net Profit Margin]], and [[Free Cash Flow]] rather than relying on one ratio.
-- Use [[Credit Analysis Bridge]] as the complete accounting-to-credit navigation path.
+- Use the direct links above to move between accounting calculations and credit interpretation.
 - Return to [[Fixed Income]] for the broader credit-risk module.
 
 ## Personal Notes
