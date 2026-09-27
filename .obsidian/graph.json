@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:\"99 System\" -path:\"50 Assets\" -path:\"40 Sources/PDFs\" -path:\"90 Inbox/Archive\"",
+  "search": "path:\"20 Concepts\" OR file:\"CFA Level 1\" OR file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Credit Analysis Bridge\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -8,17 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:\"00 Home\"",
+      "query": "file:\"CFA Level 1\"",
       "color": {
         "a": 1,
         "rgb": 16498468
       }
     },
     {
-      "query": "path:\"10 Maps\"",
+      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\"",
       "color": {
         "a": 1,
         "rgb": 16096779
+      }
+    },
+    {
+      "query": "file:\"Credit Analysis Bridge\"",
+      "color": {
+        "a": 1,
+        "rgb": 10980346
       }
     },
     {
@@ -41,27 +48,6 @@
         "a": 1,
         "rgb": 6333946
       }
-    },
-    {
-      "query": "path:\"30 Personal\"",
-      "color": {
-        "a": 1,
-        "rgb": 16020150
-      }
-    },
-    {
-      "query": "path:\"90 Inbox/Proposals\"",
-      "color": {
-        "a": 1,
-        "rgb": 16478597
-      }
-    },
-    {
-      "query": "path:\"40 Sources/Source Notes\"",
-      "color": {
-        "a": 1,
-        "rgb": 9741240
-      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +60,6 @@
   "repelStrength": 12,
   "linkStrength": 0.85,
   "linkDistance": 190,
-  "scale": 1.1210507530907456,
+  "scale": 0.5947315009692012,
   "close": true
 }
