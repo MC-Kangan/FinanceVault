@@ -73,9 +73,13 @@ The `cfa/level-N` tags must exactly match the non-empty Level sections. `first_l
 11. Proposal states are `pending-review`, `approved`, `rejected`, and `merged`.
 12. Never change an existing trusted note before its proposal is approved.
 13. During an approved merge, preserve the Personal Notes block byte-for-byte, update relationships and level tags, rerun validation, and move the proposal to `90 Inbox/Archive/` with `status: merged`.
+14. After adding concepts, update the navigation hierarchy so every new concept is reachable through `CFA Level → major topic map → chapter/subtopic map → concept`. Markdown headings are not graph nodes; create real `type: map` notes tagged `map/subtopic` for source chapters.
+15. Update `.obsidian/graph.json` whenever a merge introduces a new major topic, chapter map, or cross-topic combination. Keep the global graph limited to `20 Concepts/` and curriculum maps, exclude sources and system notes, and add topic/cross-topic colour groups in first-match order. Obsidian caches this file while running: either change the settings through the live UI or fully close Obsidian before editing the file, then reopen it and verify the saved configuration was not overwritten.
+16. Visually inspect the refreshed global graph and representative local graphs after the merge. Confirm that new notes cluster around their chapter maps, major topics connect to the CFA level map, shared concepts bridge the correct topics, and no source PDFs, transcripts, or unintended orphan nodes are shown.
+17. Update `10 Maps/Graph View Guide.md` and `99 System/Ingestion Log.md` when the graph hierarchy, colour legend, filter, or source coverage changes.
 
 The initial pilot created with this contract is source-verified canonical material. All later ingestion must use the proposal gate.
 
 ## Validation gate
 
-Do not mark work complete unless the validator reports zero errors and the relevant automated tests pass. Validation covers schemas, IDs, aliases, links, level tags, citations, PDF pages, immutable source hashes, figure provenance, and Personal Notes markers.
+Do not mark work complete unless the validator reports zero errors, the relevant automated tests pass, and the post-merge graph inspection is complete. Validation covers schemas, IDs, aliases, links, level tags, citations, PDF pages, immutable source hashes, figure provenance, and Personal Notes markers; visual graph inspection additionally covers clustering and view configuration.

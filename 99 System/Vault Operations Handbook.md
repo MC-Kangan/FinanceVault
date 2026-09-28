@@ -224,8 +224,30 @@ Review the proposal against every cited rendered page. When accepted:
 6. Change the proposal to `status: merged` and move it to `90 Inbox/Archive/`.
 7. Regenerate the alias registry and rerun validation and tests.
 8. Record the merge in [[Ingestion Log]].
+9. Create or update chapter/subtopic map notes so each new concept has the path `CFA Level → topic → chapter → concept`.
+10. Update `.obsidian/graph.json` for any new topic names, chapter maps, colour groups, or cross-topic combinations.
+11. Open the global graph and at least one representative local graph. Verify visible chapter clustering, correct cross-topic bridges, and the absence of sources, transcripts, system notes, and unintended orphans.
+12. Update [[Graph View Guide]] whenever the saved filter, colour legend, or hierarchy changes.
 
-Do not call the work complete unless validation reports zero issues.
+Do not call the work complete unless validation reports zero issues and the refreshed graph has been visually inspected.
+
+### 11. Maintain the graph view after every merge
+
+The Markdown schema and the Obsidian view must evolve together. Adding notes without updating the maps and saved graph configuration leaves valid files looking like unstructured floating nodes.
+
+For every approved ingestion merge:
+
+1. Confirm every new concept appears in exactly the appropriate chapter/subtopic map or maps.
+2. Confirm each chapter map links to one major topic map and uses `type: map` plus the `map/subtopic` tag.
+3. Confirm each major topic map links upward from [[CFA Level 1]] or the appropriate later-level map.
+4. Keep the global graph filter focused on `20 Concepts/` and curriculum maps in `10 Maps/`; do not expose source notes, transcripts, proposals, PDFs, or the system-only Graph View Guide.
+5. Add a single-topic colour group for every new major topic. Update the higher-priority purple group when a new pair of topics can share concepts.
+6. Preserve first-match colour ordering: CFA level, major topic, chapter/subtopic, cross-topic concept, then single-topic concepts.
+7. Obsidian caches `.obsidian/graph.json` while it is open. Change graph settings through the live Obsidian UI, or fully close Obsidian before editing the file directly. Otherwise the running app may silently restore the old filter and colours.
+8. Reopen Obsidian and confirm the saved filter and groups persisted on disk. Then check the whole-vault layout and a representative chapter local graph at depth 1–2.
+9. If new notes appear detached or form an unlabelled cloud, treat that as an incomplete merge: repair the filter, map links, or chapter structure before committing.
+
+The current saved filter and colour queries are documented in [[Graph View Guide]].
 
 ## Adding later CFA levels
 
@@ -385,7 +407,7 @@ Register and ingest this CFA slide deck into the vault. Treat every source page 
 After review:
 
 ```text
-Approve and merge the selected proposals. Preserve every Personal Notes block byte-for-byte, update maps and typed relationships, regenerate the alias registry, archive the merged proposals, and report validator and test results.
+Approve and merge the selected proposals. Preserve every Personal Notes block byte-for-byte, update typed relationships and the full CFA-level/topic/chapter map hierarchy, regenerate the alias registry, archive the merged proposals, and update the Ingestion Log. Refresh `.obsidian/graph.json` for new topics and cross-topic groups, then visually inspect the global graph and representative local graphs to confirm chapter clustering and that sources remain hidden. Report validator, test, and graph-inspection results.
 ```
 
 ## Routine health check

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"20 Concepts\" OR file:\"CFA Level 1\" OR file:\"Financial Statement Analysis\" OR file:\"Fixed Income\"",
+  "search": "path:\"20 Concepts\" OR (path:\"10 Maps\" -file:\"Graph View Guide\")",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
@@ -15,14 +15,21 @@
       }
     },
     {
-      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\"",
+      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Equity Investments\" OR file:\"Portfolio Management\"",
       "color": {
         "a": 1,
         "rgb": 16096779
       }
     },
     {
-      "query": "path:\"20 Concepts\" [topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"]",
+      "query": "tag:#map/subtopic",
+      "color": {
+        "a": 1,
+        "rgb": 16753920
+      }
+    },
+    {
+      "query": "path:\"20 Concepts\" ([topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Equity Investments\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Portfolio Management\"] OR [topics:\"Fixed Income\"] [topics:\"Equity Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Portfolio Management\"] OR [topics:\"Equity Investments\"] [topics:\"Portfolio Management\"])",
       "color": {
         "a": 1,
         "rgb": 10980346
@@ -41,6 +48,20 @@
         "a": 1,
         "rgb": 6333946
       }
+    },
+    {
+      "query": "path:\"20 Concepts\" [topics:\"Equity Investments\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15158332
+      }
+    },
+    {
+      "query": "path:\"20 Concepts\" [topics:\"Portfolio Management\"]",
+      "color": {
+        "a": 1,
+        "rgb": 2796160
+      }
     }
   ],
   "collapse-display": false,
@@ -50,9 +71,9 @@
   "lineSizeMultiplier": 1.15,
   "collapse-forces": false,
   "centerStrength": 0.42,
-  "repelStrength": 12,
+  "repelStrength": 10,
   "linkStrength": 0.85,
-  "linkDistance": 190,
-  "scale": 0.6277688712014083,
+  "linkDistance": 120,
+  "scale": 0.2621993413978767,
   "close": true
 }
