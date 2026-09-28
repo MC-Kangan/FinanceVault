@@ -7,17 +7,18 @@ aliases:
 first_level: 1
 topics:
 - '[[Fixed Income]]'
+- '[[Alternative Investments]]'
 prerequisites: []
 used_in: []
 related: []
 contrasts_with: []
 source_notes:
 - '[[Source - Fixed Income Level 1 Speed Review]]'
+- '[[Source - Alternative Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Covered Bond
 
 > [!summary]
@@ -34,6 +35,10 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-structured-p94]
 
+### Alternative Investments context
+
+Covered bonds provide public debt exposure backed by a ring-fenced cover pool while retaining issuer recourse.[^alt-l1-p24]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -45,3 +50,5 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fi-structured-p94]: [[fixed-income-level-1-speed-review.pdf#page=94|Fixed Income Level I Speed Review, PDF p. 94]]
 [^fi-structured-p95]: [[fixed-income-level-1-speed-review.pdf#page=95|Fixed Income Level I Speed Review, PDF p. 95]]
+
+[^alt-l1-p24]: [[alternative-investments-level-1-speed-review.pdf#page=24|Alternative Investments Level I Speed Review, PDF p. 24]]

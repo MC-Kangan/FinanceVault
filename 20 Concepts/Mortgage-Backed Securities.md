@@ -10,17 +10,18 @@ aliases:
 first_level: 1
 topics:
 - '[[Fixed Income]]'
+- '[[Alternative Investments]]'
 prerequisites: []
 used_in: []
 related: []
 contrasts_with: []
 source_notes:
 - '[[Source - Fixed Income Level 1 Speed Review]]'
+- '[[Source - Alternative Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Mortgage-Backed Securities
 
 > [!summary]
@@ -37,6 +38,10 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-structured-p99]
 
+### Alternative Investments context
+
+Mortgage-backed securities provide public debt exposure to pools of mortgage cash flows.[^alt-l1-p24]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -47,3 +52,5 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-structured-p99]: [[fixed-income-level-1-speed-review.pdf#page=99|Fixed Income Level I Speed Review, PDF p. 99]]
+
+[^alt-l1-p24]: [[alternative-investments-level-1-speed-review.pdf#page=24|Alternative Investments Level I Speed Review, PDF p. 24]]

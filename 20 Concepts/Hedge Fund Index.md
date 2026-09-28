@@ -6,6 +6,7 @@ aliases: []
 first_level: 1
 topics:
 - '[[Equity Investments]]'
+- '[[Alternative Investments]]'
 prerequisites: []
 used_in: []
 related:
@@ -14,6 +15,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Equity Investments Level 1 Speed Review]]'
+- '[[Source - Alternative Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -37,6 +39,10 @@ Use Hedge Fund Index as a distinct exam concept when navigating [[Equity Investm
 
 Do not merge Hedge Fund Index with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p22]
 
+### Alternative Investments context
+
+Hedge-fund indexes benchmark reported performance but may contain selection, survivorship, backfill, and weighting biases.[^alt-l1-p38]
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Real Estate Index]], [[Commodity Index]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +53,5 @@ Within the source sequence, this concept is directly adjacent to [[Real Estate I
 
 ## Sources
 [^eq-l1-p22]: [[equity-investments-level-1-speed-review.pdf#page=22|Equity Investments Level I Speed Review, PDF p. 22]]
+
+[^alt-l1-p38]: [[alternative-investments-level-1-speed-review.pdf#page=38|Alternative Investments Level I Speed Review, PDF p. 38]]

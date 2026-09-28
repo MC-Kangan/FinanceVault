@@ -7,11 +7,12 @@ tags:
   - cfa/level-1
   - map/level
 ---
-
+r
 # CFA Level 1
 
 ## Topics
 
+- [[Alternative Investments]]
 - [[Quantitative Methods]]
 - [[Financial Statement Analysis]]
 - [[Fixed Income]]
@@ -20,6 +21,7 @@ tags:
 
 ## Source coverage
 
+- [[Source - Alternative Investments Level 1 Speed Review]]
 - [[Source - Quantitative Methods Level 1 Speed Review]]
 - [[Source - Financial Statement Analysis Level 1 Speed Review]]
 - [[Source - Fixed Income Level 1 Speed Review]]

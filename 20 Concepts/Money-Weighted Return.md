@@ -9,6 +9,7 @@ aliases:
 first_level: 1
 topics:
 - '[[Quantitative Methods]]'
+- '[[Alternative Investments]]'
 prerequisites: []
 used_in: []
 related:
@@ -17,6 +18,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Quantitative Methods Level 1 Speed Review]]'
+- '[[Source - Alternative Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -40,6 +42,10 @@ Use this concept within [[Quant - Interest Rates and Investment Returns]] and di
 
 Match the definition, inputs, direction, and units to the question; do not substitute a similarly named statistic or return measure.[^quant-l1-p6]
 
+### Alternative Investments context
+
+Money-weighted return is the internal rate of return used to evaluate cash flows with their size and timing.[^alt-l1-p8]
+
 ## Connections
 
 This concept belongs to [[Quantitative Methods]] through [[Quant - Interest Rates and Investment Returns]]. Compare it with [[Time-Weighted Return]], [[Future Value Factor]].
@@ -50,3 +56,5 @@ This concept belongs to [[Quantitative Methods]] through [[Quant - Interest Rate
 
 ## Sources
 [^quant-l1-p6]: [[quantitative-methods-level-1-speed-review.pdf#page=6|Quantitative Methods Level I Speed Review, PDF p. 6]]
+
+[^alt-l1-p8]: [[alternative-investments-level-1-speed-review.pdf#page=8|Alternative Investments Level I Speed Review, PDF p. 8]]

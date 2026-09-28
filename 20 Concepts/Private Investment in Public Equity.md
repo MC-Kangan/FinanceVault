@@ -7,6 +7,7 @@ aliases:
 first_level: 1
 topics:
 - '[[Equity Investments]]'
+- '[[Alternative Investments]]'
 prerequisites: []
 used_in: []
 related:
@@ -15,6 +16,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Equity Investments Level 1 Speed Review]]'
+- '[[Source - Alternative Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -38,6 +40,10 @@ Use Private Investment in Public Equity as a distinct exam concept when navigati
 
 Do not merge Private Investment in Public Equity with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p40]
 
+### Alternative Investments context
+
+A PIPE is a private offering of public-company securities to selected investors with faster execution and fewer disclosures.[^alt-l1-p18]
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Leveraged Buyout]], [[Depositary Receipt]]. Use the topic map to move outward to the wider model or workflow.
@@ -48,3 +54,5 @@ Within the source sequence, this concept is directly adjacent to [[Leveraged Buy
 
 ## Sources
 [^eq-l1-p40]: [[equity-investments-level-1-speed-review.pdf#page=40|Equity Investments Level I Speed Review, PDF p. 40]]
+
+[^alt-l1-p18]: [[alternative-investments-level-1-speed-review.pdf#page=18|Alternative Investments Level I Speed Review, PDF p. 18]]

@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Equity Investments\" OR file:\"Portfolio Management\" OR file:\"Quantitative Methods\"",
+      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Equity Investments\" OR file:\"Portfolio Management\" OR file:\"Quantitative Methods\" OR file:\"Alternative Investments\"",
       "color": {
         "a": 1,
         "rgb": 16096779
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:\"20 Concepts\" ([topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Equity Investments\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Portfolio Management\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Quantitative Methods\"] OR [topics:\"Fixed Income\"] [topics:\"Equity Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Portfolio Management\"] OR [topics:\"Fixed Income\"] [topics:\"Quantitative Methods\"] OR [topics:\"Equity Investments\"] [topics:\"Portfolio Management\"] OR [topics:\"Equity Investments\"] [topics:\"Quantitative Methods\"] OR [topics:\"Portfolio Management\"] [topics:\"Quantitative Methods\"])",
+      "query": "path:\"20 Concepts\" ([topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Equity Investments\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Portfolio Management\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Quantitative Methods\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Alternative Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Equity Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Portfolio Management\"] OR [topics:\"Fixed Income\"] [topics:\"Quantitative Methods\"] OR [topics:\"Fixed Income\"] [topics:\"Alternative Investments\"] OR [topics:\"Equity Investments\"] [topics:\"Portfolio Management\"] OR [topics:\"Equity Investments\"] [topics:\"Quantitative Methods\"] OR [topics:\"Equity Investments\"] [topics:\"Alternative Investments\"] OR [topics:\"Portfolio Management\"] [topics:\"Quantitative Methods\"] OR [topics:\"Portfolio Management\"] [topics:\"Alternative Investments\"] OR [topics:\"Quantitative Methods\"] [topics:\"Alternative Investments\"])",
       "color": {
         "a": 1,
         "rgb": 10980346
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "path:\"20 Concepts\" [topics:\"Alternative Investments\"]",
+      "color": {
+        "a": 1,
+        "rgb": 439764
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 0.85,
   "linkDistance": 120,
-  "scale": 0.34126434415364193,
-  "close": true
+  "scale": 2.130278748655041,
+  "close": false
 }

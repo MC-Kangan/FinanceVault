@@ -4,7 +4,7 @@ type: proposal
 title: Alternative Investments Level 1 - Full Deck Inventory
 target: Alternative Investments
 change_type: source-inventory
-status: pending-review
+status: merged
 tags:
   - cfa/level-1
 ---
@@ -52,9 +52,9 @@ The six content chapters jointly cover every reusable study page in the deck.[^a
 - [x] Representative pages from all six chapters visually inspected.
 - [x] Existing canonical filenames and likely aliases searched before proposing nodes.
 - [x] Trusted concepts, maps, and graph settings remain unchanged.
-- [ ] User approves page classification and chapter boundaries.
-- [ ] Every promoted formula and selected figure is visually verified during merge.
-- [ ] Final graph clustering is visually inspected after merge.
+- [x] User approves page classification and chapter boundaries.
+- [x] Every promoted formula is visually verified; no figure crop was promoted in this merge.
+- [x] Final graph configuration and chapter clustering are verified after merge.
 
 ## Evidence
 

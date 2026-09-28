@@ -6,6 +6,7 @@ aliases: []
 first_level: 1
 topics:
 - '[[Portfolio Management]]'
+- '[[Alternative Investments]]'
 prerequisites: []
 used_in:
 - '[[Capital Asset Pricing Model]]'
@@ -17,6 +18,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Portfolio Management Level 1 Speed Review]]'
+- '[[Source - Alternative Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -40,6 +42,10 @@ Use Beta as a distinct exam concept when navigating [[Portfolio Management]]; co
 
 Do not merge Beta with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^pm-l1-p10]
 
+### Alternative Investments context
+
+Market beta is the portion of hedge-fund return attributable to broad market exposure.[^alt-l1-p38]
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Unsystematic Risk]], [[Portfolio Beta]]. Use the topic map to move outward to the wider model or workflow.
@@ -50,3 +56,5 @@ Within the source sequence, this concept is directly adjacent to [[Unsystematic 
 
 ## Sources
 [^pm-l1-p10]: [[portfolio-management-level-1-speed-review.pdf#page=10|Portfolio Management Level I Speed Review, PDF p. 10]]
+
+[^alt-l1-p38]: [[alternative-investments-level-1-speed-review.pdf#page=38|Alternative Investments Level I Speed Review, PDF p. 38]]

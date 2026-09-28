@@ -6,6 +6,7 @@ aliases: []
 first_level: 1
 topics:
 - '[[Quantitative Methods]]'
+- '[[Alternative Investments]]'
 prerequisites: []
 used_in: []
 related:
@@ -14,6 +15,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Quantitative Methods Level 1 Speed Review]]'
+- '[[Source - Alternative Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -37,6 +39,10 @@ Use this concept within [[Quant - Interest Rates and Investment Returns]] and di
 
 Match the definition, inputs, direction, and units to the question; do not substitute a similarly named statistic or return measure.[^quant-l1-p8]
 
+### Alternative Investments context
+
+Leveraged return reflects the magnification of equity return from borrowing when asset return differs from the borrowing rate.[^alt-l1-p8]
+
 ## Connections
 
 This concept belongs to [[Quantitative Methods]] through [[Quant - Interest Rates and Investment Returns]]. Compare it with [[After-Tax Return]], [[Time Value of Money]].
@@ -47,3 +53,5 @@ This concept belongs to [[Quantitative Methods]] through [[Quant - Interest Rate
 
 ## Sources
 [^quant-l1-p8]: [[quantitative-methods-level-1-speed-review.pdf#page=8|Quantitative Methods Level I Speed Review, PDF p. 8]]
+
+[^alt-l1-p8]: [[alternative-investments-level-1-speed-review.pdf#page=8|Alternative Investments Level I Speed Review, PDF p. 8]]

@@ -6,6 +6,7 @@ aliases: []
 first_level: 1
 topics:
 - '[[Equity Investments]]'
+- '[[Alternative Investments]]'
 prerequisites: []
 used_in: []
 related:
@@ -14,6 +15,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Equity Investments Level 1 Speed Review]]'
+- '[[Source - Alternative Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -37,6 +39,10 @@ Use Venture Capital as a distinct exam concept when navigating [[Equity Investme
 
 Do not merge Venture Capital with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p40]
 
+### Alternative Investments context
+
+Venture capital finances private companies with high growth potential across successive development stages.[^alt-l1-p17]
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Private Equity]], [[Leveraged Buyout]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +53,5 @@ Within the source sequence, this concept is directly adjacent to [[Private Equit
 
 ## Sources
 [^eq-l1-p40]: [[equity-investments-level-1-speed-review.pdf#page=40|Equity Investments Level I Speed Review, PDF p. 40]]
+
+[^alt-l1-p17]: [[alternative-investments-level-1-speed-review.pdf#page=17|Alternative Investments Level I Speed Review, PDF p. 17]]
