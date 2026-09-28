@@ -26,32 +26,53 @@ tags:
 | `accrualtranche` | Accrual Tranche | [[Z-Tranche]] |
 | `acidtestratio` | Acid-Test Ratio | [[Quick Ratio]] |
 | `acquisitiongoodwill` | Acquisition Goodwill | [[Goodwill]] |
+| `activemanagement` | Active Management | [[Active Management]] |
+| `activeownership` | Active Ownership | [[Active Ownership]] |
+| `adr` | ADR | [[American Depositary Receipt]] |
 | `aggressiveaccounting` | Aggressive Accounting | [[Aggressive Accounting]] |
 | `aggressivefinancialreporting` | Aggressive Financial Reporting | [[Aggressive Accounting]] |
 | `ale` | A = L + E | [[Accounting Equation]] |
+| `allornoneorder` | All-or-None Order | [[All-or-None Order]] |
+| `alternativeinvestmentmanagement` | Alternative Investment Management | [[Alternative Investment Management]] |
+| `alternativetradingsystem` | Alternative Trading System | [[Alternative Trading System]] |
 | `amc` | AMC | [[Amortized Cost]] |
+| `americandepositaryreceipt` | American Depositary Receipt | [[American Depositary Receipt]] |
 | `amortizedcost` | Amortized Cost | [[Amortized Cost]] |
 | `analyticalduration` | Analytical Duration | [[Analytical Duration]] |
+| `anchoringandadjustmentbias` | Anchoring and Adjustment Bias | [[Anchoring and Adjustment Bias]] |
 | `annualizedyieldconventions` | Annualized Yield Conventions | [[Annualized Yield Conventions]] |
+| `aonorder` | AON Order | [[All-or-None Order]] |
 | `aprandear` | APR and EAR | [[Annualized Yield Conventions]] |
+| `arbitrageur` | Arbitrageur | [[Arbitrageur]] |
 | `assetbackedsecurities` | Asset-Backed Securities | [[Asset-Backed Securities]] |
+| `assetbasedvaluation` | Asset-Based Valuation | [[Asset-Based Valuation]] |
 | `assetdisposal` | Asset Disposal | [[Long-Lived Asset Disposal]] |
 | `assetheldforsale` | Asset Held for Sale | [[Asset Held for Sale]] |
 | `assetimpairment` | Asset Impairment | [[Asset Impairment]] |
 | `assetsecuritization` | Asset Securitization | [[Securitization]] |
 | `assetturnover` | Asset Turnover | [[Total Asset Turnover]] |
+| `ats` | ATS | [[Alternative Trading System]] |
 | `auditopinion` | Audit Opinion | [[Audit Opinion]] |
 | `auditoropinion` | Auditor Opinion | [[Audit Opinion]] |
 | `auditreportopinion` | Audit Report Opinion | [[Audit Opinion]] |
+| `availabilitybias` | Availability Bias | [[Availability Bias]] |
 | `averagecostmethod` | Average Cost Method | [[Weighted Average Cost]] |
 | `balancesheet` | Balance Sheet | [[Balance Sheet]] |
 | `balancesheetequation` | Balance Sheet Equation | [[Accounting Equation]] |
 | `balloonpayment` | Balloon Payment | [[Balloon Payment]] |
 | `balloonrisk` | Balloon Risk | [[Balloon Payment]] |
+| `bankportfolio` | Bank Portfolio | [[Bank Portfolio]] |
+| `baserateforecasting` | Base-Rate Forecasting | [[Base-Rate Forecasting]] |
 | `basicearningspershare` | Basic Earnings per Share | [[Basic Earnings per Share]] |
 | `basiceps` | Basic EPS | [[Basic Earnings per Share]] |
 | `basispointvalue` | Basis Point Value | [[Price Value of a Basis Point]] |
 | `behavioralbiasinforecasting` | Behavioral Bias in Forecasting | [[Forecasting Bias]] |
+| `behavioralmarketeffects` | Behavioral Market Effects | [[Behavioral Market Effects]] |
+| `beliefperseveranceerror` | Belief Perseverance Error | [[Belief Perseverance Error]] |
+| `besteffortsoffering` | Best-Efforts Offering | [[Best-Efforts Offering]] |
+| `bestinclassinvesting` | Best-in-Class Investing | [[Best-in-Class Investing]] |
+| `beta` | Beta | [[Beta]] |
+| `bidaskspread` | Bid-Ask Spread | [[Bid-Ask Spread]] |
 | `billandhold` | Bill and Hold | [[Bill-and-Hold Arrangement]] |
 | `billandholdarrangement` | Bill-and-Hold Arrangement | [[Bill-and-Hold Arrangement]] |
 | `bondcharacteristics` | Bond Characteristics | [[Bond Features]] |
@@ -69,18 +90,35 @@ tags:
 | `bondtrading` | Bond Trading | [[Secondary Bond Market]] |
 | `bondvaluation` | Bond Valuation | [[Bond Pricing]] |
 | `bondyieldmeasures` | Bond Yield Measures | [[Bond Yield Measures]] |
+| `bookvalueofequity` | Book Value of Equity | [[Book Value of Equity]] |
+| `bottomupforecasting` | Bottom-Up Forecasting | [[Bottom-Up Forecasting]] |
 | `bpv` | BPV | [[Price Value of a Basis Point]] |
+| `broker` | Broker | [[Broker]] |
+| `brokerdealer` | Broker-Dealer | [[Broker-Dealer]] |
+| `brokeredmarket` | Brokered Market | [[Brokered Market]] |
 | `bs` | BS | [[Balance Sheet]] |
 | `bulletbond` | Bullet Bond | [[Bullet Bond]] |
 | `bulletstructure` | Bullet Structure | [[Bullet Bond]] |
+| `businessmodel` | Business Model | [[Business Model]] |
+| `cal` | CAL | [[Capital Allocation Line]] |
+| `calendaranomaly` | Calendar Anomaly | [[Calendar Anomaly]] |
 | `callablebond` | Callable Bond | [[Callable Bond]] |
+| `callablecommonshare` | Callable Common Share | [[Callable Common Share]] |
 | `callablenote` | Callable Note | [[Callable Bond]] |
+| `callmarket` | Call Market | [[Call Market]] |
+| `capitalallocationline` | Capital Allocation Line | [[Capital Allocation Line]] |
+| `capitalassetpricingmodel` | Capital Asset Pricing Model | [[Capital Asset Pricing Model]] |
+| `capitalexpenditureforecasting` | Capital Expenditure Forecasting | [[Capital Expenditure Forecasting]] |
 | `capitalisationversusexpensing` | Capitalisation versus Expensing | [[Capitalization versus Expensing]] |
 | `capitalisedinterest` | Capitalised Interest | [[Capitalized Interest]] |
 | `capitalizationversusexpensing` | Capitalization versus Expensing | [[Capitalization versus Expensing]] |
 | `capitalizedinterest` | Capitalized Interest | [[Capitalized Interest]] |
 | `capitalizeversusexpense` | Capitalize versus Expense | [[Capitalization versus Expensing]] |
+| `capitalmarketline` | Capital Market Line | [[Capital Market Line]] |
 | `capitalstructurepriority` | Capital Structure Priority | [[Debt Seniority]] |
+| `capm` | CAPM | [[Capital Asset Pricing Model]] |
+| `cashconversioncycle` | Cash Conversion Cycle | [[Cash Conversion Cycle]] |
+| `cashdividend` | Cash Dividend | [[Cash Dividend]] |
 | `cashearningsquality` | Cash Earnings Quality | [[Operating Cash Flow Quality]] |
 | `cashflowclassification` | Cash Flow Classification | [[Cash Flow Classification]] |
 | `cashflowfromfinancing` | Cash Flow from Financing | [[Cash Flow from Financing]] |
@@ -98,24 +136,37 @@ tags:
 | `changeinaccountingestimate` | Change in Accounting Estimate | [[Change in Accounting Estimate]] |
 | `changeinaccountingprinciple` | Change in Accounting Principle | [[Change in Accounting Principle]] |
 | `clo` | CLO | [[Collateralized Debt Obligation]] |
+| `closedendfund` | Closed-End Fund | [[Closed-End Fund]] |
+| `closedendfunddiscount` | Closed-End Fund Discount | [[Closed-End Fund Discount]] |
 | `cmbs` | CMBS | [[Commercial Mortgage-Backed Securities]] |
+| `cml` | CML | [[Capital Market Line]] |
 | `cmo` | CMO | [[Collateralized Mortgage Obligation]] |
 | `coco` | CoCo | [[Contingent Convertible Bond]] |
 | `cocobond` | CoCo Bond | [[Contingent Convertible Bond]] |
+| `cognitiveerror` | Cognitive Error | [[Cognitive Error]] |
 | `collateralizeddebtobligation` | Collateralized Debt Obligation | [[Collateralized Debt Obligation]] |
 | `collateralizedloanobligation` | Collateralized Loan Obligation | [[Collateralized Debt Obligation]] |
 | `collateralizedmortgageobligation` | Collateralized Mortgage Obligation | [[Collateralized Mortgage Obligation]] |
 | `commercialmbs` | Commercial MBS | [[Commercial Mortgage-Backed Securities]] |
 | `commercialmortgagebackedsecurities` | Commercial Mortgage-Backed Securities | [[Commercial Mortgage-Backed Securities]] |
+| `commodityindex` | Commodity Index | [[Commodity Index]] |
+| `commonshare` | Common Share | [[Common Share]] |
 | `commonsizeanalysis` | Common-Size Analysis | [[Vertical Analysis]] |
 | `commonsizefinancialstatement` | Common-Size Financial Statement | [[Common-Size Financial Statement]] |
 | `commonsizestatement` | Common Size Statement | [[Common-Size Financial Statement]] |
+| `commonstock` | Common Stock | [[Common Share]] |
 | `companiontranche` | Companion Tranche | [[Support Tranche]] |
+| `conditionalvalueatrisk` | Conditional Value at Risk | [[Conditional Value at Risk]] |
+| `confirmationbias` | Confirmation Bias | [[Confirmation Bias]] |
+| `conservatismbias` | Conservatism Bias | [[Conservatism Bias]] |
 | `conservativeaccounting` | Conservative Accounting | [[Conservative Accounting]] |
 | `conservativefinancialreporting` | Conservative Financial Reporting | [[Conservative Accounting]] |
 | `contingentconvertiblebond` | Contingent Convertible Bond | [[Contingent Convertible Bond]] |
+| `continuousmarket` | Continuous Market | [[Continuous Market]] |
 | `contractionrisk` | Contraction Risk | [[Contraction Risk]] |
+| `convergenceforecasting` | Convergence Forecasting | [[Convergence Forecasting]] |
 | `convertiblebond` | Convertible Bond | [[Convertible Bond]] |
+| `convertiblepreferredshare` | Convertible Preferred Share | [[Convertible Preferred Share]] |
 | `convertibles` | Convertibles | [[Convertible Bond]] |
 | `convexity` | Convexity | [[Convexity]] |
 | `corporatebondfunding` | Corporate Bond Funding | [[Corporate Bond Funding]] |
@@ -124,6 +175,10 @@ tags:
 | `corporatedebtfunding` | Corporate Debt Funding | [[Corporate Bond Funding]] |
 | `corporatefinancialreporting` | Corporate Financial Reporting | [[Financial Reporting]] |
 | `corporateissuercreditanalysis` | Corporate Issuer Credit Analysis | [[Corporate Credit Analysis]] |
+| `correlation` | Correlation | [[Correlation]] |
+| `costleadership` | Cost Leadership | [[Cost Leadership]] |
+| `costofequity` | Cost of Equity | [[Cost of Equity]] |
+| `coststructure` | Cost Structure | [[Cost Structure]] |
 | `couponreinvestmentrisk` | Coupon Reinvestment Risk | [[Reinvestment Risk]] |
 | `covenants` | Covenants | [[Bond Covenants]] |
 | `coveredbond` | Covered Bond | [[Covered Bond]] |
@@ -137,9 +192,11 @@ tags:
 | `creditrisk` | Credit Risk | [[Credit Risk]] |
 | `creditspread` | Credit Spread | [[Credit Spread Risk]] |
 | `creditspreadrisk` | Credit Spread Risk | [[Credit Spread Risk]] |
+| `cumulativepreferredshare` | Cumulative Preferred Share | [[Cumulative Preferred Share]] |
 | `currencyduration` | Currency Duration | [[Money Duration]] |
 | `currentratio` | Current Ratio | [[Current Ratio]] |
 | `currentyield` | Current Yield | [[Current Yield]] |
+| `cvar` | CVaR | [[Conditional Value at Risk]] |
 | `da` | D/A | [[Debt-to-Assets Ratio]] |
 | `daysinventoryonhand` | Days Inventory on Hand | [[Days Inventory on Hand]] |
 | `dayspayablesoutstanding` | Days Payables Outstanding | [[Days Payables Outstanding]] |
@@ -147,7 +204,9 @@ tags:
 | `dayssalesoutstanding` | Days Sales Outstanding | [[Days Sales Outstanding]] |
 | `dbplan` | DB Plan | [[Defined Benefit Plan]] |
 | `dcplan` | DC Plan | [[Defined Contribution Plan]] |
+| `ddm` | DDM | [[Dividend Discount Model]] |
 | `de` | D/E | [[Debt-to-Equity Ratio]] |
+| `dealer` | Dealer | [[Dealer]] |
 | `debtebitdaratio` | Debt EBITDA Ratio | [[Debt-to-EBITDA Ratio]] |
 | `debtseniority` | Debt Seniority | [[Debt Seniority]] |
 | `debttoassets` | Debt to Assets | [[Debt-to-Assets Ratio]] |
@@ -168,6 +227,13 @@ tags:
 | `definedbenefitplan` | Defined Benefit Plan | [[Defined Benefit Plan]] |
 | `definedcontributionpension` | Defined Contribution Pension | [[Defined Contribution Plan]] |
 | `definedcontributionplan` | Defined Contribution Plan | [[Defined Contribution Plan]] |
+| `degreeoffinancialleverage` | Degree of Financial Leverage | [[Degree of Financial Leverage]] |
+| `degreeofoperatingleverage` | Degree of Operating Leverage | [[Degree of Operating Leverage]] |
+| `degreeoftotalleverage` | Degree of Total Leverage | [[Degree of Total Leverage]] |
+| `depositaryreceipt` | Depositary Receipt | [[Depositary Receipt]] |
+| `depositoryinstitution` | Depository Institution | [[Depository Institution]] |
+| `dfl` | DFL | [[Degree of Financial Leverage]] |
+| `differentiationstrategy` | Differentiation Strategy | [[Differentiation Strategy]] |
 | `dilutedearningspershare` | Diluted Earnings per Share | [[Diluted Earnings per Share]] |
 | `dilutedeps` | Diluted EPS | [[Diluted Earnings per Share]] |
 | `dio` | DIO | [[Days Inventory on Hand]] |
@@ -176,10 +242,16 @@ tags:
 | `discontinuedoperation` | Discontinued Operation | [[Discontinued Operations]] |
 | `discontinuedoperations` | Discontinued Operations | [[Discontinued Operations]] |
 | `discountrateandaddonrate` | Discount Rate and Add-On Rate | [[Money Market Yield Measures]] |
+| `discriminatorypricing` | Discriminatory Pricing | [[Discriminatory Pricing]] |
+| `diversification` | Diversification | [[Diversification]] |
+| `dividenddiscountmodel` | Dividend Discount Model | [[Dividend Discount Model]] |
+| `dividendreinvestmentplan` | Dividend Reinvestment Plan | [[Dividend Reinvestment Plan]] |
 | `doh` | DOH | [[Days Inventory on Hand]] |
+| `dol` | DOL | [[Degree of Operating Leverage]] |
 | `dollarduration` | Dollar Duration | [[Money Duration]] |
 | `domesticbond` | Domestic Bond | [[Domestic Bond]] |
 | `dpo` | DPO | [[Days Payables Outstanding]] |
+| `drp` | DRP | [[Dividend Reinvestment Plan]] |
 | `dso` | DSO | [[Days Sales Outstanding]] |
 | `dta` | DTA | [[Deferred Tax Asset]] |
 | `dtavaluationallowance` | DTA Valuation Allowance | [[Valuation Allowance]] |
@@ -193,23 +265,52 @@ tags:
 | `ebitmargin` | EBIT Margin | [[Operating Profit Margin]] |
 | `ebittointerestexpenseratio` | EBIT-to-Interest Expense Ratio | [[Interest Coverage Ratio]] |
 | `ebtmargin` | EBT Margin | [[Pretax Margin]] |
+| `ecn` | ECN | [[Alternative Trading System]] |
+| `economiesofscale` | Economies of Scale | [[Economies of Scale]] |
+| `economiesofscope` | Economies of Scope | [[Economies of Scope]] |
 | `effectiveconvexity` | Effective Convexity | [[Effective Convexity]] |
 | `effectiveduration` | Effective Duration | [[Effective Duration]] |
 | `effectiveincometaxrate` | Effective Income Tax Rate | [[Effective Tax Rate]] |
 | `effectiveinterestrateconvexity` | Effective Interest Rate Convexity | [[Effective Convexity]] |
 | `effectiveinterestrateduration` | Effective Interest Rate Duration | [[Effective Duration]] |
 | `effectivetaxrate` | Effective Tax Rate | [[Effective Tax Rate]] |
+| `efficientfrontier` | Efficient Frontier | [[Efficient Frontier]] |
 | `el` | EL | [[Expected Loss]] |
+| `electroniccommunicationnetwork` | Electronic Communication Network | [[Alternative Trading System]] |
+| `emotionalbias` | Emotional Bias | [[Emotional Bias]] |
 | `empiricalconvexity` | Empirical Convexity | [[Empirical Duration]] |
 | `empiricalduration` | Empirical Duration | [[Empirical Duration]] |
+| `endowment` | Endowment | [[Endowment]] |
+| `endowmentbias` | Endowment Bias | [[Endowment Bias]] |
+| `enterpriseriskmanagement` | Enterprise Risk Management | [[Enterprise Risk Management]] |
+| `enterprisevalue` | Enterprise Value | [[Enterprise Value]] |
+| `enterprisevaluemultiple` | Enterprise Value Multiple | [[Enterprise Value to EBITDA]] |
+| `enterprisevaluetoebitda` | Enterprise Value to EBITDA | [[Enterprise Value to EBITDA]] |
+| `equalweightedindex` | Equal-Weighted Index | [[Equal-Weighted Index]] |
 | `equityfreecashflow` | Equity Free Cash Flow | [[Free Cash Flow to Equity]] |
+| `equityindex` | Equity Index | [[Equity Index]] |
 | `equitymultiplier` | Equity Multiplier | [[Financial Leverage Ratio]] |
+| `equityresearchreport` | Equity Research Report | [[Equity Research Report]] |
 | `equitysettledsharebasedcompensation` | Equity-Settled Share-Based Compensation | [[Equity-Settled Share-Based Compensation]] |
 | `equitysettledsharecompensation` | Equity-Settled Share Compensation | [[Equity-Settled Share-Based Compensation]] |
+| `equityvaluationmodel` | Equity Valuation Model | [[Equity Valuation Model]] |
+| `erm` | ERM | [[Enterprise Risk Management]] |
+| `esg` | ESG | [[ESG Integration]] |
+| `esgintegration` | ESG Integration | [[ESG Integration]] |
+| `etf` | ETF | [[Exchange-Traded Fund]] |
+| `etfcreationandredemption` | ETF Creation and Redemption | [[ETF Creation and Redemption]] |
 | `etr` | ETR | [[Effective Tax Rate]] |
 | `eurobond` | Eurobond | [[Eurobond]] |
 | `eurobondmarket` | Eurobond Market | [[International Bond Markets]] |
+| `evebitda` | EV/EBITDA | [[Enterprise Value to EBITDA]] |
+| `exchange` | Exchange | [[Exchange]] |
+| `exchangetradedfund` | Exchange-Traded Fund | [[Exchange-Traded Fund]] |
+| `exdividenddate` | Ex-Dividend Date | [[Ex-Dividend Date]] |
+| `executionstep` | Execution Step | [[Execution Step]] |
 | `expectedloss` | Expected Loss | [[Expected Loss]] |
+| `expectedreturn` | Expected Return | [[Expected Return]] |
+| `expectedshortfall` | Expected Shortfall | [[Expected Shortfall]] |
+| `expenseforecasting` | Expense Forecasting | [[Expense Forecasting]] |
 | `expenserecognition` | Expense Recognition | [[Expense Recognition]] |
 | `exposureatdefault` | Exposure at Default | [[Exposure at Default]] |
 | `extensionrisk` | Extension Risk | [[Extension Risk]] |
@@ -218,6 +319,7 @@ tags:
 | `fcf` | FCF | [[Free Cash Flow]] |
 | `fcfe` | FCFE | [[Free Cash Flow to Equity]] |
 | `fcff` | FCFF | [[Free Cash Flow to the Firm]] |
+| `feedbackstep` | Feedback Step | [[Feedback Step]] |
 | `fifo` | FIFO | [[First-In First-Out]] |
 | `financelease` | Finance Lease | [[Finance Lease]] |
 | `financeleaseaccounting` | Finance Lease Accounting | [[Finance Lease]] |
@@ -232,9 +334,11 @@ tags:
 | `financialreporting` | Financial Reporting | [[Financial Reporting]] |
 | `financialreportingquality` | Financial Reporting Quality | [[Financial Reporting Quality]] |
 | `financialreportingsources` | Financial Reporting Sources | [[Financial Reporting Sources]] |
+| `financialrisk` | Financial Risk | [[Financial Risk]] |
 | `financialstatementanalysisprocess` | Financial Statement Analysis Process | [[Financial Statement Analysis Process]] |
 | `financialstatementfootnotes` | Financial Statement Footnotes | [[Financial Statement Footnotes]] |
 | `financialstatementforecasting` | Financial Statement Forecasting | [[Financial Statement Forecasting]] |
+| `financialsystemfunctions` | Financial System Functions | [[Financial System Functions]] |
 | `financingcashflow` | Financing Cash Flow | [[Cash Flow from Financing]] |
 | `firmfreecashflow` | Firm Free Cash Flow | [[Free Cash Flow to the Firm]] |
 | `firstinfirstout` | First-In First-Out | [[First-In First-Out]] |
@@ -244,39 +348,60 @@ tags:
 | `fixedincomeclassification` | Fixed-Income Classification | [[Bond Classification]] |
 | `fixedincomeindex` | Fixed-Income Index | [[Fixed-Income Index]] |
 | `fixedratebond` | Fixed-Rate Bond | [[Fixed-Rate Bond]] |
+| `floatadjustedindex` | Float-Adjusted Index | [[Float-Adjusted Market-Capitalization-Weighted Index]] |
+| `floatadjustedmarketcapitalizationweightedindex` | Float-Adjusted Market-Capitalization-Weighted Index | [[Float-Adjusted Market-Capitalization-Weighted Index]] |
 | `floater` | Floater | [[Floating-Rate Note]] |
 | `floatervaluation` | Floater Valuation | [[Floating-Rate Note Valuation]] |
 | `floatingratenote` | Floating-Rate Note | [[Floating-Rate Note]] |
 | `floatingratenotevaluation` | Floating-Rate Note Valuation | [[Floating-Rate Note Valuation]] |
+| `focusstrategy` | Focus Strategy | [[Focus Strategy]] |
 | `footnotes` | Footnotes | [[Financial Statement Footnotes]] |
 | `forecastingbias` | Forecasting Bias | [[Forecasting Bias]] |
 | `foreignbond` | Foreign Bond | [[Foreign Bond]] |
 | `forwardrate` | Forward Rate | [[Forward Rate]] |
+| `foundation` | Foundation | [[Foundation]] |
+| `framingbias` | Framing Bias | [[Framing Bias]] |
 | `fraudtriangle` | Fraud Triangle | [[Fraud Triangle]] |
 | `freecashflow` | Free Cash Flow | [[Free Cash Flow]] |
 | `freecashflows` | Free Cash Flows | [[Free Cash Flow]] |
 | `freecashflowtoequity` | Free Cash Flow to Equity | [[Free Cash Flow to Equity]] |
 | `freecashflowtothefirm` | Free Cash Flow to the Firm | [[Free Cash Flow to the Firm]] |
+| `freefloatadjustedindex` | Free-Float-Adjusted Index | [[Float-Adjusted Market-Capitalization-Weighted Index]] |
 | `frn` | FRN | [[Floating-Rate Note]] |
 | `frnvaluation` | FRN Valuation | [[Floating-Rate Note Valuation]] |
 | `fsaprocess` | FSA Process | [[Financial Statement Analysis Process]] |
 | `fullyamortizedbond` | Fully Amortized Bond | [[Fully Amortizing Bond]] |
 | `fullyamortizingbond` | Fully Amortizing Bond | [[Fully Amortizing Bond]] |
+| `fundamentallyweightedindex` | Fundamentally Weighted Index | [[Fundamentally Weighted Index]] |
 | `fundedstatus` | Funded Status | [[Pension Funded Status]] |
 | `fvoci` | FVOCI | [[Fair Value through Other Comprehensive Income]] |
 | `fvpl` | FVPL | [[Fair Value through Profit or Loss]] |
 | `fvtpl` | FVTPL | [[Fair Value through Profit or Loss]] |
+| `gdr` | GDR | [[Global Depositary Receipt]] |
 | `globalbond` | Global Bond | [[Global Bond]] |
+| `globaldepositaryreceipt` | Global Depositary Receipt | [[Global Depositary Receipt]] |
 | `goodwill` | Goodwill | [[Goodwill]] |
+| `gordongrowthmodel` | Gordon Growth Model | [[Gordon Growth Model]] |
 | `governmentbonds` | Government Bonds | [[Public-Sector Bonds]] |
 | `governmentcreditanalysis` | Government Credit Analysis | [[Sovereign Credit Analysis]] |
 | `governmentspread` | Government Spread | [[G-Spread]] |
 | `grossmargin` | Gross Margin | [[Gross Profit Margin]] |
 | `grossprofitmargin` | Gross Profit Margin | [[Gross Profit Margin]] |
 | `gspread` | G-Spread | [[G-Spread]] |
+| `hedgefundindex` | Hedge Fund Index | [[Hedge Fund Index]] |
 | `heldforsaleasset` | Held-for-Sale Asset | [[Asset Held for Sale]] |
+| `herding` | Herding | [[Herding]] |
+| `herfindahlhirschmanindex` | Herfindahl-Hirschman Index | [[Herfindahl-Hirschman Index]] |
+| `hhi` | HHI | [[Herfindahl-Hirschman Index]] |
+| `hiddenorder` | Hidden Order | [[Hidden Order]] |
+| `hindsightbias` | Hindsight Bias | [[Hindsight Bias]] |
+| `historicalforecasting` | Historical Forecasting | [[Historical Forecasting]] |
+| `holdingperiodreturn` | Holding Period Return | [[Holding Period Return]] |
 | `horizontalanalysis` | Horizontal Analysis | [[Horizontal Analysis]] |
+| `icebergorder` | Iceberg Order | [[Iceberg Order]] |
 | `ifconvertedmethod` | If-Converted Method | [[If-Converted Method]] |
+| `illusionofcontrolbias` | Illusion of Control Bias | [[Illusion of Control Bias]] |
+| `impactinvesting` | Impact Investing | [[Impact Investing]] |
 | `impairmentofassets` | Impairment of Assets | [[Asset Impairment]] |
 | `impairmentreversal` | Impairment Reversal | [[Impairment Reversal]] |
 | `impliedforwardrate` | Implied Forward Rate | [[Forward Rate]] |
@@ -284,15 +409,30 @@ tags:
 | `incometaxexpense` | Income Tax Expense | [[Income Tax Expense]] |
 | `incometaxprovision` | Income Tax Provision | [[Income Tax Expense]] |
 | `incomeyield` | Income Yield | [[Current Yield]] |
+| `indexdivisor` | Index Divisor | [[Index Divisor]] |
 | `indexedbond` | Indexed Bond | [[Index-Linked Bond]] |
 | `indexlinkedbond` | Index-Linked Bond | [[Index-Linked Bond]] |
+| `indexrebalancing` | Index Rebalancing | [[Index Rebalancing]] |
+| `indexreconstitution` | Index Reconstitution | [[Index Reconstitution]] |
+| `indexuse` | Index Use | [[Index Use]] |
+| `indifferencecurve` | Indifference Curve | [[Indifference Curve]] |
 | `indirectmethodcfo` | Indirect Method CFO | [[Indirect Method CFO]] |
 | `indirectmethodoperatingcashflow` | Indirect Method Operating Cash Flow | [[Indirect Method CFO]] |
+| `industryanalysis` | Industry Analysis | [[Industry Analysis]] |
+| `industryclassification` | Industry Classification | [[Industry Classification]] |
+| `industryconcentration` | Industry Concentration | [[Industry Concentration]] |
+| `industrysurvey` | Industry Survey | [[Industry Survey]] |
 | `inflationandfinancialforecasts` | Inflation and Financial Forecasts | [[Inflation and Financial Forecasts]] |
 | `inflationindexedbond` | Inflation-Indexed Bond | [[Inflation-Linked Bond]] |
 | `inflationinforecasting` | Inflation in Forecasting | [[Inflation and Financial Forecasts]] |
 | `inflationlinkedbond` | Inflation-Linked Bond | [[Inflation-Linked Bond]] |
+| `informationalmarketefficiency` | Informational Market Efficiency | [[Informational Market Efficiency]] |
+| `informationcascade` | Information Cascade | [[Information Cascade]] |
+| `informationprocessingerror` | Information-Processing Error | [[Information-Processing Error]] |
 | `infrequentitems` | Infrequent Items | [[Unusual or Infrequent Items]] |
+| `initialpublicoffering` | Initial Public Offering | [[Initial Public Offering]] |
+| `insurancecompany` | Insurance Company | [[Insurance Company]] |
+| `insuranceportfolio` | Insurance Portfolio | [[Insurance Portfolio]] |
 | `intangibleasset` | Intangible Asset | [[Intangible Asset]] |
 | `intangibleassets` | Intangible Assets | [[Intangible Asset]] |
 | `interestcapitalization` | Interest Capitalization | [[Capitalized Interest]] |
@@ -312,28 +452,47 @@ tags:
 | `inversefloater` | Inverse Floater | [[Inverse Floater]] |
 | `inversefloatingratenote` | Inverse Floating-Rate Note | [[Inverse Floater]] |
 | `investingcashflow` | Investing Cash Flow | [[Cash Flow from Investing]] |
+| `investmentbank` | Investment Bank | [[Investment Bank]] |
+| `investmentpolicystatement` | Investment Policy Statement | [[Investment Policy Statement]] |
 | `io` | IO | [[Interest-Only Strip]] |
 | `iostrip` | IO Strip | [[Interest-Only Strip]] |
+| `ipo` | IPO | [[Initial Public Offering]] |
+| `ipoanomaly` | IPO Anomaly | [[IPO Anomaly]] |
+| `ips` | IPS | [[Investment Policy Statement]] |
 | `is` | I/S | [[Income Statement]] |
 | `ispread` | I-Spread | [[I-Spread]] |
+| `jensensalpha` | Jensen's Alpha | [[Jensen's Alpha]] |
+| `justifiedpricetoearningsratio` | Justified Price-to-Earnings Ratio | [[Justified Price-to-Earnings Ratio]] |
 | `keyrateduration` | Key Rate Duration | [[Key Rate Duration]] |
 | `krd` | KRD | [[Key Rate Duration]] |
 | `lastinfirstout` | Last-In First-Out | [[Last-In First-Out]] |
+| `lbo` | LBO | [[Leveraged Buyout]] |
+| `leadingpricemultiple` | Leading Price Multiple | [[Leading Price Multiple]] |
 | `leaseaccountingclassification` | Lease Accounting Classification | [[Lease Classification]] |
 | `leaseclassification` | Lease Classification | [[Lease Classification]] |
 | `leasereceivable` | Lease Receivable | [[Lessor Accounting]] |
+| `legalandregulatoryconstraint` | Legal and Regulatory Constraint | [[Legal and Regulatory Constraint]] |
+| `legalrisk` | Legal Risk | [[Legal Risk]] |
 | `lessoraccounting` | Lessor Accounting | [[Lessor Accounting]] |
+| `leveragedbuyout` | Leveraged Buyout | [[Leveraged Buyout]] |
 | `lgd` | LGD | [[Loss Given Default]] |
 | `licenserevenue` | License Revenue | [[License Revenue]] |
 | `licensingrevenue` | Licensing Revenue | [[License Revenue]] |
 | `lifo` | LIFO | [[Last-In First-Out]] |
+| `limitorder` | Limit Order | [[Limit Order]] |
+| `limitstoarbitrage` | Limits to Arbitrage | [[Limits to Arbitrage]] |
 | `linker` | Linker | [[Inflation-Linked Bond]] |
+| `liquidityconstraint` | Liquidity Constraint | [[Liquidity Constraint]] |
+| `liquidityrisk` | Liquidity Risk | [[Liquidity Risk]] |
 | `localgovernmentcreditanalysis` | Local Government Credit Analysis | [[Municipal Credit Analysis]] |
 | `longlivedassetdisposal` | Long-Lived Asset Disposal | [[Long-Lived Asset Disposal]] |
+| `longposition` | Long Position | [[Long Position]] |
 | `longtermcontractaccounting` | Long-Term Contract Accounting | [[Long-Term Contract Revenue Recognition]] |
 | `longtermcontractrevenuerecognition` | Long-Term Contract Revenue Recognition | [[Long-Term Contract Revenue Recognition]] |
 | `longtermcorporatefunding` | Long-Term Corporate Funding | [[Corporate Bond Funding]] |
+| `lossaversionbias` | Loss Aversion Bias | [[Loss Aversion Bias]] |
 | `lossgivendefault` | Loss Given Default | [[Loss Given Default]] |
+| `m2` | M2 | [[M-Squared]] |
 | `macaulayduration` | Macaulay Duration | [[Macaulay Duration]] |
 | `macaulaydurationmeasure` | Macaulay Duration Measure | [[Macaulay Duration]] |
 | `macdur` | MacDur | [[Macaulay Duration]] |
@@ -341,16 +500,34 @@ tags:
 | `makewholeprovision` | Make-Whole Provision | [[Make-Whole Call]] |
 | `managementcommentary` | Management Commentary | [[Management Discussion and Analysis]] |
 | `managementdiscussionandanalysis` | Management Discussion and Analysis | [[Management Discussion and Analysis]] |
+| `managementguidance` | Management Guidance | [[Management Guidance]] |
+| `marginbuying` | Margin Buying | [[Margin Buying]] |
+| `margincall` | Margin Call | [[Margin Call]] |
+| `marketcapitalizationweightedindex` | Market-Capitalization-Weighted Index | [[Market-Capitalization-Weighted Index]] |
+| `marketcapweightedindex` | Market-Cap-Weighted Index | [[Market-Capitalization-Weighted Index]] |
+| `marketefficiency` | Market Efficiency | [[Market Efficiency]] |
+| `marketindex` | Market Index | [[Security Market Index]] |
+| `marketmodel` | Market Model | [[Market Model]] |
+| `marketorder` | Market Order | [[Market Order]] |
+| `marketportfolio` | Market Portfolio | [[Market Portfolio]] |
 | `marketpricerisk` | Market Price Risk | [[Market Price Risk]] |
+| `marketregulation` | Market Regulation | [[Market Regulation]] |
+| `marketshare` | Market Share | [[Market Share]] |
+| `marketvalueofequity` | Market Value of Equity | [[Market Value of Equity]] |
 | `matchingprinciple` | Matching Principle | [[Expense Recognition]] |
 | `matrixpricing` | Matrix Pricing | [[Matrix Pricing]] |
 | `matrixpricingmethod` | Matrix Pricing Method | [[Matrix Pricing]] |
 | `mbs` | MBS | [[Mortgage-Backed Securities]] |
 | `mda` | MD&A | [[Management Discussion and Analysis]] |
+| `mentalaccounting` | Mental Accounting | [[Mental Accounting]] |
+| `minimumvariancefrontier` | Minimum-Variance Frontier | [[Minimum-Variance Frontier]] |
 | `moddur` | ModDur | [[Modified Duration]] |
 | `modelbasedduration` | Model-Based Duration | [[Analytical Duration]] |
+| `modelrisk` | Model Risk | [[Model Risk]] |
 | `modifiedduration` | Modified Duration | [[Modified Duration]] |
 | `modifieddurationmeasure` | Modified Duration Measure | [[Modified Duration]] |
+| `modiglianimodiglianimeasure` | Modigliani-Modigliani Measure | [[M-Squared]] |
+| `momentumanomaly` | Momentum Anomaly | [[Momentum Anomaly]] |
 | `moneyduration` | Money Duration | [[Money Duration]] |
 | `moneymarketfunding` | Money Market Funding | [[Short-Term Funding]] |
 | `moneymarketrates` | Money Market Rates | [[Money Market Yield Measures]] |
@@ -358,8 +535,17 @@ tags:
 | `mortgagebackedsecurities` | Mortgage-Backed Securities | [[Mortgage-Backed Securities]] |
 | `mortgagepassthroughsecurity` | Mortgage Pass-Through Security | [[Mortgage-Backed Securities]] |
 | `mortgageprepaymentrisk` | Mortgage Prepayment Risk | [[Mortgage Prepayment Risk]] |
+| `msquared` | M-Squared | [[M-Squared]] |
+| `msquaredalpha` | M-Squared Alpha | [[M-Squared Alpha]] |
+| `mtf` | MTF | [[Alternative Trading System]] |
+| `multifactormodel` | Multifactor Model | [[Multifactor Model]] |
+| `multilateraltradingfacility` | Multilateral Trading Facility | [[Alternative Trading System]] |
 | `municipalbondanalysis` | Municipal Bond Analysis | [[Municipal Credit Analysis]] |
 | `municipalcreditanalysis` | Municipal Credit Analysis | [[Municipal Credit Analysis]] |
+| `narrowframing` | Narrow Framing | [[Narrow Framing]] |
+| `nav` | NAV | [[Net Asset Value]] |
+| `negativescreening` | Negative Screening | [[Negative Screening]] |
+| `netassetvalue` | Net Asset Value | [[Net Asset Value]] |
 | `netmargin` | Net Margin | [[Net Profit Margin]] |
 | `netoperatinglosscarryforward` | Net Operating Loss Carryforward | [[Tax Loss Carryforward]] |
 | `netpensionasset` | Net Pension Asset | [[Pension Funded Status]] |
@@ -367,6 +553,7 @@ tags:
 | `netprofitmargin` | Net Profit Margin | [[Net Profit Margin]] |
 | `netrealizablevalue` | Net Realizable Value | [[Net Realizable Value]] |
 | `nolcarryforward` | NOL Carryforward | [[Tax Loss Carryforward]] |
+| `nonfinancialrisk` | Non-Financial Risk | [[Non-Financial Risk]] |
 | `normalisedearnings` | Normalised Earnings | [[Normalized Earnings]] |
 | `normalizedearnings` | Normalized Earnings | [[Normalized Earnings]] |
 | `notestofinancialstatements` | Notes to Financial Statements | [[Financial Statement Footnotes]] |
@@ -374,64 +561,109 @@ tags:
 | `nrv` | NRV | [[Net Realizable Value]] |
 | `oas` | OAS | [[Option-Adjusted Spread]] |
 | `oid` | OID | [[Original Issue Discount]] |
+| `openendmutualfund` | Open-End Mutual Fund | [[Open-End Mutual Fund]] |
 | `operatingcashflowquality` | Operating Cash Flow Quality | [[Operating Cash Flow Quality]] |
 | `operatinglease` | Operating Lease | [[Operating Lease]] |
 | `operatingleaseaccounting` | Operating Lease Accounting | [[Operating Lease]] |
+| `operatingleverage` | Operating Leverage | [[Operating Leverage]] |
 | `operatingmargin` | Operating Margin | [[Operating Profit Margin]] |
 | `operatingprofitmargin` | Operating Profit Margin | [[Operating Profit Margin]] |
 | `operatingreturnonassets` | Operating Return on Assets | [[Operating Return on Assets]] |
+| `operatingrisk` | Operating Risk | [[Operating Risk]] |
 | `operatingroa` | Operating ROA | [[Operating Return on Assets]] |
 | `operatingsegmentdisclosure` | Operating Segment Disclosure | [[Segment Reporting]] |
+| `operationalmarketefficiency` | Operational Market Efficiency | [[Operational Market Efficiency]] |
+| `operationalrisk` | Operational Risk | [[Operational Risk]] |
+| `optimalriskyportfolio` | Optimal Risky Portfolio | [[Optimal Risky Portfolio]] |
 | `optionadjustedconvexity` | Option-Adjusted Convexity | [[Effective Convexity]] |
 | `optionadjustedduration` | Option-Adjusted Duration | [[Effective Duration]] |
 | `optionadjustedspread` | Option-Adjusted Spread | [[Option-Adjusted Spread]] |
+| `orderdrivenmarket` | Order-Driven Market | [[Order-Driven Market]] |
+| `orderpriority` | Order Priority | [[Order Priority]] |
+| `ordervalidity` | Order Validity | [[Order Validity]] |
 | `originalissuediscount` | Original Issue Discount | [[Original Issue Discount]] |
+| `overconfidencebias` | Overconfidence Bias | [[Overconfidence Bias]] |
+| `overreaction` | Overreaction | [[Overreaction]] |
 | `pac` | PAC | [[Planned Amortization Class Tranche]] |
 | `pactranche` | PAC Tranche | [[Planned Amortization Class Tranche]] |
 | `parrate` | Par Rate | [[Par Rate]] |
 | `partialduration` | Partial Duration | [[Key Rate Duration]] |
 | `partiallyamortizedbond` | Partially Amortized Bond | [[Partially Amortizing Bond]] |
 | `partiallyamortizingbond` | Partially Amortizing Bond | [[Partially Amortizing Bond]] |
+| `participatingpreferredshare` | Participating Preferred Share | [[Participating Preferred Share]] |
 | `paryield` | Par Yield | [[Par Rate]] |
+| `passivemanagement` | Passive Management | [[Passive Management]] |
 | `payablesdays` | Payables Days | [[Days Payables Outstanding]] |
 | `payablesturnover` | Payables Turnover | [[Payables Turnover]] |
 | `paymentinkindbond` | Payment-in-Kind Bond | [[Payment-in-Kind Bond]] |
+| `pbratio` | P/B Ratio | [[Price-to-Book Ratio]] |
+| `pcfratio` | P/CF Ratio | [[Price-to-Cash-Flow Ratio]] |
 | `pd` | PD | [[Probability of Default]] |
 | `pensionexpense` | Pension Expense | [[Defined Benefit Pension Expense]] |
 | `pensionfundedstatus` | Pension Funded Status | [[Pension Funded Status]] |
+| `peratio` | P/E Ratio | [[Price-to-Earnings Ratio]] |
 | `performanceobligation` | Performance Obligation | [[Performance Obligation]] |
 | `periodicpensioncost` | Periodic Pension Cost | [[Defined Benefit Pension Expense]] |
 | `permanentdifference` | Permanent Difference | [[Permanent Difference]] |
 | `permanenttaxdifference` | Permanent Tax Difference | [[Permanent Difference]] |
+| `pestle` | PESTLE | [[PESTLE Analysis]] |
+| `pestleanalysis` | PESTLE Analysis | [[PESTLE Analysis]] |
 | `phantomshares` | Phantom Shares | [[Cash-Settled Share-Based Compensation]] |
 | `pikbond` | PIK Bond | [[Payment-in-Kind Bond]] |
+| `pipe` | PIPE | [[Private Investment in Public Equity]] |
 | `plannedamortizationclasstranche` | Planned Amortization Class Tranche | [[Planned Amortization Class Tranche]] |
+| `planningstep` | Planning Step | [[Planning Step]] |
 | `po` | PO | [[Principal-Only Strip]] |
+| `politicalrisk` | Political Risk | [[Political Risk]] |
 | `portersfiveforces` | Porter's Five Forces | [[Porter's Five Forces]] |
+| `portfolioapproach` | Portfolio Approach | [[Portfolio Approach]] |
+| `portfoliobeta` | Portfolio Beta | [[Portfolio Beta]] |
+| `portfolioconstruction` | Portfolio Construction | [[Portfolio Construction]] |
 | `portfolioconvexity` | Portfolio Convexity | [[Portfolio Convexity]] |
 | `portfolioduration` | Portfolio Duration | [[Portfolio Duration]] |
+| `portfolioexpectedreturn` | Portfolio Expected Return | [[Portfolio Expected Return]] |
 | `portfoliointerestrateconvexity` | Portfolio Interest Rate Convexity | [[Portfolio Convexity]] |
+| `portfoliomanagementprocess` | Portfolio Management Process | [[Portfolio Management Process]] |
 | `portfoliomodifiedduration` | Portfolio Modified Duration | [[Portfolio Duration]] |
+| `portfoliovariance` | Portfolio Variance | [[Portfolio Variance]] |
+| `positivescreening` | Positive Screening | [[Positive Screening]] |
 | `postrip` | PO Strip | [[Principal-Only Strip]] |
+| `preferredshare` | Preferred Share | [[Preferred Share]] |
+| `preferredstock` | Preferred Stock | [[Preferred Share]] |
+| `preferredstockvaluation` | Preferred Stock Valuation | [[Preferred Stock Valuation]] |
 | `prepaymentcontractionrisk` | Prepayment Contraction Risk | [[Contraction Risk]] |
 | `prepaymentextensionrisk` | Prepayment Extension Risk | [[Extension Risk]] |
 | `prepaymentrisk` | Prepayment Risk | [[Mortgage Prepayment Risk]] |
 | `pretaxmargin` | Pretax Margin | [[Pretax Margin]] |
+| `priceearningsratio` | Price Earnings Ratio | [[Price-to-Earnings Ratio]] |
+| `pricemultiple` | Price Multiple | [[Price Multiple]] |
+| `pricereturnindex` | Price Return Index | [[Price Return Index]] |
+| `pricetobookratio` | Price-to-Book Ratio | [[Price-to-Book Ratio]] |
+| `pricetocashflowratio` | Price-to-Cash-Flow Ratio | [[Price-to-Cash-Flow Ratio]] |
+| `pricetoearningsratio` | Price-to-Earnings Ratio | [[Price-to-Earnings Ratio]] |
+| `pricetosalesratio` | Price-to-Sales Ratio | [[Price-to-Sales Ratio]] |
 | `pricevalueofabasispoint` | Price Value of a Basis Point | [[Price Value of a Basis Point]] |
+| `priceweightedindex` | Price-Weighted Index | [[Price-Weighted Index]] |
+| `pricingpower` | Pricing Power | [[Pricing Power]] |
 | `primarybondmarket` | Primary Bond Market | [[Primary Bond Market]] |
-| `primarymarket` | Primary Market | [[Primary Bond Market]] |
+| `primarymarket` | Primary Market | [[Primary Market]] |
 | `principalagent` | Principal Agent | [[Principal-Agent Relationship]] |
 | `principalagentrelationship` | Principal-Agent Relationship | [[Principal-Agent Relationship]] |
 | `principalonlystrip` | Principal-Only Strip | [[Principal-Only Strip]] |
 | `principalversusagent` | Principal versus Agent | [[Principal-Agent Relationship]] |
 | `priorityofclaims` | Priority of Claims | [[Debt Seniority]] |
 | `priorperioderror` | Prior-Period Error | [[Prior-Period Error]] |
+| `privateequity` | Private Equity | [[Private Equity]] |
+| `privateinvestmentinpublicequity` | Private Investment in Public Equity | [[Private Investment in Public Equity]] |
+| `privateplacement` | Private Placement | [[Private Placement]] |
 | `probabilityofdefault` | Probability of Default | [[Probability of Default]] |
 | `profitandlossstatement` | Profit and Loss Statement | [[Income Statement]] |
 | `propertyplantandequipmentturnover` | Property Plant and Equipment Turnover | [[Fixed Asset Turnover]] |
+| `psratio` | P/S Ratio | [[Price-to-Sales Ratio]] |
 | `publicsectorbonds` | Public-Sector Bonds | [[Public-Sector Bonds]] |
 | `purediscountbond` | Pure Discount Bond | [[Zero-Coupon Bond]] |
 | `putablebond` | Putable Bond | [[Putable Bond]] |
+| `putablecommonshare` | Putable Common Share | [[Putable Common Share]] |
 | `putbond` | Put Bond | [[Putable Bond]] |
 | `puttablebond` | Puttable Bond | [[Putable Bond]] |
 | `pv01` | PV01 | [[Price Value of a Basis Point]] |
@@ -439,45 +671,97 @@ tags:
 | `qoe` | QoE | [[Earnings Quality]] |
 | `qualityofearnings` | Quality of Earnings | [[Earnings Quality]] |
 | `quickratio` | Quick Ratio | [[Quick Ratio]] |
+| `quotedrivenmarket` | Quote-Driven Market | [[Quote-Driven Market]] |
 | `ratingmigration` | Rating Migration | [[Credit Ratings]] |
 | `rdcosts` | R&D Costs | [[Research and Development Costs]] |
 | `re` | RE | [[Retained Earnings]] |
+| `realestateindex` | Real Estate Index | [[Real Estate Index]] |
 | `receivablesturnover` | Receivables Turnover | [[Receivables Turnover]] |
 | `recoverableamount` | Recoverable Amount | [[Recoverable Amount]] |
 | `recoveryrate` | Recovery Rate | [[Recovery Rate]] |
 | `redeemablebond` | Redeemable Bond | [[Callable Bond]] |
+| `regretaversionbias` | Regret Aversion Bias | [[Regret Aversion Bias]] |
+| `regulatoryrisk` | Regulatory Risk | [[Regulatory Risk]] |
 | `reinvestmentrisk` | Reinvestment Risk | [[Reinvestment Risk]] |
 | `repo` | Repo | [[Repurchase Agreement]] |
 | `reportingquality` | Reporting Quality | [[Financial Reporting Quality]] |
+| `representativenessbias` | Representativeness Bias | [[Representativeness Bias]] |
 | `repurchaseagreement` | Repurchase Agreement | [[Repurchase Agreement]] |
+| `reputationalrisk` | Reputational Risk | [[Reputational Risk]] |
 | `researchanddevelopmentcosts` | Research and Development Costs | [[Research and Development Costs]] |
 | `researchanddevelopmentexpense` | Research and Development Expense | [[Research and Development Costs]] |
+| `residualincomemodel` | Residual Income Model | [[Residual Income Model]] |
 | `retainedearnings` | Retained Earnings | [[Retained Earnings]] |
+| `returnobjective` | Return Objective | [[Return Objective]] |
 | `returnonassets` | Return on Assets | [[Return on Assets]] |
 | `returnonequity` | Return on Equity | [[Return on Equity]] |
+| `returnoninvestedcapital` | Return on Invested Capital | [[Return on Invested Capital]] |
 | `returnonshareholdersequity` | Return on Shareholders' Equity | [[Return on Equity]] |
+| `revenueforecasting` | Revenue Forecasting | [[Revenue Forecasting]] |
 | `revenuerecognition` | Revenue Recognition | [[Revenue Recognition]] |
 | `revenuerecognitionmodel` | Revenue Recognition Model | [[Revenue Recognition]] |
 | `reversalofimpairment` | Reversal of Impairment | [[Impairment Reversal]] |
 | `reverserepo` | Reverse Repo | [[Repurchase Agreement]] |
 | `rightofuseasset` | Right-of-Use Asset | [[Right-of-Use Asset]] |
+| `rightsoffering` | Rights Offering | [[Rights Offering]] |
+| `riskacceptance` | Risk Acceptance | [[Risk Acceptance]] |
+| `riskappetite` | Risk Appetite | [[Risk Appetite]] |
+| `riskaversion` | Risk Aversion | [[Risk Aversion]] |
+| `riskavoidance` | Risk Avoidance | [[Risk Avoidance]] |
+| `riskbudgeting` | Risk Budgeting | [[Risk Budgeting]] |
+| `riskgovernance` | Risk Governance | [[Risk Governance]] |
+| `riskhedging` | Risk Hedging | [[Risk Hedging]] |
+| `riskinfrastructure` | Risk Infrastructure | [[Risk Infrastructure]] |
+| `riskinsurance` | Risk Insurance | [[Risk Insurance]] |
+| `riskmanagementframework` | Risk Management Framework | [[Risk Management Framework]] |
+| `riskobjective` | Risk Objective | [[Risk Objective]] |
+| `riskprevention` | Risk Prevention | [[Risk Prevention]] |
+| `riskreduction` | Risk Reduction | [[Risk Reduction]] |
+| `risksensitivity` | Risk Sensitivity | [[Risk Sensitivity]] |
+| `risktolerance` | Risk Tolerance | [[Risk Tolerance]] |
+| `risktransfer` | Risk Transfer | [[Risk Transfer]] |
 | `rmbs` | RMBS | [[Mortgage-Backed Securities]] |
 | `roa` | ROA | [[Return on Assets]] |
 | `roe` | ROE | [[Return on Equity]] |
+| `roic` | ROIC | [[Return on Invested Capital]] |
 | `rouasset` | ROU Asset | [[Right-of-Use Asset]] |
 | `rr` | RR | [[Recovery Rate]] |
+| `saa` | SAA | [[Strategic Asset Allocation]] |
 | `sar` | SAR | [[Cash-Settled Share-Based Compensation]] |
+| `scenarioanalysis` | Scenario Analysis | [[Scenario Analysis]] |
+| `scl` | SCL | [[Security Characteristic Line]] |
+| `seasonedequityoffering` | Seasoned Equity Offering | [[Seasoned Offering]] |
+| `seasonedoffering` | Seasoned Offering | [[Seasoned Offering]] |
 | `secondarybondmarket` | Secondary Bond Market | [[Secondary Bond Market]] |
 | `secondarymarket` | Secondary Market | [[Secondary Bond Market]] |
 | `securitization` | Securitization | [[Securitization]] |
+| `securitizer` | Securitizer | [[Securitizer]] |
+| `securitycharacteristicline` | Security Characteristic Line | [[Security Characteristic Line]] |
+| `securitymarketindex` | Security Market Index | [[Security Market Index]] |
+| `securitymarketline` | Security Market Line | [[Security Market Line]] |
 | `segmentreporting` | Segment Reporting | [[Segment Reporting]] |
+| `selfcontrolbias` | Self-Control Bias | [[Self-Control Bias]] |
+| `semistrongformmarketefficiency` | Semi-Strong-Form Market Efficiency | [[Semi-Strong-Form Market Efficiency]] |
 | `seniorityranking` | Seniority Ranking | [[Debt Seniority]] |
+| `sensitivityanalysis` | Sensitivity Analysis | [[Sensitivity Analysis]] |
+| `seo` | SEO | [[Seasoned Offering]] |
 | `sequentialpaytranche` | Sequential-Pay Tranche | [[Sequential-Pay Tranche]] |
 | `sequentialtranche` | Sequential Tranche | [[Sequential-Pay Tranche]] |
+| `settlementandcustody` | Settlement and Custody | [[Settlement and Custody]] |
+| `settlementrisk` | Settlement Risk | [[Settlement Risk]] |
+| `sharerepurchase` | Share Repurchase | [[Share Repurchase]] |
+| `sharperatio` | Sharpe Ratio | [[Sharpe Ratio]] |
+| `shelfregistration` | Shelf Registration | [[Shelf Registration]] |
+| `shortposition` | Short Position | [[Short Position]] |
+| `shortselling` | Short Selling | [[Short Selling]] |
 | `shorttermfinancing` | Short-Term Financing | [[Short-Term Funding]] |
 | `shorttermfunding` | Short-Term Funding | [[Short-Term Funding]] |
+| `singleindexmodel` | Single-Index Model | [[Single-Index Model]] |
 | `sinkingfund` | Sinking Fund | [[Sinking Fund]] |
 | `sinkingfundprovision` | Sinking Fund Provision | [[Sinking Fund]] |
+| `sizeeffect` | Size Effect | [[Size Effect]] |
+| `sml` | SML | [[Security Market Line]] |
+| `sourcesandusesofcapital` | Sources and Uses of Capital | [[Sources and Uses of Capital]] |
 | `sourcesofbondreturn` | Sources of Bond Return | [[Bond Return Components]] |
 | `sourcesoffinancialinformation` | Sources of Financial Information | [[Financial Reporting Sources]] |
 | `sovereignbonds` | Sovereign Bonds | [[Public-Sector Bonds]] |
@@ -485,44 +769,79 @@ tags:
 | `sovereignriskanalysis` | Sovereign Risk Analysis | [[Sovereign Credit Analysis]] |
 | `specificidentification` | Specific Identification | [[Specific Identification]] |
 | `specificidentificationmethod` | Specific Identification Method | [[Specific Identification]] |
+| `sponsoreddepositaryreceipt` | Sponsored Depositary Receipt | [[Sponsored Depositary Receipt]] |
 | `spotrate` | Spot Rate | [[Spot Rate]] |
 | `spreadrisk` | Spread Risk | [[Credit Spread Risk]] |
 | `spv` | SPV | [[Securitization]] |
+| `standarddeviation` | Standard Deviation | [[Standard Deviation]] |
 | `standardsetters` | Standard Setters | [[Accounting Standard-Setting Bodies]] |
 | `statementofcashflowclassification` | Statement of Cash Flow Classification | [[Cash Flow Classification]] |
 | `statementofcashflows` | Statement of Cash Flows | [[Cash Flow Statement]] |
 | `statementoffinancialposition` | Statement of Financial Position | [[Balance Sheet]] |
 | `statementofoperations` | Statement of Operations | [[Income Statement]] |
+| `statusquobias` | Status Quo Bias | [[Status Quo Bias]] |
 | `stepupbond` | Step-Up Bond | [[Step-Up Coupon Bond]] |
 | `stepupcouponbond` | Step-Up Coupon Bond | [[Step-Up Coupon Bond]] |
 | `stockbasedcompensation` | Stock-Based Compensation | [[Equity-Settled Share-Based Compensation]] |
+| `stockdividend` | Stock Dividend | [[Stock Dividend]] |
+| `stocksplit` | Stock Split | [[Stock Split]] |
 | `stockwarrant` | Stock Warrant | [[Warrant]] |
+| `stoporder` | Stop Order | [[Stop Order]] |
+| `strategicassetallocation` | Strategic Asset Allocation | [[Strategic Asset Allocation]] |
+| `stresstesting` | Stress Testing | [[Stress Testing]] |
+| `strongformmarketefficiency` | Strong-Form Market Efficiency | [[Strong-Form Market Efficiency]] |
 | `supportbond` | Support Bond | [[Support Tranche]] |
 | `supporttranche` | Support Tranche | [[Support Tranche]] |
 | `sustainableearnings` | Sustainable Earnings | [[Normalized Earnings]] |
+| `sustainablegrowthrate` | Sustainable Growth Rate | [[Sustainable Growth Rate]] |
+| `systematicrisk` | Systematic Risk | [[Systematic Risk]] |
+| `taa` | TAA | [[Tactical Asset Allocation]] |
+| `tacticalassetallocation` | Tactical Asset Allocation | [[Tactical Asset Allocation]] |
 | `taxableincome` | Taxable Income | [[Taxable Income]] |
 | `taxbase` | Tax Base | [[Tax Base]] |
 | `taxbasis` | Tax Basis | [[Tax Base]] |
+| `taxconstraint` | Tax Constraint | [[Tax Constraint]] |
 | `taxexpense` | Tax Expense | [[Income Tax Expense]] |
 | `taxlosscarryforward` | Tax Loss Carryforward | [[Tax Loss Carryforward]] |
 | `taxreturnincome` | Tax Return Income | [[Taxable Income]] |
 | `temporarydifference` | Temporary Difference | [[Temporary Difference]] |
 | `temporarytaxdifference` | Temporary Tax Difference | [[Temporary Difference]] |
 | `termstructureofinterestrates` | Term Structure of Interest Rates | [[Term Structure of Interest Rates]] |
+| `thematicinvesting` | Thematic Investing | [[Thematic Investing]] |
+| `timehorizonconstraint` | Time Horizon Constraint | [[Time Horizon Constraint]] |
 | `timesinterestearned` | Times Interest Earned | [[Interest Coverage Ratio]] |
 | `timingdifference` | Timing Difference | [[Temporary Difference]] |
+| `topdownforecasting` | Top-Down Forecasting | [[Top-Down Forecasting]] |
 | `totalassetturnover` | Total Asset Turnover | [[Total Asset Turnover]] |
+| `totalleverage` | Total Leverage | [[Total Leverage]] |
+| `totalreturnindex` | Total Return Index | [[Total Return Index]] |
+| `trailingpricemultiple` | Trailing Price Multiple | [[Trailing Price Multiple]] |
 | `treasurystockmethod` | Treasury Stock Method | [[Treasury Stock Method]] |
 | `trendanalysis` | Trend Analysis | [[Horizontal Analysis]] |
+| `treynorratio` | Treynor Ratio | [[Treynor Ratio]] |
 | `tsm` | TSM | [[Treasury Stock Method]] |
+| `twostageddm` | Two-Stage DDM | [[Two-Stage Dividend Discount Model]] |
+| `twostagedividenddiscountmodel` | Two-Stage Dividend Discount Model | [[Two-Stage Dividend Discount Model]] |
+| `underwrittenoffering` | Underwritten Offering | [[Underwritten Offering]] |
+| `uniformpricing` | Uniform Pricing | [[Uniform Pricing]] |
+| `uniquecircumstances` | Unique Circumstances | [[Unique Circumstances]] |
+| `unsponsoreddepositaryreceipt` | Unsponsored Depositary Receipt | [[Unsponsored Depositary Receipt]] |
+| `unsystematicrisk` | Unsystematic Risk | [[Unsystematic Risk]] |
 | `unusualitems` | Unusual Items | [[Unusual or Infrequent Items]] |
 | `unusualorinfrequentitems` | Unusual or Infrequent Items | [[Unusual or Infrequent Items]] |
+| `utilityfunction` | Utility Function | [[Utility Function]] |
 | `valuationallowance` | Valuation Allowance | [[Valuation Allowance]] |
+| `valueatrisk` | Value at Risk | [[Value at Risk]] |
+| `valueeffect` | Value Effect | [[Value Effect]] |
 | `valueinuse` | Value in Use | [[Value in Use]] |
+| `var` | VaR | [[Value at Risk]] |
+| `variance` | Variance | [[Variance]] |
+| `venturecapital` | Venture Capital | [[Venture Capital]] |
 | `verticalanalysis` | Vertical Analysis | [[Vertical Analysis]] |
 | `viu` | VIU | [[Value in Use]] |
 | `wac` | WAC | [[Weighted Average Cost]] |
 | `warrant` | Warrant | [[Warrant]] |
+| `weakformmarketefficiency` | Weak-Form Market Efficiency | [[Weak-Form Market Efficiency]] |
 | `weightedaveragecost` | Weighted Average Cost | [[Weighted Average Cost]] |
 | `workingcapitalratio` | Working Capital Ratio | [[Current Ratio]] |
 | `workingcapitalturnover` | Working Capital Turnover | [[Working Capital Turnover]] |
@@ -551,6 +870,7 @@ tags:
 | `互换利差` | 互换利差 | [[I-Spread]] |
 | `产权比率` | 产权比率 | [[Debt-to-Equity Ratio]] |
 | `企业自由现金流` | 企业自由现金流 | [[Free Cash Flow to the Firm]] |
+| `优先股` | 优先股 | [[Preferred Share]] |
 | `会计估计变更` | 会计估计变更 | [[Change in Accounting Estimate]] |
 | `会计准则制定机构` | 会计准则制定机构 | [[Accounting Standard-Setting Bodies]] |
 | `会计恒等式` | 会计恒等式 | [[Accounting Equation]] |
@@ -644,6 +964,7 @@ tags:
 | `审计意见` | 审计意见 | [[Audit Opinion]] |
 | `履约义务` | 履约义务 | [[Performance Obligation]] |
 | `市场价格风险` | 市场价格风险 | [[Market Price Risk]] |
+| `市盈率` | 市盈率 | [[Price-to-Earnings Ratio]] |
 | `平价利率` | 平价利率 | [[Par Rate]] |
 | `年化收益率` | 年化收益率 | [[Annualized Yield Conventions]] |
 | `库存股法` | 库存股法 | [[Treasury Stock Method]] |
@@ -672,6 +993,7 @@ tags:
 | `政府债券` | 政府债券 | [[Public-Sector Bonds]] |
 | `政府债券利差` | 政府债券利差 | [[G-Spread]] |
 | `无形资产` | 无形资产 | [[Intangible Asset]] |
+| `普通股` | 普通股 | [[Common Share]] |
 | `暂时性差异` | 暂时性差异 | [[Temporary Difference]] |
 | `最低收益率` | 最低收益率 | [[Yield to Worst]] |
 | `有效久期` | 有效久期 | [[Effective Duration]] |
@@ -715,6 +1037,7 @@ tags:
 | `经营租赁` | 经营租赁 | [[Operating Lease]] |
 | `经营资产收益率` | 经营资产收益率 | [[Operating Return on Assets]] |
 | `美元久期` | 美元久期 | [[Money Duration]] |
+| `美国存托凭证` | 美国存托凭证 | [[American Depositary Receipt]] |
 | `股权自由现金流` | 股权自由现金流 | [[Free Cash Flow to Equity]] |
 | `自由现金流` | 自由现金流 | [[Free Cash Flow]] |
 | `舞弊三角` | 舞弊三角 | [[Fraud Triangle]] |

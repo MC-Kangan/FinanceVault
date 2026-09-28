@@ -1,0 +1,51 @@
+---
+id: concept-portfolio-variance
+type: concept
+title: Portfolio Variance
+aliases: []
+first_level: 1
+topics:
+- '[[Portfolio Management]]'
+prerequisites:
+- '[[Variance]]'
+- '[[Correlation]]'
+used_in: []
+related:
+- '[[Portfolio Expected Return]]'
+- '[[Correlation]]'
+contrasts_with: []
+source_notes:
+- '[[Source - Portfolio Management Level 1 Speed Review]]'
+status: trusted
+tags:
+- cfa/level-1
+---
+# Portfolio Variance
+
+> [!summary]
+> Portfolio Variance is a Level 1 link target within Modern Portfolio Theory and Asset Pricing; keeping it atomic makes its definition, mechanics, and later-level extensions directly reusable.[^pm-l1-p6]
+
+## Level 1 - Foundation
+
+### Formula and mechanics
+
+**Portfolio Management — Modern Portfolio Theory and Asset Pricing:** Visually verified two-asset formulas: $E(R_p)=w_1R_1+w_2R_2$ and $\sigma_p^2=w_1^2\sigma_1^2+w_2^2\sigma_2^2+2w_1w_2\sigma_1\sigma_2\rho_{12}$. Diversification lowers risk when $\rho<1$; with $\rho=-1$, $\sigma_p=|w_1\sigma_1-w_2\sigma_2|$.[^pm-l1-p6]
+
+### Interpretation
+
+Use Portfolio Variance as a distinct exam concept when navigating [[Portfolio Management]]; compare it with adjacent concepts from the same source section instead of treating the chapter as one undifferentiated note.[^pm-l1-p6]
+
+### Common pitfalls
+
+Do not merge Portfolio Variance with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^pm-l1-p6]
+
+## Connections
+
+Within the source sequence, this concept is directly adjacent to [[Portfolio Expected Return]], [[Correlation]]. Use the topic map to move outward to the wider model or workflow.
+
+## Personal Notes
+<!-- personal:start -->
+<!-- personal:end -->
+
+## Sources
+[^pm-l1-p6]: [[portfolio-management-level-1-speed-review.pdf#page=6|Portfolio Management Level I Speed Review, PDF p. 6]]

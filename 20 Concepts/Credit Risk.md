@@ -8,6 +8,7 @@ aliases:
 first_level: 1
 topics:
 - '[[Fixed Income]]'
+- '[[Portfolio Management]]'
 prerequisites: []
 used_in:
 - '[[Corporate Credit Analysis]]'
@@ -15,14 +16,16 @@ related:
 - '[[Expected Loss]]'
 - '[[Modified Duration]]'
 - '[[Convexity]]'
+- '[[Market Price Risk]]'
+- '[[Liquidity Risk]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Fixed Income Level 1 Speed Review]]'
+- '[[Source - Portfolio Management Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Credit Risk
 
 > [!summary]
@@ -48,6 +51,14 @@ Macroeconomic conditions, market liquidity, and issuer-specific performance can 
 
 Do not equate credit risk only with default probability: loss severity also matters through [[Expected Loss]], while market yield spreads additionally reflect liquidity.[^fi-l1-p80][^fi-l1-p83]
 
+### Cross-topic applications
+
+<!-- merged:eq-pm-applications -->
+
+**Portfolio Management application:** Risk identification covers financial risks—market, credit, liquidity—and non-financial risks such as operational, model, settlement, legal, regulatory, political, and reputational risk.[^pm-l1-p34]
+
+**Portfolio Management application:** Risk measurement can use probability, volatility, sensitivity, scenario/stress tests, value at risk, and conditional VaR/expected shortfall. Credit-risk measurement considers exposure, default likelihood, and loss severity.[^pm-l1-p35]
+
 ## Connections
 
 - Quantify the loss component with [[Expected Loss]].
@@ -62,3 +73,5 @@ Do not equate credit risk only with default probability: loss severity also matt
 [^fi-l1-p80]: [[fixed-income-level-1-speed-review.pdf#page=80|Fixed Income Level I Speed Review, PDF p. 80]]
 [^fi-l1-p81]: [[fixed-income-level-1-speed-review.pdf#page=81|Fixed Income Level I Speed Review, PDF p. 81]]
 [^fi-l1-p83]: [[fixed-income-level-1-speed-review.pdf#page=83|Fixed Income Level I Speed Review, PDF p. 83]]
+[^pm-l1-p34]: [[portfolio-management-level-1-speed-review.pdf#page=34|Portfolio Management Level I Speed Review, PDF p. 34]]
+[^pm-l1-p35]: [[portfolio-management-level-1-speed-review.pdf#page=35|Portfolio Management Level I Speed Review, PDF p. 35]]

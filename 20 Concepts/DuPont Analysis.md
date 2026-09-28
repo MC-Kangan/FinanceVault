@@ -9,20 +9,23 @@ aliases:
 first_level: 1
 topics:
 - '[[Financial Statement Analysis]]'
+- '[[Equity Investments]]'
 prerequisites:
 - '[[Return on Equity]]'
 - '[[Net Profit Margin]]'
 used_in: []
 related:
 - '[[Return on Equity]]'
+- '[[Return on Assets]]'
+- '[[Operating Risk]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Financial Statement Analysis Level 1 Speed Review]]'
+- '[[Source - Equity Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # DuPont Analysis
 
 > [!summary]
@@ -69,6 +72,12 @@ The source figure places the two-, three-, and five-part decompositions together
 
 Do not interpret a higher [[Return on Equity]] without identifying the driver: stronger [[Net Profit Margin]] and asset efficiency have different implications from higher leverage.[^fsa-l1-p47]
 
+### Cross-topic applications
+
+<!-- merged:eq-pm-applications -->
+
+**Equity Investments application:** ROIC relative to required return helps assess value creation. ROIC/ROA are unlevered-style measures; leverage converts operating into equity returns. Visually verified: $ROE=\text{net margin}\times\text{asset turnover}\times\text{equity multiplier}$.[^eq-l1-p51]
+
 ## Connections
 
 - Begin with [[Return on Equity]].
@@ -81,3 +90,4 @@ Do not interpret a higher [[Return on Equity]] without identifying the driver: s
 
 ## Sources
 [^fsa-l1-p47]: [[financial-statement-analysis-level-1-speed-review.pdf#page=47|Financial Statement Analysis Level I Speed Review, PDF p. 47]]
+[^eq-l1-p51]: [[equity-investments-level-1-speed-review.pdf#page=51|Equity Investments Level I Speed Review, PDF p. 51]]

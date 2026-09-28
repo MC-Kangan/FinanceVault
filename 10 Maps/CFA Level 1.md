@@ -10,15 +10,19 @@ tags:
 
 # CFA Level 1
 
-## Pilot topics
+## Topics
 
 - [[Financial Statement Analysis]]
 - [[Fixed Income]]
+- [[Equity Investments]]
+- [[Portfolio Management]]
 
 ## Source coverage
 
 - [[Source - Financial Statement Analysis Level 1 Speed Review]]
 - [[Source - Fixed Income Level 1 Speed Review]]
+- [[Source - Equity Investments Level 1 Speed Review]]
+- [[Source - Portfolio Management Level 1 Speed Review]]
 
 > [!note]
-> This is a representative pilot, not a complete Level 1 curriculum map. Add later topics only after their sources are registered and reviewed.
+> This remains a partial Level 1 curriculum map. Add later topics only after their sources are registered and reviewed.

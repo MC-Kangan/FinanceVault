@@ -9,20 +9,22 @@ aliases:
 first_level: 1
 topics:
 - '[[Financial Statement Analysis]]'
+- '[[Portfolio Management]]'
 prerequisites: []
 used_in: []
 related:
 - '[[Defined Contribution Plan]]'
 - '[[Pension Funded Status]]'
 - '[[Defined Benefit Pension Expense]]'
+- '[[Endowment]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Financial Statement Analysis Level 1 Speed Review]]'
+- '[[Source - Portfolio Management Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Defined Benefit Plan
 
 > [!summary]
@@ -38,6 +40,12 @@ The employer promises a benefit based on financial and actuarial assumptions and
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-pension-p67]
 
+### Cross-topic applications
+
+<!-- merged:eq-pm-applications -->
+
+**Portfolio Management application:** Investor types differ in objectives and constraints. Defined-contribution participants bear investment risk; defined-benefit sponsors promise benefits. Endowments/foundations, banks, and insurers have different liquidity, horizon, liability, regulatory, and tax profiles.[^pm-l1-p19]
+
 ## Connections
 
 - [[Defined Contribution Plan]]
@@ -50,3 +58,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-pension-p67]: [[financial-statement-analysis-level-1-speed-review.pdf#page=67|Financial Statement Analysis Level I Speed Review, PDF p. 67]]
+[^pm-l1-p19]: [[portfolio-management-level-1-speed-review.pdf#page=19|Portfolio Management Level I Speed Review, PDF p. 19]]

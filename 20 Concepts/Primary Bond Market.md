@@ -3,7 +3,6 @@ id: concept-primary-bond-market
 type: concept
 title: Primary Bond Market
 aliases:
-- Primary Market
 - Bond Issuance
 - 债券一级市场
 first_level: 1

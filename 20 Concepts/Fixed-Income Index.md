@@ -8,17 +8,20 @@ aliases:
 first_level: 1
 topics:
 - '[[Fixed Income]]'
+- '[[Equity Investments]]'
 prerequisites: []
 used_in: []
-related: []
+related:
+- '[[Commodity Index]]'
+- '[[Price-Weighted Index]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Fixed Income Level 1 Speed Review]]'
+- '[[Source - Equity Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Fixed-Income Index
 
 > [!summary]
@@ -35,6 +38,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-markets-p22]
 
+### Cross-topic applications
+
+<!-- merged:eq-pm-applications -->
+
+**Equity Investments application:** Index categories include broad/style equity, sector, fixed-income, real-estate, hedge-fund, and commodity indexes; construction and data biases differ.[^eq-l1-p22]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -45,3 +54,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-markets-p22]: [[fixed-income-level-1-speed-review.pdf#page=22|Fixed Income Level I Speed Review, PDF p. 22]]
+[^eq-l1-p22]: [[equity-investments-level-1-speed-review.pdf#page=22|Equity Investments Level I Speed Review, PDF p. 22]]

@@ -1,0 +1,49 @@
+---
+id: concept-short-position
+type: concept
+title: Short Position
+aliases: []
+first_level: 1
+topics:
+- '[[Equity Investments]]'
+prerequisites: []
+used_in: []
+related:
+- '[[Long Position]]'
+- '[[Short Selling]]'
+contrasts_with: []
+source_notes:
+- '[[Source - Equity Investments Level 1 Speed Review]]'
+status: trusted
+tags:
+- cfa/level-1
+---
+# Short Position
+
+> [!summary]
+> Short Position is a Level 1 link target within Financial Markets and Trading; keeping it atomic makes its definition, mechanics, and later-level extensions directly reusable.[^eq-l1-p12]
+
+## Level 1 - Foundation
+
+### Formula and mechanics
+
+**Equity Investments — Financial Markets and Trading:** Long positions gain from price increases; short positions gain from declines. Long options have limited downside and optionality; short options receive premium but assume exercise risk.[^eq-l1-p12]
+
+### Interpretation
+
+Use Short Position as a distinct exam concept when navigating [[Equity Investments]]; compare it with adjacent concepts from the same source section instead of treating the chapter as one undifferentiated note.[^eq-l1-p12]
+
+### Common pitfalls
+
+Do not merge Short Position with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p12]
+
+## Connections
+
+Within the source sequence, this concept is directly adjacent to [[Long Position]], [[Short Selling]]. Use the topic map to move outward to the wider model or workflow.
+
+## Personal Notes
+<!-- personal:start -->
+<!-- personal:end -->
+
+## Sources
+[^eq-l1-p12]: [[equity-investments-level-1-speed-review.pdf#page=12|Equity Investments Level I Speed Review, PDF p. 12]]

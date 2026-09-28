@@ -9,6 +9,7 @@ aliases:
 first_level: 1
 topics:
 - '[[Financial Statement Analysis]]'
+- '[[Equity Investments]]'
 prerequisites:
 - '[[Free Cash Flow]]'
 used_in:
@@ -16,14 +17,15 @@ used_in:
 - '[[Corporate Credit Analysis]]'
 related:
 - '[[Free Cash Flow to Equity]]'
+- '[[Cash Dividend]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Financial Statement Analysis Level 1 Speed Review]]'
+- '[[Source - Equity Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Free Cash Flow to the Firm
 
 > [!summary]
@@ -55,6 +57,12 @@ After-tax interest is added back because FCFF is measured before distributing ca
 
 Do not subtract net borrowing in FCFF: financing flows allocate cash among capital providers rather than determine the total cash available to them.[^fsa-l1-p40]
 
+### Cross-topic applications
+
+<!-- merged:eq-pm-applications -->
+
+**Equity Investments application:** Valuation families: present value (DDM, FCFE, FCFF, residual income), market multiples (P/E, P/B, P/S, P/CF, EV multiples), and asset-based valuation.[^eq-l1-p71]
+
 ## Connections
 
 - [[Free Cash Flow]] is the umbrella concept.
@@ -67,4 +75,4 @@ Do not subtract net borrowing in FCFF: financing flows allocate cash among capit
 
 ## Sources
 [^fsa-l1-p40]: [[financial-statement-analysis-level-1-speed-review.pdf#page=40|Financial Statement Analysis Level I Speed Review, PDF p. 40]]
-
+[^eq-l1-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]

@@ -9,20 +9,22 @@ aliases:
 first_level: 1
 topics:
 - '[[Financial Statement Analysis]]'
+- '[[Equity Investments]]'
 prerequisites:
 - '[[Free Cash Flow]]'
 - '[[Free Cash Flow to the Firm]]'
 used_in: []
 related:
 - '[[Free Cash Flow to the Firm]]'
+- '[[Asset-Based Valuation]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Financial Statement Analysis Level 1 Speed Review]]'
+- '[[Source - Equity Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Free Cash Flow to Equity
 
 > [!summary]
@@ -52,6 +54,14 @@ Subtracting after-tax interest removes the debt holders' financing claim, while 
 
 Net borrowing can be negative when debt repayment exceeds new borrowing, reducing cash available to equity holders.[^fsa-l1-p40]
 
+### Cross-topic applications
+
+<!-- merged:eq-pm-applications -->
+
+**Equity Investments application:** Valuation families: present value (DDM, FCFE, FCFF, residual income), market multiples (P/E, P/B, P/S, P/CF, EV multiples), and asset-based valuation.[^eq-l1-p71]
+
+**Equity Investments application:** FCFE valuation: $V_0=\sum_{t=1}^{\infty}FCFE_t/(1+r)^t$. FCFE is dividend-paying capacity and can value non-dividend payers. Price multiples use earnings/book/sales/cash flow; trailing uses current/historical and leading uses forward denominators.[^eq-l1-p74]
+
 ## Connections
 
 - [[Free Cash Flow]] distinguishes distributable cash from accounting earnings.
@@ -63,4 +73,5 @@ Net borrowing can be negative when debt repayment exceeds new borrowing, reducin
 
 ## Sources
 [^fsa-l1-p40]: [[financial-statement-analysis-level-1-speed-review.pdf#page=40|Financial Statement Analysis Level I Speed Review, PDF p. 40]]
-
+[^eq-l1-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
+[^eq-l1-p74]: [[equity-investments-level-1-speed-review.pdf#page=74|Equity Investments Level I Speed Review, PDF p. 74]]
