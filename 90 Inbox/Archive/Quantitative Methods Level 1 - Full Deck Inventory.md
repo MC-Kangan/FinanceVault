@@ -4,7 +4,7 @@ type: proposal
 title: Quantitative Methods Level 1 - Full Deck Inventory
 target: Quantitative Methods
 change_type: source-inventory
-status: pending-review
+status: merged
 tags:
   - cfa/level-1
 ---
@@ -52,9 +52,9 @@ The six content chapters jointly cover every reusable study page in the deck.[^q
 - [x] Representative pages from all six chapters visually inspected.
 - [x] Existing canonical filenames searched before proposing reusable nodes.
 - [x] Trusted concept notes and maps remain unchanged.
-- [ ] User approves page classification and chapter boundaries.
-- [ ] Every formula-heavy source page is visually checked during merge.
-- [ ] Final graph clustering is visually inspected after merge.
+- [x] User approves page classification and chapter boundaries.
+- [x] Every promoted formula is visually checked against its rendered source page during merge.
+- [x] Final graph clustering is visually inspected after merge.
 
 ## Evidence
 

@@ -43,6 +43,7 @@ This includes everything in `20 Concepts/` and the curriculum maps in `10 Maps/`
 | Blue | Fixed Income concepts |
 | Red | Equity Investments concepts |
 | Teal | Portfolio Management concepts |
+| Pink | Quantitative Methods concepts |
 
 ## Colour-group queries
 
@@ -51,15 +52,16 @@ Add the groups in this order because the first matching group controls a node's 
 | Order | Query | Meaning |
 | --- | --- | --- |
 | 1 | `file:"CFA Level 1"` | CFA level maps |
-| 2 | `file:"Financial Statement Analysis" OR file:"Fixed Income" OR file:"Equity Investments" OR file:"Portfolio Management"` | Major topic maps |
+| 2 | `file:"Financial Statement Analysis" OR file:"Fixed Income" OR file:"Equity Investments" OR file:"Portfolio Management" OR file:"Quantitative Methods"` | Major topic maps |
 | 3 | `tag:#map/subtopic` | Chapter/subtopic maps |
 | 4 | Pairwise combinations of two `topics` property queries | Cross-topic concepts |
 | 5 | `path:"20 Concepts" [topics:"Financial Statement Analysis"]` | FSA concepts |
 | 6 | `path:"20 Concepts" [topics:"Fixed Income"]` | Fixed Income concepts |
 | 7 | `path:"20 Concepts" [topics:"Equity Investments"]` | Equity concepts |
 | 8 | `path:"20 Concepts" [topics:"Portfolio Management"]` | Portfolio concepts |
+| 9 | `path:"20 Concepts" [topics:"Quantitative Methods"]` | Quantitative Methods concepts |
 
-The purple group in `.obsidian/graph.json` enumerates every pair of the four current major topics. Keep it before the single-topic colour groups so a shared concept receives the cross-topic colour first. The property filters are intentional: plain-text searches can produce false matches from prose or citations.
+The purple group in `.obsidian/graph.json` enumerates every pair of the five current major topics. Keep it before the single-topic colour groups so a shared concept receives the cross-topic colour first. The property filters are intentional: plain-text searches can produce false matches from prose or citations.
 
 ## Display choices
 
@@ -75,7 +77,7 @@ The purple group in `.obsidian/graph.json` enumerates every pair of the four cur
 3. Under **Filters**, paste the global graph filter above.
 4. Turn off **Tags** and **Attachments**.
 5. Turn on **Existing files only** and turn off orphan display.
-6. Under **Groups**, add the eight groups in the listed order and choose the colours from the legend. Copy the complete purple cross-topic query from `.obsidian/graph.json`.
+6. Under **Groups**, add the nine groups in the listed order and choose the colours from the legend. Copy the complete purple cross-topic query from `.obsidian/graph.json`.
 7. Under **Display**, enable arrows and slightly increase node and link thickness.
 
 See the [official Graph view guide](https://help.obsidian.md/plugins/graph) for navigation and force controls.

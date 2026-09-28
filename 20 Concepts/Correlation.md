@@ -6,6 +6,7 @@ aliases: []
 first_level: 1
 topics:
 - '[[Portfolio Management]]'
+- '[[Quantitative Methods]]'
 prerequisites: []
 used_in: []
 related:
@@ -14,6 +15,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Portfolio Management Level 1 Speed Review]]'
+- '[[Source - Quantitative Methods Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -37,6 +39,10 @@ Use Correlation as a distinct exam concept when navigating [[Portfolio Managemen
 
 Do not merge Correlation with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^pm-l1-p6]
 
+### Quantitative Methods context
+
+Correlation standardizes covariance to a scale from minus one to plus one.[^quant-l1-p19]
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Portfolio Variance]], [[Diversification]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +53,5 @@ Within the source sequence, this concept is directly adjacent to [[Portfolio Var
 
 ## Sources
 [^pm-l1-p6]: [[portfolio-management-level-1-speed-review.pdf#page=6|Portfolio Management Level I Speed Review, PDF p. 6]]
+
+[^quant-l1-p19]: [[quantitative-methods-level-1-speed-review.pdf#page=19|Quantitative Methods Level I Speed Review, PDF p. 19]]

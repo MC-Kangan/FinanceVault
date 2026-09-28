@@ -15,7 +15,7 @@
       }
     },
     {
-      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Equity Investments\" OR file:\"Portfolio Management\"",
+      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Equity Investments\" OR file:\"Portfolio Management\" OR file:\"Quantitative Methods\"",
       "color": {
         "a": 1,
         "rgb": 16096779
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "path:\"20 Concepts\" ([topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Equity Investments\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Portfolio Management\"] OR [topics:\"Fixed Income\"] [topics:\"Equity Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Portfolio Management\"] OR [topics:\"Equity Investments\"] [topics:\"Portfolio Management\"])",
+      "query": "path:\"20 Concepts\" ([topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Equity Investments\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Portfolio Management\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Quantitative Methods\"] OR [topics:\"Fixed Income\"] [topics:\"Equity Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Portfolio Management\"] OR [topics:\"Fixed Income\"] [topics:\"Quantitative Methods\"] OR [topics:\"Equity Investments\"] [topics:\"Portfolio Management\"] OR [topics:\"Equity Investments\"] [topics:\"Quantitative Methods\"] OR [topics:\"Portfolio Management\"] [topics:\"Quantitative Methods\"])",
       "color": {
         "a": 1,
         "rgb": 10980346
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 2796160
       }
+    },
+    {
+      "query": "path:\"20 Concepts\" [topics:\"Quantitative Methods\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 0.85,
   "linkDistance": 120,
-  "scale": 0.2621993413978767,
+  "scale": 0.34126434415364193,
   "close": true
 }

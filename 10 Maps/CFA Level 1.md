@@ -12,6 +12,7 @@ tags:
 
 ## Topics
 
+- [[Quantitative Methods]]
 - [[Financial Statement Analysis]]
 - [[Fixed Income]]
 - [[Equity Investments]]
@@ -19,6 +20,7 @@ tags:
 
 ## Source coverage
 
+- [[Source - Quantitative Methods Level 1 Speed Review]]
 - [[Source - Financial Statement Analysis Level 1 Speed Review]]
 - [[Source - Fixed Income Level 1 Speed Review]]
 - [[Source - Equity Investments Level 1 Speed Review]]

@@ -6,6 +6,7 @@ aliases: []
 first_level: 1
 topics:
 - '[[Portfolio Management]]'
+- '[[Quantitative Methods]]'
 prerequisites:
 - '[[Variance]]'
 - '[[Correlation]]'
@@ -16,6 +17,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Portfolio Management Level 1 Speed Review]]'
+- '[[Source - Quantitative Methods Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -39,6 +41,10 @@ Use Portfolio Variance as a distinct exam concept when navigating [[Portfolio Ma
 
 Do not merge Portfolio Variance with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^pm-l1-p6]
 
+### Quantitative Methods context
+
+Portfolio variance combines asset variances, weights, and pairwise covariances.[^quant-l1-p26]
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Portfolio Expected Return]], [[Correlation]]. Use the topic map to move outward to the wider model or workflow.
@@ -49,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Portfolio Exp
 
 ## Sources
 [^pm-l1-p6]: [[portfolio-management-level-1-speed-review.pdf#page=6|Portfolio Management Level I Speed Review, PDF p. 6]]
+
+[^quant-l1-p26]: [[quantitative-methods-level-1-speed-review.pdf#page=26|Quantitative Methods Level I Speed Review, PDF p. 26]]

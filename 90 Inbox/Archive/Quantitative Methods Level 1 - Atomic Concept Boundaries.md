@@ -4,7 +4,7 @@ type: proposal
 title: Quantitative Methods Level 1 - Atomic Concept Boundaries
 target: Quantitative Methods
 change_type: concept-bundle
-status: pending-review
+status: merged
 tags:
   - cfa/level-1
 ---
@@ -59,10 +59,10 @@ No crops are created at proposal stage. During merge, the most useful candidates
 - [x] Obvious existing concepts are designated for enrichment, not duplication.
 - [x] Alias candidates are recorded but not committed to trusted notes.
 - [x] Trusted concepts and Personal Notes remain unchanged.
-- [ ] User approves the atomic boundaries.
-- [ ] Full normalized-alias collision check passes during merge.
-- [ ] Every promoted formula and selected figure is visually verified.
-- [ ] Vault validation passes after merge.
+- [x] User approves the atomic boundaries.
+- [x] Full normalized-alias collision check passes during merge.
+- [x] Every promoted formula is visually verified; no figure crop was promoted in this merge.
+- [x] Vault validation passes after merge.
 
 ## Evidence
 
