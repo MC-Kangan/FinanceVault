@@ -30,9 +30,11 @@ tags:
 
 An asset's tax base is the amount deductible against future taxable benefits. A liability's tax base is its carrying amount less amounts deductible for tax in future periods. The source applies these rules to depreciable assets, receivables, research and development costs, payables, warranties, and customer advances.[^fsa-tax-p74][^fsa-tax-p75]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Asset and liability mechanics
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-tax-p74]
+For an asset, tax base is the amount deductible against future taxable economic benefits. For a liability, tax base is carrying value less amounts deductible in future periods. The source shows payables with tax base equal to carrying value, while warranty liabilities and customer advances can have zero tax base.[^fsa-detail-p75]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fsa-tax-p74]: [[financial-statement-analysis-level-1-speed-review.pdf#page=74|Financial Statement Analysis Level I Speed Review, PDF p. 74]]
 [^fsa-tax-p75]: [[financial-statement-analysis-level-1-speed-review.pdf#page=75|Financial Statement Analysis Level I Speed Review, PDF p. 75]]
+[^fsa-detail-p75]: [[financial-statement-analysis-level-1-speed-review.pdf#page=75|Financial Statement Analysis Level I Speed Review, PDF p. 75]]

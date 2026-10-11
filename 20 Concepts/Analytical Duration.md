@@ -35,6 +35,12 @@ Analytical duration estimates interest-rate sensitivity from a valuation model a
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p73]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Analytical duration comes from valuation formulas and commonly treats benchmark-yield changes and spreads as independent. Empirical duration uses historical statistical relationships and can capture spread correlation and nonparallel moves; the deck notes it may be lower than analytical duration for corporate bonds.[^fi-risk-p73]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -45,3 +51,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p73]: [[fixed-income-level-1-speed-review.pdf#page=73|Fixed Income Level I Speed Review, PDF p. 73]]
+[^fi-risk-p73]: [[fixed-income-level-1-speed-review.pdf#page=73|Fixed Income Level I Speed Review, PDF p. 73]]

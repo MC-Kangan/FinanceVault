@@ -31,9 +31,11 @@ tags:
 
 Forecasting bias includes overconfidence, illusion of control, conservatism, representativeness, and confirmation bias.[^fsa-l1-p85]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Forecast challenge
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p85]
+Use the named forecasting biases in the source as pitfalls and use Porter's Five Forces to challenge industry assumptions rather than extrapolating company results mechanically.[^fsa-detail-p85]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p85]: [[financial-statement-analysis-level-1-speed-review.pdf#page=85|Financial Statement Analysis Level I Speed Review, PDF p. 85]]
+[^fsa-detail-p85]: [[financial-statement-analysis-level-1-speed-review.pdf#page=85|Financial Statement Analysis Level I Speed Review, PDF p. 85]]

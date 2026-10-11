@@ -31,9 +31,18 @@ tags:
 
 FVOCI measures an asset at fair value while specified unrealized changes are recognized in other comprehensive income.[^fsa-l1-p31]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Measurement comparison
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p31]
+| Category | Balance-sheet measurement | Performance presentation |
+| --- | --- | --- |
+| Amortized cost | Amortized cost | Realized gain or loss in income |
+| FVPL | Fair value | Realized and unrealized gains or losses in income |
+| FVOCI | Fair value | Realized gains or losses in income; unrealized gains or losses in OCI |
+[^fsa-detail-p31]
+
+Classification first distinguishes debt from equity and then considers the business model and contractual cash-flow characteristics. Financial liabilities are generally measured at amortized cost or fair value in the source framework.[^fsa-detail-p33]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +54,5 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p31]: [[financial-statement-analysis-level-1-speed-review.pdf#page=31|Financial Statement Analysis Level I Speed Review, PDF p. 31]]
+[^fsa-detail-p31]: [[financial-statement-analysis-level-1-speed-review.pdf#page=31|Financial Statement Analysis Level I Speed Review, PDF p. 31]]
+[^fsa-detail-p33]: [[financial-statement-analysis-level-1-speed-review.pdf#page=33|Financial Statement Analysis Level I Speed Review, PDF p. 33]]

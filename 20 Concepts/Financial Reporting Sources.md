@@ -31,9 +31,11 @@ tags:
 
 Financial reporting sources include financial statements, footnotes, regulatory filings, management commentary, and other company disclosures.[^fsa-l1-p7]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Evidence hierarchy
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p7]
+The source hierarchy includes the financial statements and notes, management discussion, the audit report, and supplementary evidence such as proxy materials, conference calls, and press releases. Source reliability and whether information is audited matter to the analysis.[^fsa-detail-p7]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p7]: [[financial-statement-analysis-level-1-speed-review.pdf#page=7|Financial Statement Analysis Level I Speed Review, PDF p. 7]]
+[^fsa-detail-p7]: [[financial-statement-analysis-level-1-speed-review.pdf#page=7|Financial Statement Analysis Level I Speed Review, PDF p. 7]]

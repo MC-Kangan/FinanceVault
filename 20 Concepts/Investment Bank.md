@@ -37,6 +37,14 @@ Use Investment Bank as a distinct exam concept when navigating [[Equity Investme
 
 Do not merge Investment Bank with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p5]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A broker searches for counterparties without trading against the client; a block broker serves large orders. A dealer trades from inventory and supplies liquidity. Combining the roles can create an agency-versus-principal conflict. An investment bank advises issuers and arranges transactions.[^eq-enrich-p5]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Broker]], [[Exchange]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Broker]], [[E
 
 ## Sources
 [^eq-l1-p5]: [[equity-investments-level-1-speed-review.pdf#page=5|Equity Investments Level I Speed Review, PDF p. 5]]
+
+[^eq-enrich-p5]: [[equity-investments-level-1-speed-review.pdf#page=5|Equity Investments Level I Speed Review, PDF p. 5]]

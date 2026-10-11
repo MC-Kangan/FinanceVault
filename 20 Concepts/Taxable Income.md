@@ -40,9 +40,15 @@ $$
 $$
 [^fsa-tax-p73]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Tax reconciliation
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-tax-p73]
+$$
+Income\ tax\ expense=Current\ tax\ payable+\Delta DTL-\Delta DTA
+$$[^fsa-detail-p73]
+
+Taxable income determines current tax payable, while pretax accounting income is the financial-reporting measure used in the net-income bridge.[^fsa-detail-p73]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -54,3 +60,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-tax-p73]: [[financial-statement-analysis-level-1-speed-review.pdf#page=73|Financial Statement Analysis Level I Speed Review, PDF p. 73]]
+[^fsa-detail-p73]: [[financial-statement-analysis-level-1-speed-review.pdf#page=73|Financial Statement Analysis Level I Speed Review, PDF p. 73]]

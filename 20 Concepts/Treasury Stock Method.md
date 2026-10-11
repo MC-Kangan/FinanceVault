@@ -32,9 +32,15 @@ tags:
 
 The treasury stock method assumes option proceeds repurchase shares at the average market price; only net incremental shares enter diluted EPS.[^fsa-l1-p25]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Incremental shares
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p25]
+$$
+Incremental\ shares=Shares\ issued\ on\ exercise-Shares\ repurchased\ with\ exercise\ proceeds
+$$[^fsa-detail-p25]
+
+Time-weight the incremental shares when the options or warrants were not outstanding for the full period.[^fsa-detail-p25]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +52,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p25]: [[financial-statement-analysis-level-1-speed-review.pdf#page=25|Financial Statement Analysis Level I Speed Review, PDF p. 25]]
+[^fsa-detail-p25]: [[financial-statement-analysis-level-1-speed-review.pdf#page=25|Financial Statement Analysis Level I Speed Review, PDF p. 25]]

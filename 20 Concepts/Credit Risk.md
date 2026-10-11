@@ -59,6 +59,15 @@ Do not equate credit risk only with default probability: loss severity also matt
 
 **Portfolio Management application:** Risk measurement can use probability, volatility, sensitivity, scenario/stress tests, value at risk, and conditional VaR/expected shortfall. Credit-risk measurement considers exposure, default likelihood, and loss severity.[^pm-l1-p35]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Credit risk includes both default likelihood and loss severity. Unsecured investment-grade analysis emphasizes probability of default, while high-yield analysis also emphasizes collateral, covenants, and loss given default.[^fi-credit-p80][^fi-credit-p81]
+
+$$Expected\ loss=PD\times LGD,\qquad LGD=EAD\times(1-RR)$$
+[^fi-credit-p80]
+
 ## Connections
 
 - Quantify the loss component with [[Expected Loss]].
@@ -75,3 +84,5 @@ Do not equate credit risk only with default probability: loss severity also matt
 [^fi-l1-p83]: [[fixed-income-level-1-speed-review.pdf#page=83|Fixed Income Level I Speed Review, PDF p. 83]]
 [^pm-l1-p34]: [[portfolio-management-level-1-speed-review.pdf#page=34|Portfolio Management Level I Speed Review, PDF p. 34]]
 [^pm-l1-p35]: [[portfolio-management-level-1-speed-review.pdf#page=35|Portfolio Management Level I Speed Review, PDF p. 35]]
+[^fi-credit-p80]: [[fixed-income-level-1-speed-review.pdf#page=80|Fixed Income Level I Speed Review, PDF p. 80]]
+[^fi-credit-p81]: [[fixed-income-level-1-speed-review.pdf#page=81|Fixed Income Level I Speed Review, PDF p. 81]]

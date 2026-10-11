@@ -46,6 +46,15 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-features-p11]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+The issuer owns the call option, so the callable bond has capped upside, greater reinvestment risk, and normally a lower price and higher yield than an equivalent straight bond. A make-whole call derives its price from a sovereign benchmark yield plus a spread.[^fi-features-p11]
+
+$$V_{callable}=V_{straight}-V_{call\ option}$$
+[^fi-features-p11]
+
 ## Connections
 
 - [[Putable Bond]]

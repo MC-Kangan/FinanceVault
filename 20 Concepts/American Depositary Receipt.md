@@ -39,6 +39,14 @@ Use American Depositary Receipt as a distinct exam concept when navigating [[Equ
 
 Do not merge American Depositary Receipt with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p41]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A sponsored issue directly involves the foreign company and gives investors the same rights as direct common holders. An unsponsored issue does not involve the company; investors receive dividends but the DR issuer holds voting rights. ADRs are US-dollar securities trading in the United States; GDRs are issued outside both the home country and the United States.[^eq-enrich-p41]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Unsponsored Depositary Receipt]], [[Global Depositary Receipt]]. Use the topic map to move outward to the wider model or workflow.
@@ -49,3 +57,5 @@ Within the source sequence, this concept is directly adjacent to [[Unsponsored D
 
 ## Sources
 [^eq-l1-p41]: [[equity-investments-level-1-speed-review.pdf#page=41|Equity Investments Level I Speed Review, PDF p. 41]]
+
+[^eq-enrich-p41]: [[equity-investments-level-1-speed-review.pdf#page=41|Equity Investments Level I Speed Review, PDF p. 41]]

@@ -37,6 +37,14 @@ Use Industry Analysis as a distinct exam concept when navigating [[Equity Invest
 
 Do not merge Industry Analysis with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p54]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Industry structure explains persistent profitability differences and can act as a ceiling, not a floor, on company returns. Competition tends to pull profitability toward an industry base rate, so industry analysis improves forecasts and can reveal overlooked candidates.[^eq-enrich-p54]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Degree of Total Leverage]], [[Industry Classification]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Degree of Tot
 
 ## Sources
 [^eq-l1-p54]: [[equity-investments-level-1-speed-review.pdf#page=54|Equity Investments Level I Speed Review, PDF p. 54]]
+
+[^eq-enrich-p54]: [[equity-investments-level-1-speed-review.pdf#page=54|Equity Investments Level I Speed Review, PDF p. 54]]

@@ -36,6 +36,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-credit-p82]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Agencies use quantitative and qualitative forward-looking analysis and may notch an issue from the issuer rating based on seniority. Ratings can be sticky, lag market pricing, focus narrowly on credit, and miss unforeseen changes.[^fi-credit-p82]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

@@ -57,4 +57,3 @@ Margin comparisons require consistent revenue and net-income definitions and att
 
 ## Sources
 [^fsa-l1-p46]: [[financial-statement-analysis-level-1-speed-review.pdf#page=46|Financial Statement Analysis Level I Speed Review, PDF p. 46]]
-

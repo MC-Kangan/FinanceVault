@@ -32,9 +32,11 @@ tags:
 
 Material unusual or infrequent items are separately disclosed so analysts can distinguish persistent from nonrecurring performance.[^fsa-l1-p20]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Separate presentation
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p20]
+Material or relevant items are separately disclosed. The source examples include gains or losses on asset sales, impairments, and restructuring charges; separate presentation helps the analyst distinguish recurring from unusual effects.[^fsa-detail-p20]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p20]: [[financial-statement-analysis-level-1-speed-review.pdf#page=20|Financial Statement Analysis Level I Speed Review, PDF p. 20]]
+[^fsa-detail-p20]: [[financial-statement-analysis-level-1-speed-review.pdf#page=20|Financial Statement Analysis Level I Speed Review, PDF p. 20]]

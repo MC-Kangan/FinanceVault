@@ -33,9 +33,11 @@ tags:
 
 Cash-settled awards include stock-appreciation rights and phantom shares. They avoid share dilution but create a cash obligation; fair value is remeasured at each balance-sheet date and expense is recognized over the service period.[^fsa-share-p70]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Liability remeasurement
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-share-p70]
+Cash-settled awards include stock-appreciation rights and phantom shares. Remeasure the liability to fair value at each balance-sheet date and recognize compensation expense over the service period.[^fsa-detail-p70]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -47,3 +49,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-share-p70]: [[financial-statement-analysis-level-1-speed-review.pdf#page=70|Financial Statement Analysis Level I Speed Review, PDF p. 70]]
+[^fsa-detail-p70]: [[financial-statement-analysis-level-1-speed-review.pdf#page=70|Financial Statement Analysis Level I Speed Review, PDF p. 70]]

@@ -44,6 +44,14 @@ Do not merge Private Investment in Public Equity with an abbreviation, translati
 
 A PIPE is a private offering of public-company securities to selected investors with faster execution and fewer disclosures.[^alt-l1-p18]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Private equity lacks an active secondary market and is less transparent than public equity, but can emphasize long-term prospects without public short-term pressure. The slide also cites lower costs and potential investor gains when a firm later goes public.[^eq-enrich-p40]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Leveraged Buyout]], [[Depositary Receipt]]. Use the topic map to move outward to the wider model or workflow.
@@ -56,3 +64,5 @@ Within the source sequence, this concept is directly adjacent to [[Leveraged Buy
 [^eq-l1-p40]: [[equity-investments-level-1-speed-review.pdf#page=40|Equity Investments Level I Speed Review, PDF p. 40]]
 
 [^alt-l1-p18]: [[alternative-investments-level-1-speed-review.pdf#page=18|Alternative Investments Level I Speed Review, PDF p. 18]]
+
+[^eq-enrich-p40]: [[equity-investments-level-1-speed-review.pdf#page=40|Equity Investments Level I Speed Review, PDF p. 40]]

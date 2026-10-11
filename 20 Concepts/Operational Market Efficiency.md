@@ -37,6 +37,14 @@ Use Operational Market Efficiency as a distinct exam concept when navigating [[E
 
 Do not merge Operational Market Efficiency with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p29]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+In an informationally efficient market, new information enters prices quickly and rationally, prices react to unexpected rather than anticipated information, and passive management benefits from lower cost. Efficiency depends on participant count, information availability, limits to trading, transaction costs, and information-acquisition costs.[^eq-enrich-p29]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Informational Market Efficiency]], [[Weak-Form Market Efficiency]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Informational
 
 ## Sources
 [^eq-l1-p29]: [[equity-investments-level-1-speed-review.pdf#page=29|Equity Investments Level I Speed Review, PDF p. 29]]
+
+[^eq-enrich-p29]: [[equity-investments-level-1-speed-review.pdf#page=29|Equity Investments Level I Speed Review, PDF p. 29]]

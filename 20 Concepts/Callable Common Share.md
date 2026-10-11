@@ -37,6 +37,14 @@ Use Callable Common Share as a distinct exam concept when navigating [[Equity In
 
 Do not merge Callable Common Share with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p38]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Common shares represent ownership and a residual liquidation claim; dividends are not contractual. Statutory voting provides one vote per share, cumulative voting multiplies shares by board seats, and proxy voting delegates authority. Callable shares can be repurchased by the issuer; putable shares can be sold back by the holder.[^eq-enrich-p38]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Common Share]], [[Putable Common Share]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Common Share]
 
 ## Sources
 [^eq-l1-p38]: [[equity-investments-level-1-speed-review.pdf#page=38|Equity Investments Level I Speed Review, PDF p. 38]]
+
+[^eq-enrich-p38]: [[equity-investments-level-1-speed-review.pdf#page=38|Equity Investments Level I Speed Review, PDF p. 38]]

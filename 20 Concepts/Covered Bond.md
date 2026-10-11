@@ -39,6 +39,12 @@ Identify the definition, direction of the principal relationships, and the finan
 
 Covered bonds provide public debt exposure backed by a ring-fenced cover pool while retaining issuer recourse.[^alt-l1-p24]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Covered bonds keep a ring-fenced cover pool on the issuer's balance sheet and give investors dual recourse to pool and issuer. The pool is dynamically monitored and often overcollateralized; repayment regimes include hard bullet, soft bullet, and conditional pass-through.[^fi-structured-p94][^fi-structured-p95]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

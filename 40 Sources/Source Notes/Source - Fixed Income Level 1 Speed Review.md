@@ -30,9 +30,9 @@ tags:
 
 ![[fixed-income-level-1-speed-review.pdf#page=1]]
 
-## Pilot coverage
+## Trusted coverage
 
-The pilot visually reviewed PDF pages 40-44, 61-68, 80-81, 83, and 87.
+The original pilot covered selected valuation, duration, convexity, and credit pages. The enrichment merge visually reviewed the complete instructional sequence on PDF pages 4-102; divider, administration, and recap-only pages were not promoted as independent evidence.
 
 | Pages | Classification | Canonical output |
 | --- | --- | --- |
@@ -42,6 +42,17 @@ The pilot visually reviewed PDF pages 40-44, 61-68, 80-81, 83, and 87.
 | 80-81 | definition, formula, and framework diagram | [[Credit Risk]], [[Expected Loss]] |
 | 83 | spread interpretation | [[Credit Risk]] |
 | 87 | qualitative and quantitative framework | [[Corporate Credit Analysis]], [[Debt-to-EBITDA Ratio]], [[Interest Coverage Ratio]] |
+
+## Enrichment coverage
+
+| Pages | Chapter map | Coverage |
+| --- | --- | --- |
+| 4-16 | [[Fixed Income - Bond Features]] | bond terms, repayment and coupon structures, embedded options, jurisdiction, and taxation |
+| 21-34 | [[Fixed Income - Markets and Issuance]] | classification, indexes, primary/secondary markets, funding, repos, and public-sector issuance |
+| 40-54 | [[Fixed Income - Valuation and Yields]] | pricing, yield conventions, spread measures, floaters, money-market yields, and term structure |
+| 60-73 | [[Fixed Income - Interest Rate Risk]] | return sources, duration, convexity, option-aware measures, key-rate and empirical duration |
+| 80-88 | [[Fixed Income - Credit Risk]] | expected loss, ratings, spreads, sovereign/municipal/corporate analysis, and seniority |
+| 92-102 | [[Fixed Income - Securitization]] | securitization, enhancement, covered bonds, ABS/CDO, mortgages, CMO tranches, and CMBS |
 
 ## Source handling
 

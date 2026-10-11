@@ -34,15 +34,19 @@ tags:
 
 Financial statement forecasting projects revenue, expenses, assets, liabilities, and financing using economic and company-specific drivers.[^fsa-l1-p84]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Construction sequence
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p84]
+Forecast revenue top-down using year-over-year growth; forecast COGS as $(1-Gross\ margin)\times Forecast\ revenue$; distinguish variable and fixed SG&A; estimate net interest from opening debt and the market rate less interest income; link operating balance-sheet items to drivers; separate maintenance from growth capital expenditure; and check leverage ratios for consistency.[^fsa-detail-p84]
+<!-- enrichment:fsa:end -->
 
-### Cross-topic applications
+<!-- enrichment:equity:start -->
 
-<!-- merged:eq-pm-applications -->
+### Equity slide enrichment
 
-**Equity Investments application:** Forecasting translates business/industry analysis into revenue, expense, investment, financing, and statement expectations; objects, horizon, and scenarios should be explicit.[^eq-l1-p61]
+Forecast drivers where possible for explanatory value and accuracy, individual lines for less material items, summary measures for efficiency despite lower transparency, and ad hoc objects for items not yet visible in historical statements.[^eq-enrich-p61]
+
+<!-- enrichment:equity:end -->
 
 ## Connections
 
@@ -55,3 +59,6 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fsa-l1-p84]: [[financial-statement-analysis-level-1-speed-review.pdf#page=84|Financial Statement Analysis Level I Speed Review, PDF p. 84]]
 [^eq-l1-p61]: [[equity-investments-level-1-speed-review.pdf#page=61|Equity Investments Level I Speed Review, PDF p. 61]]
+[^fsa-detail-p84]: [[financial-statement-analysis-level-1-speed-review.pdf#page=84|Financial Statement Analysis Level I Speed Review, PDF p. 84]]
+
+[^eq-enrich-p61]: [[equity-investments-level-1-speed-review.pdf#page=61|Equity Investments Level I Speed Review, PDF p. 61]]

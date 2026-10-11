@@ -51,6 +51,15 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-structured-p98]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Borrower prepayment creates contraction risk when principal returns faster than expected and extension risk when it returns more slowly.[^fi-structured-p98]
+
+$$LTV=\frac{Mortgage\ amount}{Property\ value},\qquad DTI=\frac{Monthly\ debt\ payments}{Monthly\ pre\text{-}tax\ income}$$
+[^fi-structured-p98]
+
 ## Connections
 
 - [[Contraction Risk]]

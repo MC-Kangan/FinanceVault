@@ -44,6 +44,20 @@ Use Financial Risk as a distinct exam concept when navigating [[Equity Investmen
 
 Do not merge Financial Risk with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p53][^pm-l1-p34]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Financial risk arises from the way operations are financed and rises with fixed-cost obligations:[^eq-enrich-p53]
+
+$$
+DFL=\frac{\%\Delta NI}{\%\Delta EBIT}=\frac{Q(P-V)-F}{Q(P-V)-F-I}=\frac{EBIT}{EBIT-I}
+$$[^eq-enrich-p53]
+
+[^eq-enrich-p53]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Degree of Operating Leverage]], [[Degree of Financial Leverage]], [[Enterprise Risk Management]], [[Non-Financial Risk]]. Use the topic map to move outward to the wider model or workflow.
@@ -55,3 +69,5 @@ Within the source sequence, this concept is directly adjacent to [[Degree of Ope
 ## Sources
 [^eq-l1-p53]: [[equity-investments-level-1-speed-review.pdf#page=53|Equity Investments Level I Speed Review, PDF p. 53]]
 [^pm-l1-p34]: [[portfolio-management-level-1-speed-review.pdf#page=34|Portfolio Management Level I Speed Review, PDF p. 34]]
+
+[^eq-enrich-p53]: [[equity-investments-level-1-speed-review.pdf#page=53|Equity Investments Level I Speed Review, PDF p. 53]]

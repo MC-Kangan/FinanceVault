@@ -43,6 +43,14 @@ Do not merge Private Equity with an abbreviation, translation, or neighbouring c
 
 Private equity finances privately owned companies or public companies intended to be taken private.[^alt-l1-p17]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Private equity lacks an active secondary market and is less transparent than public equity, but can emphasize long-term prospects without public short-term pressure. The slide also cites lower costs and potential investor gains when a firm later goes public.[^eq-enrich-p40]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Convertible Preferred Share]], [[Venture Capital]]. Use the topic map to move outward to the wider model or workflow.
@@ -55,3 +63,5 @@ Within the source sequence, this concept is directly adjacent to [[Convertible P
 [^eq-l1-p40]: [[equity-investments-level-1-speed-review.pdf#page=40|Equity Investments Level I Speed Review, PDF p. 40]]
 
 [^alt-l1-p17]: [[alternative-investments-level-1-speed-review.pdf#page=17|Alternative Investments Level I Speed Review, PDF p. 17]]
+
+[^eq-enrich-p40]: [[equity-investments-level-1-speed-review.pdf#page=40|Equity Investments Level I Speed Review, PDF p. 40]]

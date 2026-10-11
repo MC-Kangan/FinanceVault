@@ -37,6 +37,14 @@ Use Revenue Forecasting as a distinct exam concept when navigating [[Equity Inve
 
 Do not merge Revenue Forecasting with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p65]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Top-down revenue uses GDP-relative growth, market growth, and share; bottom-up revenue uses volume and price, segments, capacity, or yield. Exclude non-recurring items. Forecast cost of sales through gross margin while considering hedges and business-model differences; model variable SG&A as a sales percentage and working capital with efficiency ratios.[^eq-enrich-p65][^eq-enrich-p66]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Management Guidance]], [[Expense Forecasting]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,6 @@ Within the source sequence, this concept is directly adjacent to [[Management Gu
 
 ## Sources
 [^eq-l1-p65]: [[equity-investments-level-1-speed-review.pdf#page=65|Equity Investments Level I Speed Review, PDF p. 65]]
+
+[^eq-enrich-p65]: [[equity-investments-level-1-speed-review.pdf#page=65|Equity Investments Level I Speed Review, PDF p. 65]]
+[^eq-enrich-p66]: [[equity-investments-level-1-speed-review.pdf#page=66|Equity Investments Level I Speed Review, PDF p. 66]]

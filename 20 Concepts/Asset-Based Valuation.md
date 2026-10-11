@@ -39,6 +39,14 @@ Use Asset-Based Valuation as a distinct exam concept when navigating [[Equity In
 
 Do not merge Asset-Based Valuation with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p71][^eq-l1-p76]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Asset-based equity value is $Market\ value\ of\ assets-Market\ value\ of\ liabilities$. It suits tangible short-term assets, readily valued assets, private firms, and liquidation. It is weak when market values are hard to determine, book and fair values diverge, it understates going-concern value, or hyperinflation distorts measurement.[^eq-enrich-p76]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Price Multiple]], [[Free Cash Flow to Equity]]. Use the topic map to move outward to the wider model or workflow.
@@ -50,3 +58,5 @@ Within the source sequence, this concept is directly adjacent to [[Price Multipl
 ## Sources
 [^eq-l1-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
 [^eq-l1-p76]: [[equity-investments-level-1-speed-review.pdf#page=76|Equity Investments Level I Speed Review, PDF p. 76]]
+
+[^eq-enrich-p76]: [[equity-investments-level-1-speed-review.pdf#page=76|Equity Investments Level I Speed Review, PDF p. 76]]

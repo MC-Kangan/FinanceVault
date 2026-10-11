@@ -37,6 +37,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-markets-p32]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Sovereign debt may be on-the-run or off-the-run, domestic or external, and exposes investors to rollover and currency risk. Single-price auctions assign one price to all successful bids; multiple-price auctions use each accepted bid. Public-sector categories also include agency, local-government general-obligation and revenue, and supranational bonds.[^fi-markets-p32][^fi-markets-p33][^fi-markets-p34]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

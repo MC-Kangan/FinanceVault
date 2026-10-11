@@ -34,9 +34,11 @@ tags:
 
 Under the source's US-GAAP presentation, a valuation allowance reduces a deferred tax asset when realization is not expected. A larger allowance is associated with more conservative reported net DTA, and the allowance can reverse when recovery becomes expected.[^fsa-tax-p76]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Recoverability assessment
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-tax-p76]
+Recognize a DTA only when realization is sufficiently supported and reassess it over time. The source presents IFRS as reducing the DTA directly and US GAAP as recording a valuation allowance; improved expected recovery can reverse the prior reduction or allowance.[^fsa-detail-p76]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -50,3 +52,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-tax-p76]: [[financial-statement-analysis-level-1-speed-review.pdf#page=76|Financial Statement Analysis Level I Speed Review, PDF p. 76]]
+[^fsa-detail-p76]: [[financial-statement-analysis-level-1-speed-review.pdf#page=76|Financial Statement Analysis Level I Speed Review, PDF p. 76]]

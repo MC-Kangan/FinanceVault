@@ -37,6 +37,14 @@ Use Economies of Scope as a distinct exam concept when navigating [[Equity Inves
 
 Do not merge Economies of Scope with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p49]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Economies of scale reduce unit cost as output expands, usually by spreading fixed cost but sometimes through bargaining power that lowers variable cost. Economies of scope reduce unit cost as product or business lines expand by sharing costs across them.[^eq-enrich-p49]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Economies of Scale]], [[Cash Conversion Cycle]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Economies of 
 
 ## Sources
 [^eq-l1-p49]: [[equity-investments-level-1-speed-review.pdf#page=49|Equity Investments Level I Speed Review, PDF p. 49]]
+
+[^eq-enrich-p49]: [[equity-investments-level-1-speed-review.pdf#page=49|Equity Investments Level I Speed Review, PDF p. 49]]

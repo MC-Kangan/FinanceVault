@@ -42,6 +42,12 @@ Identify the definition, direction of the principal relationships, and the finan
 
 Mortgage-backed securities provide public debt exposure to pools of mortgage cash flows.[^alt-l1-p24]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Agency and non-agency RMBS differ in support and credit enhancement. Mortgage pass-through investors receive proportional pool cash flows; important measures include weighted average coupon, weighted average maturity, weighted average life, and pass-through rate.[^fi-structured-p99]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

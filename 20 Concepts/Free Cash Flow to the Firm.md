@@ -63,6 +63,20 @@ Do not subtract net borrowing in FCFF: financing flows allocate cash among capit
 
 **Equity Investments application:** Valuation families: present value (DDM, FCFE, FCFF, residual income), market multiples (P/E, P/B, P/S, P/CF, EV multiples), and asset-based valuation.[^eq-l1-p71]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+The FCFE model values equity from dividend-paying capacity and can value non-dividend-paying shares:[^eq-enrich-p71][^eq-enrich-p74]
+
+$$
+V_0=\sum_{t=1}^{\infty}\frac{FCFE_t}{(1+r)^t}
+$$[^eq-enrich-p71][^eq-enrich-p74]
+
+The model-selection slide separately identifies FCFF as a present-value approach to firm cash flows.[^eq-enrich-p71][^eq-enrich-p74]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 - [[Free Cash Flow]] is the umbrella concept.
@@ -76,3 +90,6 @@ Do not subtract net borrowing in FCFF: financing flows allocate cash among capit
 ## Sources
 [^fsa-l1-p40]: [[financial-statement-analysis-level-1-speed-review.pdf#page=40|Financial Statement Analysis Level I Speed Review, PDF p. 40]]
 [^eq-l1-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
+
+[^eq-enrich-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
+[^eq-enrich-p74]: [[equity-investments-level-1-speed-review.pdf#page=74|Equity Investments Level I Speed Review, PDF p. 74]]

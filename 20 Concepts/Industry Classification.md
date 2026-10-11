@@ -37,6 +37,14 @@ Use Industry Classification as a distinct exam concept when navigating [[Equity 
 
 Do not merge Industry Classification with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p55]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Government schemes group firms by production characteristics but may update slowly. Commercial GICS, ICB, and TRBC schemes are global, reviewed at least annually, and hierarchical from sub-industry to sector. Alternative groupings use geography, country, cycle sensitivity, statistical similarity, or ESG characteristics.[^eq-enrich-p55][^eq-enrich-p56]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Industry Analysis]], [[Industry Survey]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,6 @@ Within the source sequence, this concept is directly adjacent to [[Industry Anal
 
 ## Sources
 [^eq-l1-p55]: [[equity-investments-level-1-speed-review.pdf#page=55|Equity Investments Level I Speed Review, PDF p. 55]]
+
+[^eq-enrich-p55]: [[equity-investments-level-1-speed-review.pdf#page=55|Equity Investments Level I Speed Review, PDF p. 55]]
+[^eq-enrich-p56]: [[equity-investments-level-1-speed-review.pdf#page=56|Equity Investments Level I Speed Review, PDF p. 56]]

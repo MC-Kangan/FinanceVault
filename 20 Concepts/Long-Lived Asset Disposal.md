@@ -31,9 +31,15 @@ tags:
 
 Disposal of a long-lived asset by sale, abandonment, or exchange removes its carrying amount and recognizes the resulting gain or loss.[^fsa-l1-p59]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Disposal mechanics
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p59]
+$$
+Gain\ or\ loss\ on\ sale=Sale\ proceeds-Book\ value
+$$[^fsa-detail-p59]
+
+Abandonment produces a loss equal to the remaining book value. The source also distinguishes disposal by exchange from sale or abandonment.[^fsa-detail-p59]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +51,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p59]: [[financial-statement-analysis-level-1-speed-review.pdf#page=59|Financial Statement Analysis Level I Speed Review, PDF p. 59]]
+[^fsa-detail-p59]: [[financial-statement-analysis-level-1-speed-review.pdf#page=59|Financial Statement Analysis Level I Speed Review, PDF p. 59]]

@@ -49,6 +49,12 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-valuation-p49]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Coupon equals reference rate plus quoted margin, while discounting uses reference rate plus discount margin. When the two margins are equal the floater prices at par; a larger discount margin implies a discount and a smaller one a premium.[^fi-valuation-p49][^fi-valuation-p50]
+
 ## Connections
 
 - [[Floating-Rate Note]]

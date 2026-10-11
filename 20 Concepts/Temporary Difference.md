@@ -31,9 +31,11 @@ tags:
 
 A temporary difference is the difference between an asset or liability's financial-statement carrying value and tax base that will reverse in a future period. A taxable temporary difference generally creates a deferred tax liability; a deductible temporary difference generally creates a deferred tax asset.[^fsa-tax-p74][^fsa-tax-p75]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Difference types
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-tax-p74]
+Timing differences that reverse are temporary; differences that do not reverse are permanent. A taxable temporary difference creates a DTL, while a deductible temporary difference creates a DTA.[^fsa-detail-p74]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fsa-tax-p74]: [[financial-statement-analysis-level-1-speed-review.pdf#page=74|Financial Statement Analysis Level I Speed Review, PDF p. 74]]
 [^fsa-tax-p75]: [[financial-statement-analysis-level-1-speed-review.pdf#page=75|Financial Statement Analysis Level I Speed Review, PDF p. 75]]
+[^fsa-detail-p74]: [[financial-statement-analysis-level-1-speed-review.pdf#page=74|Financial Statement Analysis Level I Speed Review, PDF p. 74]]

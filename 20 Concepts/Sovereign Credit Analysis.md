@@ -54,6 +54,12 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-credit-p84]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Sovereign analysis reflects taxing authority, currency issuance, public-service funding, institutions and policy, fiscal and monetary flexibility, external status, debt burden, affordability, growth, economic size, reserves, and external debt.[^fi-credit-p84][^fi-credit-p85][^fi-credit-p86]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

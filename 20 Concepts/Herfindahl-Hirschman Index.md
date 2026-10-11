@@ -7,15 +7,18 @@ aliases:
 first_level: 1
 topics:
 - '[[Equity Investments]]'
+- '[[Economics]]'
 prerequisites:
 - '[[Industry Concentration]]'
 used_in: []
 related:
 - '[[Industry Concentration]]'
 - '[[Porter''s Five Forces]]'
+- '[[N-Firm Concentration Ratio]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Equity Investments Level 1 Speed Review]]'
+- '[[Source - Economics Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -39,6 +42,20 @@ Use Herfindahl-Hirschman Index as a distinct exam concept when navigating [[Equi
 
 Do not merge Herfindahl-Hirschman Index with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p58]
 
+### Economics applications
+
+<!-- merged:economics-applications -->
+
+**Economics application:** Market concentration can be estimated through demand elasticities, an N-firm concentration ratio, or the Herfindahl-Hirschman Index. Use [[Economics - Firms and Market Structures]] for chapter context.[^eco-l1-p13]
+
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Industry surveys measure size with annual sales and growth with annual rates or CAGR, distinguish growth from mature industries, and assess cycle sensitivity. Market share is better treated as a range. Rising concentration is associated with lower competitive intensity and higher profitability; the slide uses $HHI=\sum s_i^2$.[^eq-enrich-p57][^eq-enrich-p58]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Industry Concentration]], [[Porter's Five Forces]]. Use the topic map to move outward to the wider model or workflow.
@@ -49,3 +66,7 @@ Within the source sequence, this concept is directly adjacent to [[Industry Conc
 
 ## Sources
 [^eq-l1-p58]: [[equity-investments-level-1-speed-review.pdf#page=58|Equity Investments Level I Speed Review, PDF p. 58]]
+[^eco-l1-p13]: [[economics-level-1-speed-review.pdf#page=13|Economics Level I Speed Review, PDF p. 13]]
+
+[^eq-enrich-p57]: [[equity-investments-level-1-speed-review.pdf#page=57|Equity Investments Level I Speed Review, PDF p. 57]]
+[^eq-enrich-p58]: [[equity-investments-level-1-speed-review.pdf#page=58|Equity Investments Level I Speed Review, PDF p. 58]]

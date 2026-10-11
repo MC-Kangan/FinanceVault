@@ -34,6 +34,15 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-valuation-p46]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Current yield equals annual coupon divided by flat price and omits time value, accrued interest, and capital gain or loss. Simple yield adds straight-line annual amortization of discount or premium before dividing by flat price.[^fi-valuation-p45][^fi-valuation-p46]
+
+$$EAR=\left(1+\frac{R_s}{n}\right)^n-1$$
+[^fi-valuation-p45]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -44,3 +53,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-valuation-p46]: [[fixed-income-level-1-speed-review.pdf#page=46|Fixed Income Level I Speed Review, PDF p. 46]]
+[^fi-valuation-p45]: [[fixed-income-level-1-speed-review.pdf#page=45|Fixed Income Level I Speed Review, PDF p. 45]]

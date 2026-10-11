@@ -37,6 +37,20 @@ Use Security Market Index as a distinct exam concept when navigating [[Equity In
 
 Do not merge Security Market Index with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p21]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+An index aggregates constituent securities using a divisor chosen at inception for a convenient initial level:[^eq-enrich-p21]
+
+$$
+V=\frac{\sum_{i=1}^{n}m_iP_i}{D}
+$$[^eq-enrich-p21]
+
+[^eq-enrich-p21]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Price Return Index]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +61,5 @@ Within the source sequence, this concept is directly adjacent to [[Price Return 
 
 ## Sources
 [^eq-l1-p21]: [[equity-investments-level-1-speed-review.pdf#page=21|Equity Investments Level I Speed Review, PDF p. 21]]
+
+[^eq-enrich-p21]: [[equity-investments-level-1-speed-review.pdf#page=21|Equity Investments Level I Speed Review, PDF p. 21]]

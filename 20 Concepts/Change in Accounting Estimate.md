@@ -31,9 +31,11 @@ tags:
 
 A change in accounting estimate is applied prospectively because it reflects new information rather than correction of an error.[^fsa-l1-p21]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Presentation and correction
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p21]
+Discontinued operations are presented separately net of tax. A change in accounting principle is applied retrospectively, a change in estimate prospectively, and a prior-period error requires restatement of prior periods.[^fsa-detail-p21]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p21]: [[financial-statement-analysis-level-1-speed-review.pdf#page=21|Financial Statement Analysis Level I Speed Review, PDF p. 21]]
+[^fsa-detail-p21]: [[financial-statement-analysis-level-1-speed-review.pdf#page=21|Financial Statement Analysis Level I Speed Review, PDF p. 21]]

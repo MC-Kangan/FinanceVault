@@ -37,6 +37,14 @@ Use Cumulative Preferred Share as a distinct exam concept when navigating [[Equi
 
 Do not merge Cumulative Preferred Share with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p39]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Preferred shares rank ahead of common equity for dividends and liquidation. They may have fixed dividends, no vote, limited operating participation, and call or put features, while also being perpetual with non-contractual dividends. Cumulative issues accrue missed dividends, participating issues can receive extra dividends, and convertible issues exchange into a specified number of common shares.[^eq-enrich-p39]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Preferred Share]], [[Participating Preferred Share]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Preferred Sha
 
 ## Sources
 [^eq-l1-p39]: [[equity-investments-level-1-speed-review.pdf#page=39|Equity Investments Level I Speed Review, PDF p. 39]]
+
+[^eq-enrich-p39]: [[equity-investments-level-1-speed-review.pdf#page=39|Equity Investments Level I Speed Review, PDF p. 39]]

@@ -36,6 +36,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-structured-p92]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Securitization transfers assets to a bankruptcy-remote special-purpose vehicle, which issues securities backed by asset cash flows. The structure can improve originator capital efficiency, reduce borrower intermediation costs, tailor investor exposures, and expand market funding alternatives.[^fi-structured-p92]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

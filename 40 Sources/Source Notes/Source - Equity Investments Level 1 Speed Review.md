@@ -33,6 +33,8 @@ tags:
 ## Ingestion coverage
 
 - Full-deck page inventory and page-separated transcript completed for PDF pages 1–78.
+- Detailed enrichment review visually completed for content pages 4–17, 21–26, 29–35, 38–42, 45–67, and 71–76.
 - Formula-heavy pages visually checked: 14, 21, 23–25, 51–53, 58, 71, and 73–76.
-- Candidate concepts and map updates are held in pending-review proposals; trusted notes remain unchanged until approval.
+- Six approved enrichment bundles were merged into 168 existing concepts; the existing cross-topic `Loss Aversion Bias` node was reused and enriched rather than duplicated.
+- Trusted navigation remains organized through the six Equity chapter maps.
 - Transcript: [[Transcript - Equity Investments Level 1 Speed Review]]

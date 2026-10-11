@@ -10,6 +10,7 @@ first_level: 1
 topics:
 - '[[Financial Statement Analysis]]'
 - '[[Equity Investments]]'
+- '[[Corporate Issuers]]'
 prerequisites: []
 used_in: []
 related:
@@ -20,6 +21,7 @@ contrasts_with: []
 source_notes:
 - '[[Source - Financial Statement Analysis Level 1 Speed Review]]'
 - '[[Source - Equity Investments Level 1 Speed Review]]'
+- '[[Source - Corporate Issuers Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -35,15 +37,41 @@ tags:
 
 The financial leverage ratio compares average total assets with average total equity and is a DuPont return-on-equity driver.[^fsa-l1-p45]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Formula and comparison
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p45]
+$$
+Financial\ leverage=\frac{Average\ total\ assets}{Average\ total\ equity}
+$$[^fsa-detail-p45]
+<!-- enrichment:fsa:end -->
 
-### Cross-topic applications
+<!-- enrichment:equity:start -->
 
-<!-- merged:eq-pm-applications -->
+### Equity slide enrichment
 
-**Equity Investments application:** Margin buying uses a margin loan; buyer’s equity is the investor-funded portion. Leverage is position value divided by equity, and margin rate is its reciprocal. Visually verified margin-call price: $P_c=P_0(1-\text{initial margin})/(1-\text{maintenance margin})$.[^eq-l1-p14]
+Margin leverage and the margin rate are reciprocals:[^eq-enrich-p14]
+
+$$
+Leverage=\frac{Position\ value}{Buyer's\ equity},\qquad Margin\ rate=\frac{1}{Leverage}
+$$[^eq-enrich-p14]
+
+Falling below maintenance margin triggers a margin call or liquidation. The slide's call-price relation is:[^eq-enrich-p14]
+
+$$
+P_c=P_0\left(\frac{1-Initial\ margin}{1-Maintenance\ margin}\right)
+$$[^eq-enrich-p14]
+
+[^eq-enrich-p14]
+
+<!-- enrichment:equity:end -->
+
+<!-- enrichment:corporate-issuers:start -->
+
+### Slide-level enrichment
+
+Economic and industry conditions affect debt and equity costs from the top down. Issuer-specific drivers include collateral and asset type, sales risk, profitability risk, operating leverage, financial leverage, and interest coverage. Stable, predictable, growing revenue lowers sales risk; a larger fixed-cost share raises operating leverage and profitability risk.[^ci-l1-p35]
+
+<!-- enrichment:corporate-issuers:end -->
 
 ## Connections
 
@@ -56,3 +84,7 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fsa-l1-p45]: [[financial-statement-analysis-level-1-speed-review.pdf#page=45|Financial Statement Analysis Level I Speed Review, PDF p. 45]]
 [^eq-l1-p14]: [[equity-investments-level-1-speed-review.pdf#page=14|Equity Investments Level I Speed Review, PDF p. 14]]
+[^ci-l1-p35]: [[corporate-issuers-level-1-speed-review.pdf#page=35|Corporate Issuers Level I Speed Review, PDF p. 35]]
+[^fsa-detail-p45]: [[financial-statement-analysis-level-1-speed-review.pdf#page=45|Financial Statement Analysis Level I Speed Review, PDF p. 45]]
+
+[^eq-enrich-p14]: [[equity-investments-level-1-speed-review.pdf#page=14|Equity Investments Level I Speed Review, PDF p. 14]]

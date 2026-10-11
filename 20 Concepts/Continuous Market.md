@@ -37,6 +37,14 @@ Use Continuous Market as a distinct exam concept when navigating [[Equity Invest
 
 Do not merge Continuous Market with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p9]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A call market accumulates orders and selects a single price that maximizes executable volume; matching is easier but limited to specified times. A continuous market permits trading whenever open, but counterparties arriving at different times may miss each other.[^eq-enrich-p9]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Call Market]], [[Quote-Driven Market]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Call Market]]
 
 ## Sources
 [^eq-l1-p9]: [[equity-investments-level-1-speed-review.pdf#page=9|Equity Investments Level I Speed Review, PDF p. 9]]
+
+[^eq-enrich-p9]: [[equity-investments-level-1-speed-review.pdf#page=9|Equity Investments Level I Speed Review, PDF p. 9]]

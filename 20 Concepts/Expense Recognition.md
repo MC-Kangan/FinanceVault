@@ -31,9 +31,21 @@ tags:
 
 Expense recognition applies matching where appropriate and otherwise recognizes period costs when economic benefits are consumed.[^fsa-l1-p18]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Statement effects
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p18]
+| Effect | Capitalize initially | Expense initially |
+| --- | --- | --- |
+| Assets, equity, and current net income | Higher | Lower |
+| Later net income | Lower | Higher |
+| Total net income and total cash flow | Same | Same |
+| Net-income volatility | Lower | Higher |
+| First-year ROA and ROE | Higher | Lower |
+| Later ROA and ROE | Lower | Higher |
+| CFO | Higher | Lower |
+| CFI | Lower | Higher |
+[^fsa-detail-p18]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +57,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p18]: [[financial-statement-analysis-level-1-speed-review.pdf#page=18|Financial Statement Analysis Level I Speed Review, PDF p. 18]]
+[^fsa-detail-p18]: [[financial-statement-analysis-level-1-speed-review.pdf#page=18|Financial Statement Analysis Level I Speed Review, PDF p. 18]]

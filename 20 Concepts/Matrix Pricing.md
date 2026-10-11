@@ -35,6 +35,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-valuation-p44]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Bond value is the present value of promised cash flows. Coupon versus required yield determines premium, par, or discount status, and constant-yield prices pull toward par. Dirty price equals clean price plus accrued interest. Matrix pricing estimates thinly traded bonds from comparable securities and may interpolate between maturities.[^fi-valuation-p40][^fi-valuation-p41][^fi-valuation-p42][^fi-valuation-p44]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -45,3 +51,6 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-valuation-p44]: [[fixed-income-level-1-speed-review.pdf#page=44|Fixed Income Level I Speed Review, PDF p. 44]]
+[^fi-valuation-p40]: [[fixed-income-level-1-speed-review.pdf#page=40|Fixed Income Level I Speed Review, PDF p. 40]]
+[^fi-valuation-p41]: [[fixed-income-level-1-speed-review.pdf#page=41|Fixed Income Level I Speed Review, PDF p. 41]]
+[^fi-valuation-p42]: [[fixed-income-level-1-speed-review.pdf#page=42|Fixed Income Level I Speed Review, PDF p. 42]]

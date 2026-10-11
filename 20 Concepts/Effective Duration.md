@@ -47,6 +47,12 @@ Callable bonds can exhibit reduced effective duration when rates are low; putabl
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-risk-p69]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Effective measures revalue cash flows after benchmark-curve shifts and are appropriate when embedded options change cash flows. Callable bonds have lower effective duration and may have negative convexity at low rates; putable bonds have lower effective duration and often stronger positive convexity at high rates.[^fi-risk-p69][^fi-risk-p70][^fi-risk-p71]
+
 ## Connections
 
 - [[Modified Duration]]
@@ -62,3 +68,4 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fi-risk-p69]: [[fixed-income-level-1-speed-review.pdf#page=69|Fixed Income Level I Speed Review, PDF p. 69]]
 [^fi-risk-p71]: [[fixed-income-level-1-speed-review.pdf#page=71|Fixed Income Level I Speed Review, PDF p. 71]]
+[^fi-risk-p70]: [[fixed-income-level-1-speed-review.pdf#page=70|Fixed Income Level I Speed Review, PDF p. 70]]

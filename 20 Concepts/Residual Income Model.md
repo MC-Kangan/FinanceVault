@@ -37,6 +37,14 @@ Use Residual Income Model as a distinct exam concept when navigating [[Equity In
 
 Do not merge Residual Income Model with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p71]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+The deck groups valuation into present-value models (DDM, FCFE, FCFF, residual income), market-multiple models (P/E, P/B, P/S, P/CF, and EV multiples), and asset-based valuation.[^eq-enrich-p71]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Dividend Discount Model]], [[Price Multiple]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Dividend Disc
 
 ## Sources
 [^eq-l1-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
+
+[^eq-enrich-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]

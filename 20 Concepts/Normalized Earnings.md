@@ -32,9 +32,11 @@ tags:
 
 Normalized earnings estimate sustainable mid-cycle profitability after removing unusual or temporary effects.[^fsa-l1-p86]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Cycle and inflation adjustments
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p86]
+Inflation may raise both costs and revenue; margin preservation depends on passing costs through without losing excessive volume or market share, influenced by price elasticity, industry conditions, and strategy. Normalized earnings represent mid-cycle earnings after removing unusual or temporary effects.[^fsa-detail-p86]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p86]: [[financial-statement-analysis-level-1-speed-review.pdf#page=86|Financial Statement Analysis Level I Speed Review, PDF p. 86]]
+[^fsa-detail-p86]: [[financial-statement-analysis-level-1-speed-review.pdf#page=86|Financial Statement Analysis Level I Speed Review, PDF p. 86]]

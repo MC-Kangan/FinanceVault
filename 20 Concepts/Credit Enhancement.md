@@ -35,6 +35,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-structured-p93]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+External enhancement includes guarantees, letters of credit, and cash collateral accounts. Internal enhancement includes overcollateralization, excess spread, and subordination or credit tranching.[^fi-structured-p93]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

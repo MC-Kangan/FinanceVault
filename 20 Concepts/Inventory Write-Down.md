@@ -31,9 +31,11 @@ tags:
 
 An inventory write-down reduces inventory carrying value and profit when recoverable value falls below the relevant cost measure.[^fsa-l1-p51]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Statement and ratio effects
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p51]
+A write-down reduces inventory and profit, weakens the profit, liquidity, and solvency measures identified in the slide, and mechanically improves activity ratios. High turnover and low days inventory can reflect efficient management or inventory shortages. Agricultural, forest, and mineral inventories with active markets may use NRV with gains and losses in income.[^fsa-detail-p52]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p51]: [[financial-statement-analysis-level-1-speed-review.pdf#page=51|Financial Statement Analysis Level I Speed Review, PDF p. 51]]
+[^fsa-detail-p52]: [[financial-statement-analysis-level-1-speed-review.pdf#page=52|Financial Statement Analysis Level I Speed Review, PDF p. 52]]

@@ -37,6 +37,14 @@ Use Differentiation Strategy as a distinct exam concept when navigating [[Equity
 
 Do not merge Differentiation Strategy with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p60]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Cost leadership relies on scale, input access, control, volume pricing, low-cost distribution, and scope; differentiation relies on brand, service, channels or IP, quality, features, experience, pricing, and integration. Focus applies cost or differentiation to a narrow group. Each can fail through imitation or technology, changing customer preferences, excessive premiums, pricing pressure, or narrowing segment differences.[^eq-enrich-p60][^eq-enrich-p61]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Cost Leadership]], [[Focus Strategy]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,6 @@ Within the source sequence, this concept is directly adjacent to [[Cost Leadersh
 
 ## Sources
 [^eq-l1-p60]: [[equity-investments-level-1-speed-review.pdf#page=60|Equity Investments Level I Speed Review, PDF p. 60]]
+
+[^eq-enrich-p60]: [[equity-investments-level-1-speed-review.pdf#page=60|Equity Investments Level I Speed Review, PDF p. 60]]
+[^eq-enrich-p61]: [[equity-investments-level-1-speed-review.pdf#page=61|Equity Investments Level I Speed Review, PDF p. 61]]

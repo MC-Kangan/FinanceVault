@@ -35,6 +35,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-features-p15]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Domestic bonds are issued by entities incorporated in the country; foreign bonds by entities incorporated elsewhere; Eurobonds outside any single country's jurisdiction; and global bonds in the Eurobond market and at least one domestic market.[^fi-features-p15]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

@@ -9,17 +9,20 @@ aliases:
 first_level: 1
 topics:
 - '[[Fixed Income]]'
+- '[[Economics]]'
 prerequisites: []
 used_in: []
-related: []
+related:
+- '[[Policy Rate]]'
+- '[[Federal Funds Rate]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Fixed Income Level 1 Speed Review]]'
+- '[[Source - Economics Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Repurchase Agreement
 
 > [!summary]
@@ -56,6 +59,21 @@ Figure: At initiation the cash borrower delivers the security and receives cash;
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-markets-p29]
 
+### Economics applications
+
+<!-- merged:economics-applications -->
+
+**Economics application:** Monetary tools include open-market operations, policy and interbank rates, repos, and reserve requirements that influence deposit creation. Use [[Economics - Fiscal and Monetary Policy]] for chapter context.[^eco-l1-p34]
+
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+A repo is economically collateralized borrowing; from the cash lender's perspective it is a reverse repo. Uses include financing security ownership, secured short-term investing, and borrowing securities for short sales; risks include default, collateral, margin, legal, netting, and settlement risk.[^fi-markets-p29][^fi-markets-p31]
+
+$$P_1=P_0\left(1+\frac{days}{360}\times r_{repo}\right),\quad Initial\ margin=\frac{Bond\ price_0}{P_0},\quad Haircut=\frac{Bond\ price_0-P_0}{Bond\ price_0}$$
+[^fi-markets-p30]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -68,3 +86,4 @@ Identify the definition, direction of the principal relationships, and the finan
 [^fi-markets-p29]: [[fixed-income-level-1-speed-review.pdf#page=29|Fixed Income Level I Speed Review, PDF p. 29]]
 [^fi-markets-p30]: [[fixed-income-level-1-speed-review.pdf#page=30|Fixed Income Level I Speed Review, PDF p. 30]]
 [^fi-markets-p31]: [[fixed-income-level-1-speed-review.pdf#page=31|Fixed Income Level I Speed Review, PDF p. 31]]
+[^eco-l1-p34]: [[economics-level-1-speed-review.pdf#page=34|Economics Level I Speed Review, PDF p. 34]]

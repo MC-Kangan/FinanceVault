@@ -15,10 +15,24 @@
       }
     },
     {
-      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Equity Investments\" OR file:\"Portfolio Management\" OR file:\"Quantitative Methods\" OR file:\"Alternative Investments\"",
+      "query": "file:\"Financial Statement Analysis\" OR file:\"Fixed Income\" OR file:\"Equity Investments\" OR file:\"Portfolio Management\" OR file:\"Quantitative Methods\" OR file:\"Alternative Investments\" OR file:\"Corporate Issuers\" OR file:\"Derivatives\" OR file:\"Economics\" OR file:\"Ethical and Professional Standards\"",
       "color": {
         "a": 1,
         "rgb": 16096779
+      }
+    },
+    {
+      "query": "file:\"Fixed Income - Bond Features\" OR file:\"Fixed Income - Markets and Issuance\" OR file:\"Fixed Income - Valuation and Yields\" OR file:\"Fixed Income - Interest Rate Risk\" OR file:\"Fixed Income - Credit Risk\" OR file:\"Fixed Income - Securitization\"",
+      "color": {
+        "a": 1,
+        "rgb": 7313407
+      }
+    },
+    {
+      "query": "file:\"Ethics - Professionalism\" OR file:\"Ethics - Integrity of Capital Markets\" OR file:\"Ethics - Duties to Clients\" OR file:\"Ethics - Duties to Employers\" OR file:\"Ethics - Investment Analysis Recommendations and Actions\" OR file:\"Ethics - Conflicts of Interest\" OR file:\"Ethics - CFA Institute Member and Candidate Responsibilities\" OR file:\"Ethics - Global Investment Performance Standards\"",
+      "color": {
+        "a": 1,
+        "rgb": 12040119
       }
     },
     {
@@ -29,7 +43,7 @@
       }
     },
     {
-      "query": "path:\"20 Concepts\" ([topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Equity Investments\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Portfolio Management\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Quantitative Methods\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Alternative Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Equity Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Portfolio Management\"] OR [topics:\"Fixed Income\"] [topics:\"Quantitative Methods\"] OR [topics:\"Fixed Income\"] [topics:\"Alternative Investments\"] OR [topics:\"Equity Investments\"] [topics:\"Portfolio Management\"] OR [topics:\"Equity Investments\"] [topics:\"Quantitative Methods\"] OR [topics:\"Equity Investments\"] [topics:\"Alternative Investments\"] OR [topics:\"Portfolio Management\"] [topics:\"Quantitative Methods\"] OR [topics:\"Portfolio Management\"] [topics:\"Alternative Investments\"] OR [topics:\"Quantitative Methods\"] [topics:\"Alternative Investments\"])",
+      "query": "path:\"20 Concepts\" ([topics:\"Financial Statement Analysis\"] [topics:\"Fixed Income\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Equity Investments\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Portfolio Management\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Quantitative Methods\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Alternative Investments\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Corporate Issuers\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Derivatives\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Economics\"] OR [topics:\"Financial Statement Analysis\"] [topics:\"Ethical and Professional Standards\"] OR [topics:\"Fixed Income\"] [topics:\"Equity Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Portfolio Management\"] OR [topics:\"Fixed Income\"] [topics:\"Quantitative Methods\"] OR [topics:\"Fixed Income\"] [topics:\"Alternative Investments\"] OR [topics:\"Fixed Income\"] [topics:\"Corporate Issuers\"] OR [topics:\"Fixed Income\"] [topics:\"Derivatives\"] OR [topics:\"Fixed Income\"] [topics:\"Economics\"] OR [topics:\"Fixed Income\"] [topics:\"Ethical and Professional Standards\"] OR [topics:\"Equity Investments\"] [topics:\"Portfolio Management\"] OR [topics:\"Equity Investments\"] [topics:\"Quantitative Methods\"] OR [topics:\"Equity Investments\"] [topics:\"Alternative Investments\"] OR [topics:\"Equity Investments\"] [topics:\"Corporate Issuers\"] OR [topics:\"Equity Investments\"] [topics:\"Derivatives\"] OR [topics:\"Equity Investments\"] [topics:\"Economics\"] OR [topics:\"Equity Investments\"] [topics:\"Ethical and Professional Standards\"] OR [topics:\"Portfolio Management\"] [topics:\"Quantitative Methods\"] OR [topics:\"Portfolio Management\"] [topics:\"Alternative Investments\"] OR [topics:\"Portfolio Management\"] [topics:\"Corporate Issuers\"] OR [topics:\"Portfolio Management\"] [topics:\"Derivatives\"] OR [topics:\"Portfolio Management\"] [topics:\"Economics\"] OR [topics:\"Portfolio Management\"] [topics:\"Ethical and Professional Standards\"] OR [topics:\"Quantitative Methods\"] [topics:\"Alternative Investments\"] OR [topics:\"Quantitative Methods\"] [topics:\"Corporate Issuers\"] OR [topics:\"Quantitative Methods\"] [topics:\"Derivatives\"] OR [topics:\"Quantitative Methods\"] [topics:\"Economics\"] OR [topics:\"Quantitative Methods\"] [topics:\"Ethical and Professional Standards\"] OR [topics:\"Alternative Investments\"] [topics:\"Corporate Issuers\"] OR [topics:\"Alternative Investments\"] [topics:\"Derivatives\"] OR [topics:\"Alternative Investments\"] [topics:\"Economics\"] OR [topics:\"Alternative Investments\"] [topics:\"Ethical and Professional Standards\"] OR [topics:\"Corporate Issuers\"] [topics:\"Derivatives\"] OR [topics:\"Corporate Issuers\"] [topics:\"Economics\"] OR [topics:\"Corporate Issuers\"] [topics:\"Ethical and Professional Standards\"] OR [topics:\"Derivatives\"] [topics:\"Economics\"] OR [topics:\"Derivatives\"] [topics:\"Ethical and Professional Standards\"] OR [topics:\"Economics\"] [topics:\"Ethical and Professional Standards\"])",
       "color": {
         "a": 1,
         "rgb": 10980346
@@ -76,6 +90,34 @@
         "a": 1,
         "rgb": 439764
       }
+    },
+    {
+      "query": "path:\"20 Concepts\" [topics:\"Corporate Issuers\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15905333
+      }
+    },
+    {
+      "query": "path:\"20 Concepts\" [topics:\"Derivatives\"]",
+      "color": {
+        "a": 1,
+        "rgb": 2196944
+      }
+    },
+    {
+      "query": "path:\"20 Concepts\" [topics:\"Economics\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"20 Concepts\" [topics:\"Ethical and Professional Standards\"]",
+      "color": {
+        "a": 1,
+        "rgb": 10053375
+      }
     }
   ],
   "collapse-display": false,
@@ -88,6 +130,6 @@
   "repelStrength": 10,
   "linkStrength": 0.85,
   "linkDistance": 120,
-  "scale": 2.130278748655041,
+  "scale": 0.3726010041663984,
   "close": false
 }

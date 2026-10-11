@@ -41,9 +41,23 @@ $$
 
 For analysis, the source suggests that a DTL unlikely to reverse may be treated more like equity, while a DTL expected to reverse remains a true liability.[^fsa-tax-p77]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Deferred-tax matrix and formula
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-tax-p75]
+| Item | Carrying value versus tax base | Result |
+| --- | --- | --- |
+| Asset | Greater | DTL |
+| Asset | Less | DTA |
+| Liability | Greater | DTA |
+| Liability | Less | DTL |
+[^fsa-detail-p75]
+
+$$
+DTA\ or\ DTL=Temporary\ difference\times Expected\ future\ tax\ rate
+$$[^fsa-detail-p78]
+
+Tax-loss carryforwards create a DTA subject to the source's recoverability assessment.[^fsa-detail-p75]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -60,3 +74,5 @@ Identify the definition, direction of the principal relationships, and the finan
 [^fsa-tax-p75]: [[financial-statement-analysis-level-1-speed-review.pdf#page=75|Financial Statement Analysis Level I Speed Review, PDF p. 75]]
 [^fsa-tax-p78]: [[financial-statement-analysis-level-1-speed-review.pdf#page=78|Financial Statement Analysis Level I Speed Review, PDF p. 78]]
 [^fsa-tax-p77]: [[financial-statement-analysis-level-1-speed-review.pdf#page=77|Financial Statement Analysis Level I Speed Review, PDF p. 77]]
+[^fsa-detail-p75]: [[financial-statement-analysis-level-1-speed-review.pdf#page=75|Financial Statement Analysis Level I Speed Review, PDF p. 75]]
+[^fsa-detail-p78]: [[financial-statement-analysis-level-1-speed-review.pdf#page=78|Financial Statement Analysis Level I Speed Review, PDF p. 78]]

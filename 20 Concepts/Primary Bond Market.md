@@ -34,6 +34,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-markets-p23]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Public issuance may use firm-commitment or best-efforts underwriting, syndication, auctions, reopenings, or shelf registration; private placements restrict buyers. Secondary trading occurs on exchanges or through dealer-based OTC markets, where liquidity and bid-ask spreads differ across securities.[^fi-markets-p23][^fi-markets-p24]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -44,3 +50,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-markets-p23]: [[fixed-income-level-1-speed-review.pdf#page=23|Fixed Income Level I Speed Review, PDF p. 23]]
+[^fi-markets-p24]: [[fixed-income-level-1-speed-review.pdf#page=24|Fixed Income Level I Speed Review, PDF p. 24]]

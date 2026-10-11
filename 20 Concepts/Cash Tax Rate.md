@@ -35,9 +35,19 @@ $$
 $$
 [^fsa-tax-p79]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Forecasting measures
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-tax-p79]
+$$
+Effective\ tax\ rate=\frac{Income\ tax\ expense}{Pretax\ income}
+$$[^fsa-detail-p79]
+
+$$
+Cash\ tax\ rate=\frac{Cash\ taxes\ paid}{Pretax\ income}
+$$[^fsa-detail-p79]
+
+The source positions the effective rate for earnings forecasts and the cash rate for cash-flow forecasts.[^fsa-detail-p79]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -49,3 +59,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-tax-p79]: [[financial-statement-analysis-level-1-speed-review.pdf#page=79|Financial Statement Analysis Level I Speed Review, PDF p. 79]]
+[^fsa-detail-p79]: [[financial-statement-analysis-level-1-speed-review.pdf#page=79|Financial Statement Analysis Level I Speed Review, PDF p. 79]]

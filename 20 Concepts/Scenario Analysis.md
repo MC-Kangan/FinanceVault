@@ -43,6 +43,14 @@ Use Scenario Analysis as a distinct exam concept when navigating [[Equity Invest
 
 Do not merge Scenario Analysis with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p67][^pm-l1-p35]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Separate maintenance capex, often anchored to depreciation and adjusted for inflation, from discretionary growth capex tied to expansion and revenue growth. Project capital structure with leverage ratios, historical practice, financial strategy, and capex needs. Complete the forecast with alternative outcomes based on key risks and their likelihood.[^eq-enrich-p66][^eq-enrich-p67]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Capital Expenditure Forecasting]], [[Sensitivity Analysis]], [[Stress Testing]], [[Risk Sensitivity]]. Use the topic map to move outward to the wider model or workflow.
@@ -54,3 +62,6 @@ Within the source sequence, this concept is directly adjacent to [[Capital Expen
 ## Sources
 [^eq-l1-p67]: [[equity-investments-level-1-speed-review.pdf#page=67|Equity Investments Level I Speed Review, PDF p. 67]]
 [^pm-l1-p35]: [[portfolio-management-level-1-speed-review.pdf#page=35|Portfolio Management Level I Speed Review, PDF p. 35]]
+
+[^eq-enrich-p66]: [[equity-investments-level-1-speed-review.pdf#page=66|Equity Investments Level I Speed Review, PDF p. 66]]
+[^eq-enrich-p67]: [[equity-investments-level-1-speed-review.pdf#page=67|Equity Investments Level I Speed Review, PDF p. 67]]

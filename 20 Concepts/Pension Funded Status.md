@@ -40,9 +40,11 @@ $$
 $$
 [^fsa-pension-p67]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Risk allocation and funded status
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-pension-p67]
+For a defined-contribution plan, the employer contribution is pension expense and a CFO outflow; the employee owns the account and bears investment risk and return. For a defined-benefit plan, the projected obligation depends on actuarial assumptions, the source uses a high-quality corporate bond yield for discounting, the employer bears risk, plan assets are held separately, and funded status appears as a net pension asset or liability.[^fsa-detail-p67]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -56,3 +58,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-pension-p67]: [[financial-statement-analysis-level-1-speed-review.pdf#page=67|Financial Statement Analysis Level I Speed Review, PDF p. 67]]
+[^fsa-detail-p67]: [[financial-statement-analysis-level-1-speed-review.pdf#page=67|Financial Statement Analysis Level I Speed Review, PDF p. 67]]

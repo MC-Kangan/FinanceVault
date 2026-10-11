@@ -37,6 +37,14 @@ Use Value Effect as a distinct exam concept when navigating [[Equity Investments
 
 Do not merge Value Effect with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p32]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+The slide presents small-cap risk-adjusted outperformance, value-stock outperformance using low P/E and P/B characteristics, closed-end funds trading below NAV, slow price adjustment to earnings surprises, and possible abnormal IPO gains for investors receiving shares at the offer price.[^eq-enrich-p33]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Size Effect]], [[Closed-End Fund Discount]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Size Effect]]
 
 ## Sources
 [^eq-l1-p32]: [[equity-investments-level-1-speed-review.pdf#page=32|Equity Investments Level I Speed Review, PDF p. 32]]
+
+[^eq-enrich-p33]: [[equity-investments-level-1-speed-review.pdf#page=33|Equity Investments Level I Speed Review, PDF p. 33]]

@@ -32,9 +32,13 @@ tags:
 
 Debt-to-equity compares debt financing with shareholders' equity and measures financial leverage.[^fsa-l1-p45]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Formula and comparison
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p45]
+$$
+Debt\text{-}to\text{-}equity=\frac{Total\ debt}{Total\ equity}
+$$[^fsa-detail-p45]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +50,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p45]: [[financial-statement-analysis-level-1-speed-review.pdf#page=45|Financial Statement Analysis Level I Speed Review, PDF p. 45]]
+[^fsa-detail-p45]: [[financial-statement-analysis-level-1-speed-review.pdf#page=45|Financial Statement Analysis Level I Speed Review, PDF p. 45]]

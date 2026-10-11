@@ -41,6 +41,20 @@ Use Dividend Discount Model as a distinct exam concept when navigating [[Equity 
 
 Do not merge Dividend Discount Model with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p71]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Equity value is the present value of expected dividends:[^eq-enrich-p73]
+
+$$
+V_0=\sum_{i=1}^{\infty}\frac{D_i}{(1+r)^i}
+$$[^eq-enrich-p73]
+
+For a finite forecast, add the discounted terminal price $P_n/(1+r)^n$.[^eq-enrich-p73]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Equity Valuation Model]], [[Residual Income Model]]. Use the topic map to move outward to the wider model or workflow.
@@ -51,3 +65,5 @@ Within the source sequence, this concept is directly adjacent to [[Equity Valuat
 
 ## Sources
 [^eq-l1-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
+
+[^eq-enrich-p73]: [[equity-investments-level-1-speed-review.pdf#page=73|Equity Investments Level I Speed Review, PDF p. 73]]

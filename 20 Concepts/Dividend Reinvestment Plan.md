@@ -38,6 +38,14 @@ Use Dividend Reinvestment Plan as a distinct exam concept when navigating [[Equi
 
 Do not merge Dividend Reinvestment Plan with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p8]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A private placement is offered to qualified investors. Shelf registration allows a seasoned issuer to sell when funding is needed or market conditions are favorable. A dividend reinvestment plan directs dividends into newly issued shares, while a rights offering gives existing holders the opportunity to buy new shares at a discount.[^eq-enrich-p8]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Shelf Registration]], [[Rights Offering]]. Use the topic map to move outward to the wider model or workflow.
@@ -48,3 +56,5 @@ Within the source sequence, this concept is directly adjacent to [[Shelf Registr
 
 ## Sources
 [^eq-l1-p8]: [[equity-investments-level-1-speed-review.pdf#page=8|Equity Investments Level I Speed Review, PDF p. 8]]
+
+[^eq-enrich-p8]: [[equity-investments-level-1-speed-review.pdf#page=8|Equity Investments Level I Speed Review, PDF p. 8]]

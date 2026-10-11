@@ -37,6 +37,14 @@ Use Market Efficiency as a distinct exam concept when navigating [[Equity Invest
 
 Do not merge Market Efficiency with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p4]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A financial system channels saving, borrowing, equity raising, risk management, asset exchange, and information-motivated trading. It establishes equilibrium required returns and supports capital allocation. A well-functioning system is complete and operationally, informationally, and allocationally efficient; regulation addresses fraud, agency problems, standards, fairness, undercapitalization, and long-term obligations.[^eq-enrich-p4]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Market Regulation]], [[Broker]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Market Regula
 
 ## Sources
 [^eq-l1-p4]: [[equity-investments-level-1-speed-review.pdf#page=4|Equity Investments Level I Speed Review, PDF p. 4]]
+
+[^eq-enrich-p4]: [[equity-investments-level-1-speed-review.pdf#page=4|Equity Investments Level I Speed Review, PDF p. 4]]

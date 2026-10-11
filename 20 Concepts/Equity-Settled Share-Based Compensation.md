@@ -33,9 +33,11 @@ tags:
 
 Equity-settled awards include restricted shares and employee stock options. The grant-date fair value is recognized as compensation expense over the vesting period; stock grants use market price and option grants use an option-pricing model. The arrangement avoids current cash outflow but can dilute shareholders.[^fsa-share-p69]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Measurement and trade-offs
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-share-p69]
+Equity awards can align employees with shareholders and require no cash outflow, but may dilute shareholders and encourage excessive risk-taking. Measure at grant-date fair value and recognize expense over the vesting or service period; stock grants use grant-date market price and options require an option-pricing model.[^fsa-detail-p69]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -48,3 +50,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-share-p69]: [[financial-statement-analysis-level-1-speed-review.pdf#page=69|Financial Statement Analysis Level I Speed Review, PDF p. 69]]
+[^fsa-detail-p69]: [[financial-statement-analysis-level-1-speed-review.pdf#page=69|Financial Statement Analysis Level I Speed Review, PDF p. 69]]

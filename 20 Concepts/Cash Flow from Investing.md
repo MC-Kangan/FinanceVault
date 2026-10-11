@@ -32,9 +32,11 @@ tags:
 
 Cash flow from investing reports cash flows from acquiring and disposing of long-term assets and non-cash-equivalent investments.[^fsa-l1-p39]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Classification practice
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p39]
+Classify investing and financing cash flows separately from operations. The source page is a practice classification table without displayed solutions, so retain the categories and use the slide for self-testing rather than adding inferred answers.[^fsa-detail-p39]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p39]: [[financial-statement-analysis-level-1-speed-review.pdf#page=39|Financial Statement Analysis Level I Speed Review, PDF p. 39]]
+[^fsa-detail-p39]: [[financial-statement-analysis-level-1-speed-review.pdf#page=39|Financial Statement Analysis Level I Speed Review, PDF p. 39]]

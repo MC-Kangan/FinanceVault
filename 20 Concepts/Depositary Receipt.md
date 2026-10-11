@@ -37,6 +37,14 @@ Use Depositary Receipt as a distinct exam concept when navigating [[Equity Inves
 
 Do not merge Depositary Receipt with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p40]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A depositary receipt represents ownership in a foreign company, and its price responds to the same drivers as the underlying shares. A basket of listed DRs is an exchange-traded fund holding a DR portfolio.[^eq-enrich-p40]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Private Investment in Public Equity]], [[Sponsored Depositary Receipt]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Private Inves
 
 ## Sources
 [^eq-l1-p40]: [[equity-investments-level-1-speed-review.pdf#page=40|Equity Investments Level I Speed Review, PDF p. 40]]
+
+[^eq-enrich-p40]: [[equity-investments-level-1-speed-review.pdf#page=40|Equity Investments Level I Speed Review, PDF p. 40]]

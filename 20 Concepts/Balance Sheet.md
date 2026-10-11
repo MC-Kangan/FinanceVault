@@ -58,4 +58,3 @@ Because it is a point-in-time statement, the balance sheet is a stock measure. A
 
 ## Sources
 [^fsa-l1-p4]: [[financial-statement-analysis-level-1-speed-review.pdf#page=4|Financial Statement Analysis Level I Speed Review, PDF p. 4]]
-

@@ -31,9 +31,15 @@ tags:
 
 Basic EPS equals income available to common shareholders divided by weighted-average common shares outstanding.[^fsa-l1-p22]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Formula and share weighting
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p22]
+$$
+Basic\ EPS=\frac{Net\ income-Preferred\ dividends}{Weighted\ average\ common\ shares\ outstanding}
+$$[^fsa-detail-p22]
+
+Shares issued or repurchased are time-weighted, while a stock split is reflected retrospectively for every presented period.[^fsa-detail-p22]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +51,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p22]: [[financial-statement-analysis-level-1-speed-review.pdf#page=22|Financial Statement Analysis Level I Speed Review, PDF p. 22]]
+[^fsa-detail-p22]: [[financial-statement-analysis-level-1-speed-review.pdf#page=22|Financial Statement Analysis Level I Speed Review, PDF p. 22]]

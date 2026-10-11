@@ -37,6 +37,14 @@ Use Overreaction as a distinct exam concept when navigating [[Equity Investments
 
 Do not merge Overreaction with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p31]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Momentum describes continued high subsequent returns after recent strong performance. Overreaction describes prices becoming inflated after good information or depressed after bad information. Persistent anomalies challenge efficiency, although data mining can produce false discoveries.[^eq-enrich-p31][^eq-enrich-p32]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Momentum Anomaly]], [[Size Effect]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,6 @@ Within the source sequence, this concept is directly adjacent to [[Momentum Anom
 
 ## Sources
 [^eq-l1-p31]: [[equity-investments-level-1-speed-review.pdf#page=31|Equity Investments Level I Speed Review, PDF p. 31]]
+
+[^eq-enrich-p31]: [[equity-investments-level-1-speed-review.pdf#page=31|Equity Investments Level I Speed Review, PDF p. 31]]
+[^eq-enrich-p32]: [[equity-investments-level-1-speed-review.pdf#page=32|Equity Investments Level I Speed Review, PDF p. 32]]

@@ -41,6 +41,12 @@ Figure: The seniority ladder links claim priority and collateral support to expe
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-credit-p88]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Creditors at the same seniority rank form one class; recovery generally varies by priority. The slide orders secured debt above senior unsecured, senior subordinated, and junior subordinated claims while warning that priority is not absolute.[^fi-credit-p88]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

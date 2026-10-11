@@ -9,21 +9,23 @@ aliases:
 first_level: 1
 topics:
 - '[[Financial Statement Analysis]]'
+- '[[Corporate Issuers]]'
 prerequisites: []
 used_in:
 - '[[Corporate Credit Analysis]]'
 related:
 - '[[Free Cash Flow to the Firm]]'
 - '[[Free Cash Flow to Equity]]'
+- '[[Secondary Liquidity Source]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Financial Statement Analysis Level 1 Speed Review]]'
 - '[[Source - Fixed Income Level 1 Speed Review]]'
+- '[[Source - Corporate Issuers Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
 ---
-
 # Free Cash Flow
 
 > [!summary]
@@ -47,6 +49,29 @@ Free cash flow focuses on distributable economic cash generation rather than acc
 
 Always identify which claimholders the measure belongs to. FCFF and FCFE differ because interest after tax and net borrowing alter the cash attributable to debt and equity providers.[^fsa-l1-p40]
 
+### Corporate Issuers and Derivatives applications
+
+<!-- merged:ci-der-applications -->
+
+**Corporate Issuers application:** Primary liquidity comes from readily available operating and financing sources; secondary sources involve more consequential actions such as asset sales or restructuring. Use [[Corporate Issuers - Working Capital and Liquidity]] for the surrounding chapter context.[^ci-l1-p16]
+
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Corporate credit analysis combines business model, competition, governance, and business risk with profitability, coverage, leverage, and cash-flow measures. These accounting-derived measures are genuine bridges between Financial Statement Analysis and Fixed Income.[^fi-credit-p87]
+
+$$EBIT\ margin=\frac{Operating\ income}{Revenue},\quad Interest\ coverage=\frac{Operating\ income}{Interest\ expense},\quad Debt/EBITDA=\frac{Debt}{EBITDA}$$
+[^fi-credit-p87]
+
+<!-- enrichment:corporate-issuers:start -->
+
+### Slide-level enrichment
+
+Primary liquidity comes from cash and marketable securities that can be sold without significant value loss, borrowing or supplier trade credit, CFO, and free cash flow. The source uses $Free\ cash\ flow=CFO-Investments\ in\ long\text{-}term\ assets$. Secondary actions include cutting dividends or capital expenditure, issuing equity, renegotiating contracts, selling assets, or restructuring; these can dilute owners, sacrifice opportunities, impair long-term value, and create liquidation costs.[^ci-l1-p16]
+
+<!-- enrichment:corporate-issuers:end -->
+
 ## Connections
 
 - Use [[Free Cash Flow to the Firm]] for all-capital-provider cash flow.
@@ -60,3 +85,5 @@ Always identify which claimholders the measure belongs to. FCFF and FCFE differ 
 ## Sources
 [^fsa-l1-p40]: [[financial-statement-analysis-level-1-speed-review.pdf#page=40|Financial Statement Analysis Level I Speed Review, PDF p. 40]]
 [^fi-l1-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]
+[^ci-l1-p16]: [[corporate-issuers-level-1-speed-review.pdf#page=16|Corporate Issuers Level I Speed Review, PDF p. 16]]
+[^fi-credit-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]

@@ -37,6 +37,14 @@ Use Settlement and Custody as a distinct exam concept when navigating [[Equity I
 
 Do not merge Settlement and Custody with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p6]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Exchanges have regulatory authority, while ATSs, ECNs, and MTFs perform trading functions without that authority. Securitizers pool assets and issue claims on the pool; arbitrageurs trade identical or similar instruments across price differences and move liquidity. Depository institutions, insurers, and settlement or custody providers supply supporting market services.[^eq-enrich-p6]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Insurance Company]], [[Primary Market]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Insurance Com
 
 ## Sources
 [^eq-l1-p6]: [[equity-investments-level-1-speed-review.pdf#page=6|Equity Investments Level I Speed Review, PDF p. 6]]
+
+[^eq-enrich-p6]: [[equity-investments-level-1-speed-review.pdf#page=6|Equity Investments Level I Speed Review, PDF p. 6]]

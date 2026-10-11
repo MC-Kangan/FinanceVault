@@ -46,6 +46,15 @@ Holding other factors constant, more debt relative to EBITDA indicates greater l
 
 EBITDA is not free cash flow: it omits working-capital investment, fixed-capital investment, taxes, and financing cash flows.[^fi-l1-p87]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Corporate credit analysis combines business model, competition, governance, and business risk with profitability, coverage, leverage, and cash-flow measures. These accounting-derived measures are genuine bridges between Financial Statement Analysis and Fixed Income.[^fi-credit-p87]
+
+$$EBIT\ margin=\frac{Operating\ income}{Revenue},\quad Interest\ coverage=\frac{Operating\ income}{Interest\ expense},\quad Debt/EBITDA=\frac{Debt}{EBITDA}$$
+[^fi-credit-p87]
+
 ## Connections
 
 - Debt is grounded in the [[Balance Sheet]].
@@ -58,3 +67,4 @@ EBITDA is not free cash flow: it omits working-capital investment, fixed-capital
 
 ## Sources
 [^fi-l1-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]
+[^fi-credit-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]

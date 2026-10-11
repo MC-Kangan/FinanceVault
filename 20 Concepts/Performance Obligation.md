@@ -30,9 +30,15 @@ tags:
 
 A performance obligation is a distinct promise to transfer a good or service and is the unit to which transaction price is allocated.[^fsa-l1-p15]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Five-step model
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p15]
+1. Identify the contract with the customer.
+2. Identify the performance obligations.
+3. Determine the transaction price.
+4. Allocate the transaction price to the performance obligations.
+5. Recognize revenue when each obligation is satisfied and control transfers.[^fsa-detail-p15]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -44,3 +50,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p15]: [[financial-statement-analysis-level-1-speed-review.pdf#page=15|Financial Statement Analysis Level I Speed Review, PDF p. 15]]
+[^fsa-detail-p15]: [[financial-statement-analysis-level-1-speed-review.pdf#page=15|Financial Statement Analysis Level I Speed Review, PDF p. 15]]

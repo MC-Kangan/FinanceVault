@@ -35,6 +35,12 @@ Z-spread is the constant spread added to every government spot rate that makes d
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p48]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+G-spread is measured over an actual or interpolated government yield; I-spread over a same-tenor swap rate; Z-spread is the constant spread over the spot curve that prices the bond. Option-adjusted spread removes embedded-option influence, so the deck shows callable-bond OAS below Z-spread and putable-bond OAS above Z-spread.[^fi-valuation-p47][^fi-valuation-p48]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -45,3 +51,5 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p48]: [[fixed-income-level-1-speed-review.pdf#page=48|Fixed Income Level I Speed Review, PDF p. 48]]
+[^fi-valuation-p47]: [[fixed-income-level-1-speed-review.pdf#page=47|Fixed Income Level I Speed Review, PDF p. 47]]
+[^fi-valuation-p48]: [[fixed-income-level-1-speed-review.pdf#page=48|Fixed Income Level I Speed Review, PDF p. 48]]

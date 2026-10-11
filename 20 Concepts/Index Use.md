@@ -37,6 +37,14 @@ Use Index Use as a distinct exam concept when navigating [[Equity Investments]];
 
 Do not merge Index Use with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p21]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Indexes gauge market sentiment, benchmark active portfolios, proxy returns and systematic risk, represent asset classes in allocation models, and provide model portfolios for index funds and ETFs.[^eq-enrich-p21]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Index Divisor]], [[Equity Index]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Index Divisor
 
 ## Sources
 [^eq-l1-p21]: [[equity-investments-level-1-speed-review.pdf#page=21|Equity Investments Level I Speed Review, PDF p. 21]]
+
+[^eq-enrich-p21]: [[equity-investments-level-1-speed-review.pdf#page=21|Equity Investments Level I Speed Review, PDF p. 21]]

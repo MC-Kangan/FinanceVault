@@ -37,6 +37,12 @@ A floating-rate note resets its coupon to a reference rate plus a quoted margin 
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p9]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Fixed coupons remain constant; floating coupons reset to a reference rate plus quoted margin. Deferred, zero-coupon, step-up, credit-linked, index-linked, inflation-linked, and payment-in-kind structures change the timing, trigger, indexation, or settlement form of payments.[^fi-features-p9][^fi-features-p10]
+
 ## Connections
 
 - [[Floating-Rate Note Valuation]]
@@ -48,3 +54,5 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p9]: [[fixed-income-level-1-speed-review.pdf#page=9|Fixed Income Level I Speed Review, PDF p. 9]]
+[^fi-features-p9]: [[fixed-income-level-1-speed-review.pdf#page=9|Fixed Income Level I Speed Review, PDF p. 9]]
+[^fi-features-p10]: [[fixed-income-level-1-speed-review.pdf#page=10|Fixed Income Level I Speed Review, PDF p. 10]]

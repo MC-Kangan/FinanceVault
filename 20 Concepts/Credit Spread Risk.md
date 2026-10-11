@@ -41,6 +41,12 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-credit-p83]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Yield spread versus comparable default-free debt includes both credit spread and liquidity premium. Macro conditions, liquidity, and issuer performance affect spreads; price sensitivity to spread changes can be approximated with duration and convexity.[^fi-credit-p83]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

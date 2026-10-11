@@ -32,9 +32,11 @@ tags:
 
 An audit opinion communicates the auditor's conclusion about whether financial statements are fairly presented under the applicable framework.[^fsa-l1-p9]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Opinion types
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p9]
+An audit is an independent review that provides reasonable assurance about fair presentation. Distinguish unqualified, qualified, adverse, and disclaimer opinions; the source separately notes internal-control reporting for US-listed companies.[^fsa-detail-p9]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p9]: [[financial-statement-analysis-level-1-speed-review.pdf#page=9|Financial Statement Analysis Level I Speed Review, PDF p. 9]]
+[^fsa-detail-p9]: [[financial-statement-analysis-level-1-speed-review.pdf#page=9|Financial Statement Analysis Level I Speed Review, PDF p. 9]]

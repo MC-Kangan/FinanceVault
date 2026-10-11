@@ -70,6 +70,15 @@ Investors compare expected loss with the credit spread to judge compensation, wh
 > [!tip] 中文提示
 > 先确认 LGD 是金额还是比例；单位不同，公式中的敞口处理也不同。[^fi-l1-p80]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Credit risk includes both default likelihood and loss severity. Unsecured investment-grade analysis emphasizes probability of default, while high-yield analysis also emphasizes collateral, covenants, and loss given default.[^fi-credit-p80][^fi-credit-p81]
+
+$$Expected\ loss=PD\times LGD,\qquad LGD=EAD\times(1-RR)$$
+[^fi-credit-p80]
+
 ## Connections
 
 - [[Probability of Default]]
@@ -84,3 +93,5 @@ Investors compare expected loss with the credit spread to judge compensation, wh
 ## Sources
 [^fi-l1-p80]: [[fixed-income-level-1-speed-review.pdf#page=80|Fixed Income Level I Speed Review, PDF p. 80]]
 [^fi-l1-p83]: [[fixed-income-level-1-speed-review.pdf#page=83|Fixed Income Level I Speed Review, PDF p. 83]]
+[^fi-credit-p80]: [[fixed-income-level-1-speed-review.pdf#page=80|Fixed Income Level I Speed Review, PDF p. 80]]
+[^fi-credit-p81]: [[fixed-income-level-1-speed-review.pdf#page=81|Fixed Income Level I Speed Review, PDF p. 81]]

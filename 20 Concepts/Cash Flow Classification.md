@@ -31,9 +31,19 @@ tags:
 
 Cash flows are classified as operating, investing, or financing, with some interest and dividend classifications differing between IFRS and US GAAP.[^fsa-l1-p36]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Classification and quality
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p36]
+| Item | US GAAP | IFRS alternatives shown |
+| --- | --- | --- |
+| Interest received | CFO | CFO or CFI |
+| Interest paid | CFO | CFO or CFF |
+| Dividends received | CFO | CFO or CFI |
+| Dividends paid | CFF | CFO or CFF |
+[^fsa-detail-p36]
+
+For a mature company, CFO above net income is presented as desirable. Strong reported income accompanied by weak CFO can flag weak earnings quality or aggressive accounting.[^fsa-detail-p36]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +55,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p36]: [[financial-statement-analysis-level-1-speed-review.pdf#page=36|Financial Statement Analysis Level I Speed Review, PDF p. 36]]
+[^fsa-detail-p36]: [[financial-statement-analysis-level-1-speed-review.pdf#page=36|Financial Statement Analysis Level I Speed Review, PDF p. 36]]

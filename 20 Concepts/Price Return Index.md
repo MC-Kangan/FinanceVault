@@ -37,6 +37,24 @@ Use Price Return Index as a distinct exam concept when navigating [[Equity Inves
 
 Do not merge Price Return Index with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p21]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Price return excludes distributions, whereas total return includes them:[^eq-enrich-p21]
+
+$$
+PR_1=\frac{V_1-V_0}{V_0}=\sum_{i=1}^{n}w_iPR_i
+$$[^eq-enrich-p21]
+
+$$
+TR_1=\frac{V_1-V_0+D_1}{V_0}=\sum_{i=1}^{n}w_iTR_i
+$$[^eq-enrich-p21]
+
+Consequently, the total-return index exceeds the price-return index over time under the source comparison.[^eq-enrich-p21]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Security Market Index]], [[Total Return Index]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +65,5 @@ Within the source sequence, this concept is directly adjacent to [[Security Mark
 
 ## Sources
 [^eq-l1-p21]: [[equity-investments-level-1-speed-review.pdf#page=21|Equity Investments Level I Speed Review, PDF p. 21]]
+
+[^eq-enrich-p21]: [[equity-investments-level-1-speed-review.pdf#page=21|Equity Investments Level I Speed Review, PDF p. 21]]

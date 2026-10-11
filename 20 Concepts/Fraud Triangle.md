@@ -30,9 +30,11 @@ tags:
 
 The fraud triangle organizes fraud risk into motivation or pressure, opportunity, and rationalization.[^fsa-l1-p83]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Three conditions
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p83]
+The three source elements are incentive or pressure, opportunity, and rationalization. Their coexistence raises the risk of fraudulent reporting.[^fsa-detail-p83]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -44,3 +46,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p83]: [[financial-statement-analysis-level-1-speed-review.pdf#page=83|Financial Statement Analysis Level I Speed Review, PDF p. 83]]
+[^fsa-detail-p83]: [[financial-statement-analysis-level-1-speed-review.pdf#page=83|Financial Statement Analysis Level I Speed Review, PDF p. 83]]

@@ -30,9 +30,17 @@ tags:
 
 The if-converted method assumes convertible securities were converted, adding eligible numerator adjustments and incremental common shares.[^fsa-l1-p23]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### If-converted mechanics
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p23]
+$$
+Diluted\ EPS_{preferred}=\frac{NI-Preferred\ dividends+Convertible\ preferred\ dividends}{WASO+Shares\ from\ assumed\ conversion}
+$$[^fsa-detail-p23]
+
+$$
+Diluted\ EPS_{debt}=\frac{NI-Preferred\ dividends+After\text{-}tax\ interest}{WASO+Shares\ from\ assumed\ conversion}
+$$[^fsa-detail-p24]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -44,3 +52,5 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p23]: [[financial-statement-analysis-level-1-speed-review.pdf#page=23|Financial Statement Analysis Level I Speed Review, PDF p. 23]]
+[^fsa-detail-p23]: [[financial-statement-analysis-level-1-speed-review.pdf#page=23|Financial Statement Analysis Level I Speed Review, PDF p. 23]]
+[^fsa-detail-p24]: [[financial-statement-analysis-level-1-speed-review.pdf#page=24|Financial Statement Analysis Level I Speed Review, PDF p. 24]]

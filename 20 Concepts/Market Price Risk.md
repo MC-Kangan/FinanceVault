@@ -45,6 +45,12 @@ Identify the definition, direction of the principal relationships, and the finan
 
 **Portfolio Management application:** Risk identification covers financial risks—market, credit, liquidity—and non-financial risks such as operational, model, settlement, legal, regulatory, political, and reputational risk.[^pm-l1-p34]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Fixed-rate returns come from promised cash flows, reinvestment income, and capital gain or loss. Reinvestment risk matters more over long horizons; market price risk matters more over short horizons. Macaulay duration is the horizon at which the two effects offset for a one-time parallel curve shift.[^fi-risk-p60][^fi-risk-p61]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -56,3 +62,5 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fi-l1-p60]: [[fixed-income-level-1-speed-review.pdf#page=60|Fixed Income Level I Speed Review, PDF p. 60]]
 [^pm-l1-p34]: [[portfolio-management-level-1-speed-review.pdf#page=34|Portfolio Management Level I Speed Review, PDF p. 34]]
+[^fi-risk-p60]: [[fixed-income-level-1-speed-review.pdf#page=60|Fixed Income Level I Speed Review, PDF p. 60]]
+[^fi-risk-p61]: [[fixed-income-level-1-speed-review.pdf#page=61|Fixed Income Level I Speed Review, PDF p. 61]]

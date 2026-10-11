@@ -38,6 +38,14 @@ Use Market-Capitalization-Weighted Index as a distinct exam concept when navigat
 
 Do not merge Market-Capitalization-Weighted Index with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p24]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Market-cap weight is each company's capitalization divided by total index capitalization. It represents market fraction but gives larger firms more influence and creates a momentum tilt. Float adjustment uses shares available to the investing public; free-float adjustment further removes shares unavailable to foreign investors.[^eq-enrich-p24]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Price-Weighted Index]], [[Float-Adjusted Market-Capitalization-Weighted Index]]. Use the topic map to move outward to the wider model or workflow.
@@ -48,3 +56,5 @@ Within the source sequence, this concept is directly adjacent to [[Price-Weighte
 
 ## Sources
 [^eq-l1-p24]: [[equity-investments-level-1-speed-review.pdf#page=24|Equity Investments Level I Speed Review, PDF p. 24]]
+
+[^eq-enrich-p24]: [[equity-investments-level-1-speed-review.pdf#page=24|Equity Investments Level I Speed Review, PDF p. 24]]

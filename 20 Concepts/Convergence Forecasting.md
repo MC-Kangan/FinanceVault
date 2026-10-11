@@ -37,6 +37,14 @@ Use Convergence Forecasting as a distinct exam concept when navigating [[Equity 
 
 Do not merge Convergence Forecasting with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p63]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Base-rate convergence uses a long-period industry or peer average or median. It suits established industries and smaller companies maturing toward peer economics, but not changing industries, highly cyclical firms whose long-run average obscures conditions, or dominant leaders.[^eq-enrich-p63]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Base-Rate Forecasting]], [[Management Guidance]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Base-Rate For
 
 ## Sources
 [^eq-l1-p63]: [[equity-investments-level-1-speed-review.pdf#page=63|Equity Investments Level I Speed Review, PDF p. 63]]
+
+[^eq-enrich-p63]: [[equity-investments-level-1-speed-review.pdf#page=63|Equity Investments Level I Speed Review, PDF p. 63]]

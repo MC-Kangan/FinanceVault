@@ -37,6 +37,14 @@ Use Management Guidance as a distinct exam concept when navigating [[Equity Inve
 
 Do not merge Management Guidance with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p64]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Management guidance usually gives a range that embeds sub-forecasts and assumptions. Use it when available and when management has a reliable forecasting record; otherwise discretionary analysis is especially relevant for cyclical, incomparable, unguided, or fundamentally changing firms.[^eq-enrich-p64]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Convergence Forecasting]], [[Revenue Forecasting]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Convergence F
 
 ## Sources
 [^eq-l1-p64]: [[equity-investments-level-1-speed-review.pdf#page=64|Equity Investments Level I Speed Review, PDF p. 64]]
+
+[^eq-enrich-p64]: [[equity-investments-level-1-speed-review.pdf#page=64|Equity Investments Level I Speed Review, PDF p. 64]]

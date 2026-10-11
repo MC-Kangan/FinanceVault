@@ -32,9 +32,11 @@ tags:
 
 A common-size statement expresses items relative to a common base to support comparison across time and firms of different size.[^fsa-l1-p43]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Method and limitations
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p43]
+A common-size income statement expresses each item as a percentage of revenue, while a common-size balance sheet uses total assets. Horizontal analysis compares changes through time; vertical analysis compares components within a period. Limitations include operating heterogeneity, imperfect accounting consistency, required analyst judgment, and alternative calculation methods.[^fsa-detail-p43]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p43]: [[financial-statement-analysis-level-1-speed-review.pdf#page=43|Financial Statement Analysis Level I Speed Review, PDF p. 43]]
+[^fsa-detail-p43]: [[financial-statement-analysis-level-1-speed-review.pdf#page=43|Financial Statement Analysis Level I Speed Review, PDF p. 43]]

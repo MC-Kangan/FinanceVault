@@ -31,9 +31,13 @@ tags:
 
 Gross profit margin equals gross profit divided by revenue and measures profitability after product costs.[^fsa-l1-p46]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Formula
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p46]
+$$
+Gross\ profit\ margin=\frac{Gross\ profit}{Revenue}
+$$[^fsa-detail-p46]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +49,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p46]: [[financial-statement-analysis-level-1-speed-review.pdf#page=46|Financial Statement Analysis Level I Speed Review, PDF p. 46]]
+[^fsa-detail-p46]: [[financial-statement-analysis-level-1-speed-review.pdf#page=46|Financial Statement Analysis Level I Speed Review, PDF p. 46]]

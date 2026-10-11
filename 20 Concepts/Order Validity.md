@@ -37,6 +37,14 @@ Use Order Validity as a distinct exam concept when navigating [[Equity Investmen
 
 Do not merge Order Validity with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p17]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Validity choices shown are immediate-or-cancel, day, good-till-cancelled, good-on-close, and good-on-open. A sell stop activates at or below the stop price; a buy stop activates at or above it. Immediate-or-cancel and fill-or-kill should not be treated as generally identical despite the slide's parenthetical shorthand.[^eq-enrich-p17]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Iceberg Order]], [[Stop Order]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Iceberg Order
 
 ## Sources
 [^eq-l1-p17]: [[equity-investments-level-1-speed-review.pdf#page=17|Equity Investments Level I Speed Review, PDF p. 17]]
+
+[^eq-enrich-p17]: [[equity-investments-level-1-speed-review.pdf#page=17|Equity Investments Level I Speed Review, PDF p. 17]]

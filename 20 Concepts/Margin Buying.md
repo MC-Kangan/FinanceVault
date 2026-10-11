@@ -37,6 +37,26 @@ Use Margin Buying as a distinct exam concept when navigating [[Equity Investment
 
 Do not merge Margin Buying with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p14]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Margin leverage and the margin rate are reciprocals:[^eq-enrich-p14]
+
+$$
+Leverage=\frac{Position\ value}{Buyer's\ equity},\qquad Margin\ rate=\frac{1}{Leverage}
+$$[^eq-enrich-p14]
+
+Falling below maintenance margin triggers a margin call or liquidation. The slide's call-price relation is:[^eq-enrich-p14]
+
+$$
+P_c=P_0\left(\frac{1-Initial\ margin}{1-Maintenance\ margin}\right)
+$$[^eq-enrich-p14]
+
+[^eq-enrich-p14]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Short Selling]], [[Margin Call]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +67,5 @@ Within the source sequence, this concept is directly adjacent to [[Short Selling
 
 ## Sources
 [^eq-l1-p14]: [[equity-investments-level-1-speed-review.pdf#page=14|Equity Investments Level I Speed Review, PDF p. 14]]
+
+[^eq-enrich-p14]: [[equity-investments-level-1-speed-review.pdf#page=14|Equity Investments Level I Speed Review, PDF p. 14]]

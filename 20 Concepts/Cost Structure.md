@@ -37,6 +37,14 @@ Use Cost Structure as a distinct exam concept when navigating [[Equity Investmen
 
 Do not merge Cost Structure with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p48]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Operating costs can be classified by output behavior, nature, or function. Investing costs acquire or produce long-term tangible and intangible assets; financing costs are payments to debt and equity capital providers.[^eq-enrich-p48]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Pricing Power]], [[Economies of Scale]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Pricing Power
 
 ## Sources
 [^eq-l1-p48]: [[equity-investments-level-1-speed-review.pdf#page=48|Equity Investments Level I Speed Review, PDF p. 48]]
+
+[^eq-enrich-p48]: [[equity-investments-level-1-speed-review.pdf#page=48|Equity Investments Level I Speed Review, PDF p. 48]]

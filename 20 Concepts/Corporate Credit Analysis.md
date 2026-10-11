@@ -17,7 +17,7 @@ related:
 - '[[Expected Loss]]'
 - '[[Interest Coverage Ratio]]'
 - '[[Debt-to-EBITDA Ratio]]'
-- '[[Net Profit Margin]]'
+- '[[Operating Profit Margin]]'
 - '[[Free Cash Flow]]'
 contrasts_with: []
 source_notes:
@@ -41,7 +41,7 @@ Assess the business model, industry and competition, corporate governance, and b
 
 ### Quantitative factors
 
-- Profitability: EBIT margin, supported by the broader profitability logic in [[Net Profit Margin]].
+- Profitability: EBIT margin, represented by its canonical concept [[Operating Profit Margin]].
 - Coverage: [[Interest Coverage Ratio]] compares operating income with interest expense.
 - Leverage: [[Debt-to-EBITDA Ratio]] compares debt with a cash-earnings proxy.
 - Cash-flow capacity: retained cash flow to net debt compares retained cash generation with debt net of cash and marketable securities.[^fi-l1-p87]
@@ -99,10 +99,19 @@ $$
 
 Existing `Interest Coverage Ratio` and `Debt-to-EBITDA Ratio` remain the canonical destinations for the coverage and leverage formulas.[^fi-credit-p87]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Corporate credit analysis combines business model, competition, governance, and business risk with profitability, coverage, leverage, and cash-flow measures. These accounting-derived measures are genuine bridges between Financial Statement Analysis and Fixed Income.[^fi-credit-p87]
+
+$$EBIT\ margin=\frac{Operating\ income}{Revenue},\quad Interest\ coverage=\frac{Operating\ income}{Interest\ expense},\quad Debt/EBITDA=\frac{Debt}{EBITDA}$$
+[^fi-credit-p87]
+
 ## Connections
 
 - Open [[Interest Coverage Ratio]] for formula, interpretation, the [[Financial Statement Analysis]] map, and exact supporting pages.
-- Combine [[Debt-to-EBITDA Ratio]], [[Net Profit Margin]], and [[Free Cash Flow]] rather than relying on one ratio.
+- Combine [[Debt-to-EBITDA Ratio]], [[Operating Profit Margin]], and [[Free Cash Flow]] rather than relying on one ratio.
 - Use the direct links above to move between accounting calculations and credit interpretation.
 - Return to [[Fixed Income]] for the broader credit-risk module.
 

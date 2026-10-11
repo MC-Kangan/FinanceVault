@@ -33,9 +33,11 @@ tags:
 
 Capitalized interest is borrowing cost included in the carrying amount of a qualifying asset rather than immediately expensed.[^fsa-l1-p19]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Recognition treatment
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p19]
+Interest incurred to construct an asset requiring a long preparation period is capitalized; the source includes both capitalized and expensed interest when calculating interest coverage. Research cost is expensed, while IFRS development cost may be capitalized after criteria including technical feasibility, intent and ability to complete, and ability to use or sell are met.[^fsa-detail-p19]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -47,3 +49,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p19]: [[financial-statement-analysis-level-1-speed-review.pdf#page=19|Financial Statement Analysis Level I Speed Review, PDF p. 19]]
+[^fsa-detail-p19]: [[financial-statement-analysis-level-1-speed-review.pdf#page=19|Financial Statement Analysis Level I Speed Review, PDF p. 19]]

@@ -37,6 +37,14 @@ Use Short Selling as a distinct exam concept when navigating [[Equity Investment
 
 Do not merge Short Selling with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p13]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A short sale has a maximum gain no greater than 100% but unlimited potential loss. Sale proceeds are held as collateral; the lender may invest them and pay a rebate equal to collateral interest less implicit loan fees. Borrowing cost depends on availability, collateral risk, and borrower default risk, and the short seller makes payments in lieu of distributions.[^eq-enrich-p13]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Short Position]], [[Margin Buying]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Short Positio
 
 ## Sources
 [^eq-l1-p13]: [[equity-investments-level-1-speed-review.pdf#page=13|Equity Investments Level I Speed Review, PDF p. 13]]
+
+[^eq-enrich-p13]: [[equity-investments-level-1-speed-review.pdf#page=13|Equity Investments Level I Speed Review, PDF p. 13]]

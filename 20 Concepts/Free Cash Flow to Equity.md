@@ -62,6 +62,20 @@ Net borrowing can be negative when debt repayment exceeds new borrowing, reducin
 
 **Equity Investments application:** FCFE valuation: $V_0=\sum_{t=1}^{\infty}FCFE_t/(1+r)^t$. FCFE is dividend-paying capacity and can value non-dividend payers. Price multiples use earnings/book/sales/cash flow; trailing uses current/historical and leading uses forward denominators.[^eq-l1-p74]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+The FCFE model values equity from dividend-paying capacity and can value non-dividend-paying shares:[^eq-enrich-p71][^eq-enrich-p74]
+
+$$
+V_0=\sum_{t=1}^{\infty}\frac{FCFE_t}{(1+r)^t}
+$$[^eq-enrich-p71][^eq-enrich-p74]
+
+The model-selection slide separately identifies FCFF as a present-value approach to firm cash flows.[^eq-enrich-p71][^eq-enrich-p74]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 - [[Free Cash Flow]] distinguishes distributable cash from accounting earnings.
@@ -75,3 +89,6 @@ Net borrowing can be negative when debt repayment exceeds new borrowing, reducin
 [^fsa-l1-p40]: [[financial-statement-analysis-level-1-speed-review.pdf#page=40|Financial Statement Analysis Level I Speed Review, PDF p. 40]]
 [^eq-l1-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
 [^eq-l1-p74]: [[equity-investments-level-1-speed-review.pdf#page=74|Equity Investments Level I Speed Review, PDF p. 74]]
+
+[^eq-enrich-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
+[^eq-enrich-p74]: [[equity-investments-level-1-speed-review.pdf#page=74|Equity Investments Level I Speed Review, PDF p. 74]]

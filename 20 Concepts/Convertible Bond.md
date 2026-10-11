@@ -51,6 +51,15 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-features-p13]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+A convertible combines debt with an investor option to exchange the bond for a specified number of common shares; it commonly has a lower yield and higher price than straight debt.[^fi-features-p13]
+
+$$Conversion\ price=\frac{Bond\ par\ value}{Conversion\ ratio},\qquad Conversion\ value=Stock\ price\times Conversion\ ratio$$
+[^fi-features-p13]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

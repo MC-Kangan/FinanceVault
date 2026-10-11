@@ -37,6 +37,14 @@ Use Price-Weighted Index as a distinct exam concept when navigating [[Equity Inv
 
 Do not merge Price-Weighted Index with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p23]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A price-weighted index is the arithmetic average of constituent prices and is replicated with equal share counts. It is simple, but high-priced shares dominate; the divisor must be adjusted after stock splits to preserve the index level.[^eq-enrich-p23]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Fixed-Income Index]], [[Market-Capitalization-Weighted Index]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Fixed-Income 
 
 ## Sources
 [^eq-l1-p23]: [[equity-investments-level-1-speed-review.pdf#page=23|Equity Investments Level I Speed Review, PDF p. 23]]
+
+[^eq-enrich-p23]: [[equity-investments-level-1-speed-review.pdf#page=23|Equity Investments Level I Speed Review, PDF p. 23]]

@@ -58,6 +58,15 @@ $$
 $$
 [^fi-risk-p61]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Macaulay duration is the present-value-weighted time to cash flows; modified duration estimates percentage price sensitivity; money duration translates it into currency; PVBP measures the currency effect of one basis point.[^fi-risk-p61][^fi-risk-p62][^fi-risk-p64]
+
+$$ModDur=\frac{MacDur}{1+r_{period}},\quad \frac{\Delta P}{P}\approx-ModDur\Delta y,\quad PVBP=MoneyDur\times0.0001$$
+[^fi-risk-p62][^fi-risk-p64]
+
 ## Connections
 
 - Build the weights from [[Bond Pricing]].
@@ -75,3 +84,5 @@ $$
 [^fi-risk-p61]: [[fixed-income-level-1-speed-review.pdf#page=61|Fixed Income Level I Speed Review, PDF p. 61]]
 [^fi-risk-p63]: [[fixed-income-level-1-speed-review.pdf#page=63|Fixed Income Level I Speed Review, PDF p. 63]]
 [^fi-risk-p65]: [[fixed-income-level-1-speed-review.pdf#page=65|Fixed Income Level I Speed Review, PDF p. 65]]
+[^fi-risk-p62]: [[fixed-income-level-1-speed-review.pdf#page=62|Fixed Income Level I Speed Review, PDF p. 62]]
+[^fi-risk-p64]: [[fixed-income-level-1-speed-review.pdf#page=64|Fixed Income Level I Speed Review, PDF p. 64]]

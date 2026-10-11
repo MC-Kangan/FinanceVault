@@ -37,6 +37,14 @@ Use Weak-Form Market Efficiency as a distinct exam concept when navigating [[Equ
 
 Do not merge Weak-Form Market Efficiency with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p30]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Weak form incorporates past prices and volume and rejects persistent technical-analysis profits. Semi-strong form incorporates all public information and rejects persistent fundamental-analysis profits. Strong form incorporates public and private information and rejects persistent insider abnormal returns. Each stronger form encompasses the preceding form.[^eq-enrich-p30]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Operational Market Efficiency]], [[Semi-Strong-Form Market Efficiency]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Operational M
 
 ## Sources
 [^eq-l1-p30]: [[equity-investments-level-1-speed-review.pdf#page=30|Equity Investments Level I Speed Review, PDF p. 30]]
+
+[^eq-enrich-p30]: [[equity-investments-level-1-speed-review.pdf#page=30|Equity Investments Level I Speed Review, PDF p. 30]]

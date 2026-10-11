@@ -36,6 +36,14 @@ Use Equity Research Report as a distinct exam concept when navigating [[Equity I
 
 Do not merge Equity Research Report with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p45]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A company research report combines company and industry analysis with valuation and a recommendation. An initial sell-side report is extensive and serves readers unfamiliar with the issuer; subsequent reports are shorter updates for an informed audience, often around quarterly results.[^eq-enrich-p45]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Business Model]]. Use the topic map to move outward to the wider model or workflow.
@@ -46,3 +54,5 @@ Within the source sequence, this concept is directly adjacent to [[Business Mode
 
 ## Sources
 [^eq-l1-p45]: [[equity-investments-level-1-speed-review.pdf#page=45|Equity Investments Level I Speed Review, PDF p. 45]]
+
+[^eq-enrich-p45]: [[equity-investments-level-1-speed-review.pdf#page=45|Equity Investments Level I Speed Review, PDF p. 45]]

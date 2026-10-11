@@ -31,9 +31,11 @@ tags:
 
 Accounting standard-setting bodies develop financial reporting standards and operate within regulatory and oversight structures.[^fsa-l1-p11]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Standard setting and enforcement
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p11]
+FASB issues US GAAP and IASB issues IFRS, while government bodies enforce reporting requirements. The slide's SEC filing examples are S-1, DEF 14A, 8-K, Form 144, 10-K, and 10-Q.[^fsa-detail-p11]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p11]: [[financial-statement-analysis-level-1-speed-review.pdf#page=11|Financial Statement Analysis Level I Speed Review, PDF p. 11]]
+[^fsa-detail-p11]: [[financial-statement-analysis-level-1-speed-review.pdf#page=11|Financial Statement Analysis Level I Speed Review, PDF p. 11]]

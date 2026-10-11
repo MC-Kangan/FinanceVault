@@ -37,6 +37,14 @@ Use Long Position as a distinct exam concept when navigating [[Equity Investment
 
 Do not merge Long Position with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p12]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A long position benefits from a price rise and a short position from a fall. Buying a call is long both the option and underlying exposure; selling it is short both. Buying a put is long the option but short underlying exposure; selling a put is short the option but long underlying exposure.[^eq-enrich-p12]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Discriminatory Pricing]], [[Short Position]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Discriminator
 
 ## Sources
 [^eq-l1-p12]: [[equity-investments-level-1-speed-review.pdf#page=12|Equity Investments Level I Speed Review, PDF p. 12]]
+
+[^eq-enrich-p12]: [[equity-investments-level-1-speed-review.pdf#page=12|Equity Investments Level I Speed Review, PDF p. 12]]

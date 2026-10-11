@@ -37,6 +37,14 @@ Use Cash Dividend as a distinct exam concept when navigating [[Equity Investment
 
 Do not merge Cash Dividend with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p72]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A cash dividend distributes cash; a special dividend is irregular or supplements a regular payment. The sequence is declaration, ex-dividend, holder-of-record, and payment date. The ex-date is the first day the share trades without the dividend. Repurchases can substitute for cash dividends; stock dividends distribute extra shares, while splits and reverse splits change units outstanding.[^eq-enrich-p72]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Free Cash Flow to the Firm]], [[Share Repurchase]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Free Cash Flo
 
 ## Sources
 [^eq-l1-p72]: [[equity-investments-level-1-speed-review.pdf#page=72|Equity Investments Level I Speed Review, PDF p. 72]]
+
+[^eq-enrich-p72]: [[equity-investments-level-1-speed-review.pdf#page=72|Equity Investments Level I Speed Review, PDF p. 72]]

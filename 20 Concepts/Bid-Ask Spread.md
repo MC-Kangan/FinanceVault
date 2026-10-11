@@ -2,18 +2,22 @@
 id: concept-bid-ask-spread
 type: concept
 title: Bid-Ask Spread
-aliases: []
+aliases:
+- Bid-Offer Spread
 first_level: 1
 topics:
 - '[[Equity Investments]]'
+- '[[Economics]]'
 prerequisites: []
 used_in: []
 related:
 - '[[Financial Leverage Ratio]]'
 - '[[Market Order]]'
+- '[[Offer Price]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Equity Investments Level 1 Speed Review]]'
+- '[[Source - Economics Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -37,6 +41,20 @@ Use Bid-Ask Spread as a distinct exam concept when navigating [[Equity Investmen
 
 Do not merge Bid-Ask Spread with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p15]
 
+### Economics applications
+
+<!-- merged:economics-applications -->
+
+**Economics application:** FX quotations identify price and base currencies and distinguish direct, indirect, nominal, and real rates plus dealer bid and offer prices. Use [[Economics - FX Markets and Exchange Rates]] for chapter context.[^eco-l1-p60]
+
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+The bid is the dealer's purchase price and the highest bid is best; the ask is the dealer's sale price and the lowest ask is best. Their spread is an implicit trading cost. Order instructions separately specify execution, validity, and clearing.[^eq-enrich-p15]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Financial Leverage Ratio]], [[Market Order]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +65,6 @@ Within the source sequence, this concept is directly adjacent to [[Financial Lev
 
 ## Sources
 [^eq-l1-p15]: [[equity-investments-level-1-speed-review.pdf#page=15|Equity Investments Level I Speed Review, PDF p. 15]]
+[^eco-l1-p60]: [[economics-level-1-speed-review.pdf#page=60|Economics Level I Speed Review, PDF p. 60]]
+
+[^eq-enrich-p15]: [[equity-investments-level-1-speed-review.pdf#page=15|Equity Investments Level I Speed Review, PDF p. 15]]

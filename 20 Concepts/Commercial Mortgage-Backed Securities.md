@@ -42,6 +42,15 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-structured-p102]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Commercial mortgages are usually non-recourse and secured by income-producing property, creating concentration risk. CMBS credit analysis emphasizes loan-to-value and debt-service coverage; balloon payments create extension risk when refinancing or sale proceeds are insufficient.[^fi-structured-p102]
+
+$$LTV=\frac{Loan}{Current\ value},\qquad DSC=\frac{NOI}{Debt\ service}$$
+[^fi-structured-p102]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

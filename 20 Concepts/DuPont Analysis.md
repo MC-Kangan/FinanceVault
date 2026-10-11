@@ -78,6 +78,20 @@ Do not interpret a higher [[Return on Equity]] without identifying the driver: s
 
 **Equity Investments application:** ROIC relative to required return helps assess value creation. ROIC/ROA are unlevered-style measures; leverage converts operating into equity returns. Visually verified: $ROE=\text{net margin}\times\text{asset turnover}\times\text{equity multiplier}$.[^eq-l1-p51]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Compare long-run invested-capital returns with investors' required returns. ROIC and ROA are unlevered measures; financial leverage produces levered equity returns. The slide preserves the three-step decomposition:[^eq-enrich-p51]
+
+$$
+ROE=Net\ profit\ margin\times Total\ asset\ turnover\times Equity\ multiplier
+$$[^eq-enrich-p51]
+
+[^eq-enrich-p51]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 - Begin with [[Return on Equity]].
@@ -91,3 +105,5 @@ Do not interpret a higher [[Return on Equity]] without identifying the driver: s
 ## Sources
 [^fsa-l1-p47]: [[financial-statement-analysis-level-1-speed-review.pdf#page=47|Financial Statement Analysis Level I Speed Review, PDF p. 47]]
 [^eq-l1-p51]: [[equity-investments-level-1-speed-review.pdf#page=51|Equity Investments Level I Speed Review, PDF p. 51]]
+
+[^eq-enrich-p51]: [[equity-investments-level-1-speed-review.pdf#page=51|Equity Investments Level I Speed Review, PDF p. 51]]

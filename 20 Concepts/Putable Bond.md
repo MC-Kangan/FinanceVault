@@ -44,6 +44,15 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-features-p12]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+The investor owns the put option, which protects against rising rates and normally produces a higher price and lower yield than an equivalent straight bond.[^fi-features-p12]
+
+$$V_{putable}=V_{straight}+V_{put\ option}$$
+[^fi-features-p12]
+
 ## Connections
 
 - [[Callable Bond]]

@@ -31,9 +31,13 @@ tags:
 
 The indirect method reconciles net income to operating cash flow by adjusting noncash items, nonoperating items, and working-capital changes.[^fsa-l1-p38]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Reconciliation formula
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p38]
+$$
+CFO=NI+Noncash\ charges\pm Nonoperating\ items-\Delta Current\ assets+\Delta Current\ liabilities
+$$[^fsa-detail-p38]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +49,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p38]: [[financial-statement-analysis-level-1-speed-review.pdf#page=38|Financial Statement Analysis Level I Speed Review, PDF p. 38]]
+[^fsa-detail-p38]: [[financial-statement-analysis-level-1-speed-review.pdf#page=38|Financial Statement Analysis Level I Speed Review, PDF p. 38]]

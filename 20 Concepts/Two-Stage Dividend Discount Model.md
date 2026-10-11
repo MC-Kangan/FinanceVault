@@ -40,6 +40,20 @@ Use Two-Stage Dividend Discount Model as a distinct exam concept when navigating
 
 Do not merge Two-Stage Dividend Discount Model with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p73]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A finite high-growth period is followed by perpetual sustainable growth:[^eq-enrich-p73]
+
+$$
+V_0=\sum_{i=1}^{n}\frac{D_0(1+g_h)^i}{(1+r)^i}+\frac{D_{n+1}/(r-g_s)}{(1+r)^n}
+$$[^eq-enrich-p73]
+
+[^eq-enrich-p73]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Gordon Growth Model]], [[Preferred Stock Valuation]]. Use the topic map to move outward to the wider model or workflow.
@@ -50,3 +64,5 @@ Within the source sequence, this concept is directly adjacent to [[Gordon Growth
 
 ## Sources
 [^eq-l1-p73]: [[equity-investments-level-1-speed-review.pdf#page=73|Equity Investments Level I Speed Review, PDF p. 73]]
+
+[^eq-enrich-p73]: [[equity-investments-level-1-speed-review.pdf#page=73|Equity Investments Level I Speed Review, PDF p. 73]]

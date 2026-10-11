@@ -36,6 +36,14 @@ Use Index Reconstitution as a distinct exam concept when navigating [[Equity Inv
 
 Do not merge Index Reconstitution with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p26]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Rebalancing adjusts weights: price-weighted indexes are not rebalanced, market-cap indexes largely self-rebalance except for corporate events, and equal-weighted indexes need the most frequent action. Reconstitution replaces constituents that fail eligibility criteria and forms part of the rebalancing cycle.[^eq-enrich-p26]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Index Rebalancing]]. Use the topic map to move outward to the wider model or workflow.
@@ -46,3 +54,5 @@ Within the source sequence, this concept is directly adjacent to [[Index Rebalan
 
 ## Sources
 [^eq-l1-p26]: [[equity-investments-level-1-speed-review.pdf#page=26|Equity Investments Level I Speed Review, PDF p. 26]]
+
+[^eq-enrich-p26]: [[equity-investments-level-1-speed-review.pdf#page=26|Equity Investments Level I Speed Review, PDF p. 26]]

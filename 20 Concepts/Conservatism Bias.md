@@ -43,6 +43,14 @@ Use Conservatism Bias as a distinct exam concept when navigating [[Equity Invest
 
 Do not merge Conservatism Bias with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p35][^pm-l1-p28]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+An information cascade transmits the choices of early actors to later actors; following informed traders can be rational. Herding is clustered trading not necessarily driven by information. Mental accounting separates investments into differently treated accounts, conservatism delays reaction to new evidence, and narrow framing evaluates issues in isolation and responds to presentation.[^eq-enrich-p35]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Mental Accounting]], [[Narrow Framing]], [[Information-Processing Error]], [[Confirmation Bias]]. Use the topic map to move outward to the wider model or workflow.
@@ -54,3 +62,5 @@ Within the source sequence, this concept is directly adjacent to [[Mental Accoun
 ## Sources
 [^eq-l1-p35]: [[equity-investments-level-1-speed-review.pdf#page=35|Equity Investments Level I Speed Review, PDF p. 35]]
 [^pm-l1-p28]: [[portfolio-management-level-1-speed-review.pdf#page=28|Portfolio Management Level I Speed Review, PDF p. 28]]
+
+[^eq-enrich-p35]: [[equity-investments-level-1-speed-review.pdf#page=35|Equity Investments Level I Speed Review, PDF p. 35]]

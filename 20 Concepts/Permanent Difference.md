@@ -30,9 +30,11 @@ tags:
 
 A permanent difference affects accounting income or taxable income but does not reverse in later periods. It affects the effective tax rate but does not create a deferred tax balance.[^fsa-tax-p74]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Difference types
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-tax-p74]
+Timing differences that reverse are temporary; differences that do not reverse are permanent. A taxable temporary difference creates a DTL, while a deductible temporary difference creates a DTA.[^fsa-detail-p74]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -44,3 +46,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-tax-p74]: [[financial-statement-analysis-level-1-speed-review.pdf#page=74|Financial Statement Analysis Level I Speed Review, PDF p. 74]]
+[^fsa-detail-p74]: [[financial-statement-analysis-level-1-speed-review.pdf#page=74|Financial Statement Analysis Level I Speed Review, PDF p. 74]]

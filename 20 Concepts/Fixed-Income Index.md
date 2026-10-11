@@ -44,6 +44,20 @@ Identify the definition, direction of the principal relationships, and the finan
 
 **Equity Investments application:** Index categories include broad/style equity, sector, fixed-income, real-estate, hedge-fund, and commodity indexes; construction and data biases differ.[^eq-l1-p22]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Equity indexes may be broad-market, multi-market, sector, or style indexes. Fixed-income indexes face a broad classification universe, maturity-driven turnover, dealer markets, and illiquidity. Real-estate indexes use appraisal, repeat-sales, or REIT data. Voluntary hedge-fund reporting can create survivorship bias, while commodity-index returns can differ from spot commodity performance.[^eq-enrich-p22]
+
+<!-- enrichment:equity:end -->
+
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Classify bonds by issuer, credit quality, and maturity. Fixed-income indexes commonly have more constituents, rebalance more often, and use market value of outstanding debt as a weighting basis; aggregate and narrow indexes serve different coverage goals.[^fi-markets-p21][^fi-markets-p22]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -55,3 +69,6 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fi-markets-p22]: [[fixed-income-level-1-speed-review.pdf#page=22|Fixed Income Level I Speed Review, PDF p. 22]]
 [^eq-l1-p22]: [[equity-investments-level-1-speed-review.pdf#page=22|Equity Investments Level I Speed Review, PDF p. 22]]
+
+[^eq-enrich-p22]: [[equity-investments-level-1-speed-review.pdf#page=22|Equity Investments Level I Speed Review, PDF p. 22]]
+[^fi-markets-p21]: [[fixed-income-level-1-speed-review.pdf#page=21|Fixed Income Level I Speed Review, PDF p. 21]]

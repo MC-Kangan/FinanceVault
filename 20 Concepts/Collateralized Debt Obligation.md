@@ -37,6 +37,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-structured-p97]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+A CDO holds a managed diversified debt pool with senior, mezzanine, and subordinated/equity classes. Senior and mezzanine tranches earn bond-like returns; the equity tranche receives residual, equity-like returns.[^fi-structured-p97]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

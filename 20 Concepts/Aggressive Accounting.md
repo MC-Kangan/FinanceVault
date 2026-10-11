@@ -31,9 +31,17 @@ tags:
 
 Aggressive accounting accelerates income or delays expense recognition through choices such as capitalization, longer useful lives, and smaller valuation allowances.[^fsa-l1-p83]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Accounting-choice comparison
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p83]
+| Choice | Aggressive | Conservative |
+| --- | --- | --- |
+| Expenditure | Capitalize | Expense |
+| Useful life | Longer | Shorter |
+| Salvage value | Higher | Lower |
+| DTA valuation allowance | Smaller | Larger |
+[^fsa-detail-p83]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +53,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p83]: [[financial-statement-analysis-level-1-speed-review.pdf#page=83|Financial Statement Analysis Level I Speed Review, PDF p. 83]]
+[^fsa-detail-p83]: [[financial-statement-analysis-level-1-speed-review.pdf#page=83|Financial Statement Analysis Level I Speed Review, PDF p. 83]]

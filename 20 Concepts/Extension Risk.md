@@ -35,6 +35,15 @@ Extension risk is the risk that principal is returned more slowly than expected,
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p98]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Borrower prepayment creates contraction risk when principal returns faster than expected and extension risk when it returns more slowly.[^fi-structured-p98]
+
+$$LTV=\frac{Mortgage\ amount}{Property\ value},\qquad DTI=\frac{Monthly\ debt\ payments}{Monthly\ pre\text{-}tax\ income}$$
+[^fi-structured-p98]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -45,3 +54,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p98]: [[fixed-income-level-1-speed-review.pdf#page=98|Fixed Income Level I Speed Review, PDF p. 98]]
+[^fi-structured-p98]: [[fixed-income-level-1-speed-review.pdf#page=98|Fixed Income Level I Speed Review, PDF p. 98]]

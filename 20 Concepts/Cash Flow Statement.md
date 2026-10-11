@@ -33,9 +33,11 @@ tags:
 
 The cash flow statement classifies cash receipts and payments as operating, investing, or financing activities.[^fsa-l1-p5]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Statement linkage
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p5]
+The income statement and cash-flow statement report activity over a period. The income statement uses accrual accounting; the cash-flow statement reports operating, investing, and financing cash movements. Retained earnings rolls forward as $RE_{end}=RE_{begin}+NI-Dividends$, while ending cash equals beginning cash plus the period's net cash movement.[^fsa-detail-p5]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -47,3 +49,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p5]: [[financial-statement-analysis-level-1-speed-review.pdf#page=5|Financial Statement Analysis Level I Speed Review, PDF p. 5]]
+[^fsa-detail-p5]: [[financial-statement-analysis-level-1-speed-review.pdf#page=5|Financial Statement Analysis Level I Speed Review, PDF p. 5]]

@@ -37,6 +37,14 @@ Use Sources and Uses of Capital as a distinct exam concept when navigating [[Equ
 
 Do not merge Sources and Uses of Capital with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p50]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A shorter cash-conversion cycle reduces external funding needs, while negative working capital makes suppliers a financing source. Capital sources include operating cash flow, debt, equity, and asset disposals; uses include liquidity, positive working capital, capital expenditure, acquisitions, debt repayment, dividends, and repurchases.[^eq-enrich-p50]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Cash Conversion Cycle]], [[Return on Invested Capital]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Cash Conversi
 
 ## Sources
 [^eq-l1-p50]: [[equity-investments-level-1-speed-review.pdf#page=50|Equity Investments Level I Speed Review, PDF p. 50]]
+
+[^eq-enrich-p50]: [[equity-investments-level-1-speed-review.pdf#page=50|Equity Investments Level I Speed Review, PDF p. 50]]

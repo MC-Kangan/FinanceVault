@@ -37,6 +37,14 @@ Use Historical Forecasting as a distinct exam concept when navigating [[Equity I
 
 Do not merge Historical Forecasting with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p62]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Historical forecasts suit stable industries, low cycle sensitivity, immaterial items, and items without a distinct analyst view. For a cyclical company, an over-the-cycle average or median may suit a multi-year horizon.[^eq-enrich-p62]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Financial Statement Forecasting]], [[Base-Rate Forecasting]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Financial Sta
 
 ## Sources
 [^eq-l1-p62]: [[equity-investments-level-1-speed-review.pdf#page=62|Equity Investments Level I Speed Review, PDF p. 62]]
+
+[^eq-enrich-p62]: [[equity-investments-level-1-speed-review.pdf#page=62|Equity Investments Level I Speed Review, PDF p. 62]]

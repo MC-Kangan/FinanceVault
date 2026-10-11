@@ -42,6 +42,14 @@ Use Alternative Trading System as a distinct exam concept when navigating [[Equi
 
 Do not merge Alternative Trading System with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p5]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Exchanges have regulatory authority, while ATSs, ECNs, and MTFs perform trading functions without that authority. Securitizers pool assets and issue claims on the pool; arbitrageurs trade identical or similar instruments across price differences and move liquidity. Depository institutions, insurers, and settlement or custody providers supply supporting market services.[^eq-enrich-p6]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Exchange]], [[Dealer]]. Use the topic map to move outward to the wider model or workflow.
@@ -52,3 +60,5 @@ Within the source sequence, this concept is directly adjacent to [[Exchange]], [
 
 ## Sources
 [^eq-l1-p5]: [[equity-investments-level-1-speed-review.pdf#page=5|Equity Investments Level I Speed Review, PDF p. 5]]
+
+[^eq-enrich-p6]: [[equity-investments-level-1-speed-review.pdf#page=6|Equity Investments Level I Speed Review, PDF p. 6]]

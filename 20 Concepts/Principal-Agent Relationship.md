@@ -32,9 +32,11 @@ tags:
 
 A principal controls the good or service before transfer and reports gross revenue, while an agent arranges provision and reports its net fee.[^fsa-l1-p17]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Special revenue arrangements
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p17]
+A principal controls the good or service before transfer and reports gross revenue; an agent reports its fee or commission. License revenue is recognized over the license term or at transfer according to the performance obligation. A bill-and-hold sale is recognized only when the customer has obtained control even though physical delivery is delayed.[^fsa-detail-p17]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p17]: [[financial-statement-analysis-level-1-speed-review.pdf#page=17|Financial Statement Analysis Level I Speed Review, PDF p. 17]]
+[^fsa-detail-p17]: [[financial-statement-analysis-level-1-speed-review.pdf#page=17|Financial Statement Analysis Level I Speed Review, PDF p. 17]]

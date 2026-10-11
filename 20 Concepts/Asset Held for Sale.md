@@ -31,9 +31,11 @@ tags:
 
 A long-lived asset held for sale is available for immediate sale and highly probable to be sold; depreciation or amortization ceases after classification.[^fsa-l1-p57]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Held-for-sale and reversal treatment
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p57]
+Classification requires intent to sell and a highly probable sale; measure at fair value less costs to sell and stop depreciation. The source permits IFRS reversals for assets held for use or sale, while US GAAP prohibits reversal for held-for-use assets and permits it for held-for-sale assets within the stated constraints.[^fsa-detail-p57]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p57]: [[financial-statement-analysis-level-1-speed-review.pdf#page=57|Financial Statement Analysis Level I Speed Review, PDF p. 57]]
+[^fsa-detail-p57]: [[financial-statement-analysis-level-1-speed-review.pdf#page=57|Financial Statement Analysis Level I Speed Review, PDF p. 57]]

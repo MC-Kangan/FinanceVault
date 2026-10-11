@@ -37,6 +37,20 @@ Use Operating Risk as a distinct exam concept when navigating [[Equity Investmen
 
 Do not merge Operating Risk with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p52]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Operating risk is EBIT sensitivity to units sold and rises with fixed operating cost. Fixed operating cost creates operating leverage:[^eq-enrich-p52]
+
+$$
+DOL=\frac{\%\Delta EBIT}{\%\Delta Q}=\frac{\Delta EBIT/EBIT}{\Delta Q/Q}=\frac{Q(P-V)}{Q(P-V)-F}=\frac{EBIT+F}{EBIT}
+$$[^eq-enrich-p52]
+
+[^eq-enrich-p52]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[DuPont Analysis]], [[Operating Leverage]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +61,5 @@ Within the source sequence, this concept is directly adjacent to [[DuPont Analys
 
 ## Sources
 [^eq-l1-p52]: [[equity-investments-level-1-speed-review.pdf#page=52|Equity Investments Level I Speed Review, PDF p. 52]]
+
+[^eq-enrich-p52]: [[equity-investments-level-1-speed-review.pdf#page=52|Equity Investments Level I Speed Review, PDF p. 52]]

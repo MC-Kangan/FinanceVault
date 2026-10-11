@@ -31,9 +31,11 @@ tags:
 
 Financial reporting communicates an entity's financial position and performance through statements, notes, and other disclosures.[^fsa-l1-p6]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Analysis workflow
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p6]
+Financial reporting communicates position, performance, and changes; analysis evaluates that information for decisions. The source's six steps are: establish purpose and context, collect data, process data, analyze and interpret, communicate conclusions and recommendations, and follow up or update.[^fsa-detail-p6]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p6]: [[financial-statement-analysis-level-1-speed-review.pdf#page=6|Financial Statement Analysis Level I Speed Review, PDF p. 6]]
+[^fsa-detail-p6]: [[financial-statement-analysis-level-1-speed-review.pdf#page=6|Financial Statement Analysis Level I Speed Review, PDF p. 6]]

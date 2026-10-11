@@ -6,13 +6,16 @@ aliases: []
 first_level: 1
 topics:
 - '[[Equity Investments]]'
+- '[[Corporate Issuers]]'
 prerequisites: []
 used_in: []
 related:
 - '[[Market Value of Equity]]'
+- '[[Cost of Preferred Stock]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Equity Investments Level 1 Speed Review]]'
+- '[[Source - Corporate Issuers Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -36,6 +39,33 @@ Use Cost of Equity as a distinct exam concept when navigating [[Equity Investmen
 
 Do not merge Cost of Equity with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p42]
 
+### Corporate Issuers and Derivatives applications
+
+<!-- merged:ci-der-applications -->
+
+**Corporate Issuers application:** WACC combines market-value financing weights with marginal component costs, including the tax-adjusted cost of debt. Use [[Corporate Issuers - Financing and Capital Structure]] for the surrounding chapter context.[^ci-l1-p34]
+
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Book value of equity equals assets minus liabilities; market value equals price times shares outstanding. They are rarely equal: management directly affects book value but only indirectly affects market value. Cost of equity is used as a proxy for investors' minimum required return.[^eq-enrich-p42]
+
+<!-- enrichment:equity:end -->
+
+<!-- enrichment:corporate-issuers:start -->
+
+### Slide-level enrichment
+
+$$
+WACC=w_dr_d(1-T)+w_{ps}r_{ps}+w_{ce}r_{ce}
+$$
+[^ci-l1-p34]
+
+Use market-value weights when available, then target weights; otherwise infer targets from the current structure, trends or management statements, or comparable-company averages. Component costs are marginal, and only debt receives the tax adjustment: $After\text{-}tax\ cost\ of\ debt=YTM(1-T)$.[^ci-l1-p34]
+
+<!-- enrichment:corporate-issuers:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Market Value of Equity]]. Use the topic map to move outward to the wider model or workflow.
@@ -46,3 +76,6 @@ Within the source sequence, this concept is directly adjacent to [[Market Value 
 
 ## Sources
 [^eq-l1-p42]: [[equity-investments-level-1-speed-review.pdf#page=42|Equity Investments Level I Speed Review, PDF p. 42]]
+[^ci-l1-p34]: [[corporate-issuers-level-1-speed-review.pdf#page=34|Corporate Issuers Level I Speed Review, PDF p. 34]]
+
+[^eq-enrich-p42]: [[equity-investments-level-1-speed-review.pdf#page=42|Equity Investments Level I Speed Review, PDF p. 42]]

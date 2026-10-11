@@ -4,6 +4,11 @@ __pycache__/
 *.pyc
 tmp/
 output/
+!output/
+output/*
+!output/pdf/
+output/pdf/*
+!output/pdf/*.pdf
 .DS_Store
 .trash/
 .obsidian/workspace.json

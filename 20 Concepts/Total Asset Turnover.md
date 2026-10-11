@@ -31,9 +31,13 @@ tags:
 
 Total asset turnover relates revenue to average total assets and is a driver in DuPont return analysis.[^fsa-l1-p44]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Formula
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p44]
+$$
+Total\ asset\ turnover=\frac{Revenue}{Average\ total\ assets}
+$$[^fsa-detail-p44]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +49,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p44]: [[financial-statement-analysis-level-1-speed-review.pdf#page=44|Financial Statement Analysis Level I Speed Review, PDF p. 44]]
+[^fsa-detail-p44]: [[financial-statement-analysis-level-1-speed-review.pdf#page=44|Financial Statement Analysis Level I Speed Review, PDF p. 44]]

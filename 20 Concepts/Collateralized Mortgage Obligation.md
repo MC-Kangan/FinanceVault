@@ -42,6 +42,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-structured-p100]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Sequential tranches retire in order; PAC tranches target scheduled principal within a band and shift more prepayment risk to support tranches. Z-tranches accrue interest until earlier tranches retire; PO and IO strips separate principal and interest, and floater/inverse-floater pairs redistribute rate sensitivity.[^fi-structured-p100][^fi-structured-p101]
+
 ## Connections
 
 - [[Sequential-Pay Tranche]]

@@ -30,21 +30,27 @@ tags:
 
 ![[financial-statement-analysis-level-1-speed-review.pdf#page=1]]
 
-## Pilot coverage
+## Reviewed coverage
 
-The pilot visually reviewed PDF pages 4-5, 40, and 43-47.
+The full 88-page deck has a page-separated transcript. Content pages 4-11, 15-25, 29-33, 36-40, 43-47, 50-52, 54-57, 59, 62-65, 67-70, 73-79, and 82-86 were visually reviewed at readable resolution. Cover, divider, recap, and closing pages were classified but did not create duplicate concept content.
 
-| Pages | Classification | Canonical output |
-| --- | --- | --- |
-| 4-5 | concept and formula | [[Balance Sheet]], [[Accounting Equation]] |
-| 40 | concept and formula | [[Free Cash Flow]], [[Free Cash Flow to the Firm]], [[Free Cash Flow to Equity]] |
-| 43-44 | framework and activity-ratio context | [[Financial Statement Analysis]] |
-| 45 | formulas and comparison | [[Current Ratio]], [[Interest Coverage Ratio]] |
-| 46 | formulas | [[Net Profit Margin]], [[Return on Equity]] |
-| 47 | formula decomposition and diagram | [[DuPont Analysis]] |
+| Pages | Chapter output |
+| --- | --- |
+| 4-11 | [[FSA - Financial Statements and Reporting]] |
+| 15-25 | [[FSA - Income Statement Analysis]] |
+| 29-33 | [[FSA - Financial Instruments]] |
+| 36-40 | [[FSA - Cash Flow Analysis]] |
+| 43-47 | [[FSA - Financial Statement Analysis Techniques]] |
+| 50-52 | [[FSA - Inventories]] |
+| 54-59 | [[FSA - Long-Lived Assets]] |
+| 62-65 | [[FSA - Leases]] |
+| 67-70 | [[FSA - Employee Compensation]] |
+| 73-79 | [[FSA - Income Taxes]] |
+| 82-83 | [[FSA - Financial Reporting Quality]] |
+| 84-86 | [[FSA - Forecasting]] |
 
 ## Source handling
 
 - This deck is predominantly image-based; text extraction alone is not a reliable review method.
 - The PDF is immutable after registration. Its checksum is validated before knowledge promotion.
-- Page links use PDF page numbers, which match the visible page numbers in the pilot selection.
+- Page links use PDF page numbers. Every promoted formula, comparison table, and worked mechanic was checked against the rendered page before merge.

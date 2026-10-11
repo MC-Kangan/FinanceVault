@@ -32,9 +32,11 @@ tags:
 
 Financial statement footnotes explain accounting policies, estimates, risks, and details that cannot be understood from primary statements alone.[^fsa-l1-p8]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Required disclosures
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p8]
+Footnotes are audited and necessary for understanding the statements because they explain the preparation basis, accounting policies, methods, estimates, and segment information. The slide uses a 10% threshold for segment revenue, assets, or operating profit; a customer accounting for at least 10% of total revenue triggers disclosure of that fact, not the customer's identity.[^fsa-detail-p8]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p8]: [[financial-statement-analysis-level-1-speed-review.pdf#page=8|Financial Statement Analysis Level I Speed Review, PDF p. 8]]
+[^fsa-detail-p8]: [[financial-statement-analysis-level-1-speed-review.pdf#page=8|Financial Statement Analysis Level I Speed Review, PDF p. 8]]

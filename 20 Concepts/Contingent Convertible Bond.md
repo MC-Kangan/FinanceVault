@@ -36,6 +36,12 @@ A contingent convertible bond converts into equity when a predefined trigger is 
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p14]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+A contingent convertible converts automatically after specified events. A warrant gives its holder the right to purchase the issuer's shares at a fixed exercise price before expiry.[^fi-features-p14]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -46,3 +52,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p14]: [[fixed-income-level-1-speed-review.pdf#page=14|Fixed Income Level I Speed Review, PDF p. 14]]
+[^fi-features-p14]: [[fixed-income-level-1-speed-review.pdf#page=14|Fixed Income Level I Speed Review, PDF p. 14]]

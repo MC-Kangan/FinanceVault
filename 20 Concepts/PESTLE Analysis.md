@@ -38,6 +38,14 @@ Use PESTLE Analysis as a distinct exam concept when navigating [[Equity Investme
 
 Do not merge PESTLE Analysis with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p59]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Porter's framework examines rivalry, entry, substitutes, supplier power, and buyer power to assess long-run profitability. PESTLE examines political, economic, social, technological, legal, and environmental influences, focusing more on growth and market-share dynamics.[^eq-enrich-p59]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Porter's Five Forces]], [[Cost Leadership]]. Use the topic map to move outward to the wider model or workflow.
@@ -48,3 +56,5 @@ Within the source sequence, this concept is directly adjacent to [[Porter's Five
 
 ## Sources
 [^eq-l1-p59]: [[equity-investments-level-1-speed-review.pdf#page=59|Equity Investments Level I Speed Review, PDF p. 59]]
+
+[^eq-enrich-p59]: [[equity-investments-level-1-speed-review.pdf#page=59|Equity Investments Level I Speed Review, PDF p. 59]]

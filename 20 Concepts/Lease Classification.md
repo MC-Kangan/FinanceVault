@@ -31,9 +31,13 @@ tags:
 
 A lease conveys the right to use an identified asset for consideration. The finance-lease indicators include transfer of ownership, a purchase option reasonably certain to be exercised, a lease term covering a major part of useful life, present value of payments representing substantially all fair value, or a specialized asset with no alternative use. A lease not meeting those indicators is classified as operating in the source framework.[^fsa-lease-p62]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Finance-lease indicators
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-lease-p62]
+A lease is finance when one of the source indicators is met: ownership transfers; a purchase option is reasonably certain to be exercised; the term covers a major part of economic life; present value is substantially all of fair value; or the asset is so specialized that the lessor has no alternative use. Otherwise it is operating.[^fsa-detail-p62]
+
+The source framework gives IFRS lessees a single recognition model subject to short-term and low-value exemptions, while US-GAAP lessees and lessors distinguish finance and operating leases.[^fsa-detail-p63]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +49,5 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-lease-p62]: [[financial-statement-analysis-level-1-speed-review.pdf#page=62|Financial Statement Analysis Level I Speed Review, PDF p. 62]]
+[^fsa-detail-p62]: [[financial-statement-analysis-level-1-speed-review.pdf#page=62|Financial Statement Analysis Level I Speed Review, PDF p. 62]]
+[^fsa-detail-p63]: [[financial-statement-analysis-level-1-speed-review.pdf#page=63|Financial Statement Analysis Level I Speed Review, PDF p. 63]]

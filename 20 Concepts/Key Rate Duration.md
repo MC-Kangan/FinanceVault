@@ -45,6 +45,12 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-risk-p72]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Key-rate duration measures sensitivity at a specified maturity segment and identifies curve-shape risk; the deck states that key-rate durations sum to effective duration.[^fi-risk-p72]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

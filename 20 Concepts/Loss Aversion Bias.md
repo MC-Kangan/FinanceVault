@@ -2,10 +2,13 @@
 id: concept-loss-aversion-bias
 type: concept
 title: Loss Aversion Bias
-aliases: []
+aliases:
+- Loss Aversion
+- 损失厌恶
 first_level: 1
 topics:
 - '[[Portfolio Management]]'
+- '[[Equity Investments]]'
 prerequisites: []
 used_in: []
 related:
@@ -14,6 +17,7 @@ related:
 contrasts_with: []
 source_notes:
 - '[[Source - Portfolio Management Level 1 Speed Review]]'
+- '[[Source - Equity Investments Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -37,6 +41,14 @@ Use Loss Aversion Bias as a distinct exam concept when navigating [[Portfolio Ma
 
 Do not merge Loss Aversion Bias with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^pm-l1-p29]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Loss aversion is the tendency to dislike a loss more strongly than an economically comparable gain is liked. The Equity deck presents it as a behavioral explanation for decisions that may depart from purely rational behavior, while noting that market efficiency requires market-level rather than universal individual rationality.[^eq-enrich-p34]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Availability Bias]], [[Overconfidence Bias]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +59,5 @@ Within the source sequence, this concept is directly adjacent to [[Availability 
 
 ## Sources
 [^pm-l1-p29]: [[portfolio-management-level-1-speed-review.pdf#page=29|Portfolio Management Level I Speed Review, PDF p. 29]]
+
+[^eq-enrich-p34]: [[equity-investments-level-1-speed-review.pdf#page=34|Equity Investments Level I Speed Review, PDF p. 34]]

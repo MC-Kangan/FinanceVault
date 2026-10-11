@@ -4,7 +4,7 @@ type: proposal
 title: Operating Profit Margin - Cross-Topic Metadata
 target: "[[Operating Profit Margin]]"
 change_type: metadata-update
-status: pending-review
+status: merged
 tags:
   - cfa/level-1
 ---
@@ -42,4 +42,4 @@ After approval and merge, `Operating Profit Margin` will become a purple dual-to
 - [x] `EBIT Margin` already resolves to `Operating Profit Margin`; no alias collision is introduced.
 - [x] No trusted concept note changed before approval.
 - [x] Personal Notes will remain byte-for-byte unchanged during merge.
-- [ ] User approves or rejects the metadata change.
+- [x] User approved the metadata change.

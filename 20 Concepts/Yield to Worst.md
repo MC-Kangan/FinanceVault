@@ -36,6 +36,12 @@ Yield to worst is the lowest yield among the bond's relevant call yields and yie
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p46]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Yield to call is the IRR assuming exercise on a specified call date. Yield to worst is the lowest of the relevant yields to call and yield to maturity.[^fi-valuation-p46]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -46,3 +52,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p46]: [[fixed-income-level-1-speed-review.pdf#page=46|Fixed Income Level I Speed Review, PDF p. 46]]
+[^fi-valuation-p46]: [[fixed-income-level-1-speed-review.pdf#page=46|Fixed Income Level I Speed Review, PDF p. 46]]

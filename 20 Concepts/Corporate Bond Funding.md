@@ -35,6 +35,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-markets-p26]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Companies use credit lines, revolving facilities, secured asset-based loans, factoring, and unsecured commercial paper. Investment-grade debt is more bond-like with lower credit-spread contribution to YTM; high-yield debt is more equity-like, commonly secured, and more restrictive.[^fi-markets-p25][^fi-markets-p26]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -45,3 +51,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-markets-p26]: [[fixed-income-level-1-speed-review.pdf#page=26|Fixed Income Level I Speed Review, PDF p. 26]]
+[^fi-markets-p25]: [[fixed-income-level-1-speed-review.pdf#page=25|Fixed Income Level I Speed Review, PDF p. 25]]

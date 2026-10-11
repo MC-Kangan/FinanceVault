@@ -55,6 +55,15 @@ $$
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-valuation-p51]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Discount rates use face value as the denominator and are common for commercial paper, Treasury bills, and bankers' acceptances; add-on rates use invested value and are common for certificates of deposit and repos.[^fi-valuation-p51]
+
+$$DR=\frac{FV-PV}{FV}\times\frac{year}{days},\qquad AOR=\frac{FV-PV}{PV}\times\frac{year}{days}$$
+[^fi-valuation-p51]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

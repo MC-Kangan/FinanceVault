@@ -33,9 +33,11 @@ tags:
 
 High-quality earnings provide adequate returns and are expected to be sustainable; reporting quality affects the ability to assess them.[^fsa-l1-p82]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Quality distinction
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p82]
+Reporting quality asks whether information faithfully represents economic reality and is decision-useful; earnings quality asks whether reported earnings are sustainable and adequate. The source presents quality as a spectrum rather than a binary label.[^fsa-detail-p82]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -47,3 +49,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p82]: [[financial-statement-analysis-level-1-speed-review.pdf#page=82|Financial Statement Analysis Level I Speed Review, PDF p. 82]]
+[^fsa-detail-p82]: [[financial-statement-analysis-level-1-speed-review.pdf#page=82|Financial Statement Analysis Level I Speed Review, PDF p. 82]]

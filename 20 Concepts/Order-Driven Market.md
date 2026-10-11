@@ -37,6 +37,14 @@ Use Order-Driven Market as a distinct exam concept when navigating [[Equity Inve
 
 Do not merge Order-Driven Market with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p10]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Quote-driven or dealer markets are commonly OTC. Brokered markets suit unique or illiquid instruments. Order-driven markets match submitted orders using formal rules rather than dealer inventory.[^eq-enrich-p9][^eq-enrich-p10]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Brokered Market]], [[Order Priority]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,6 @@ Within the source sequence, this concept is directly adjacent to [[Brokered Mark
 
 ## Sources
 [^eq-l1-p10]: [[equity-investments-level-1-speed-review.pdf#page=10|Equity Investments Level I Speed Review, PDF p. 10]]
+
+[^eq-enrich-p9]: [[equity-investments-level-1-speed-review.pdf#page=9|Equity Investments Level I Speed Review, PDF p. 9]]
+[^eq-enrich-p10]: [[equity-investments-level-1-speed-review.pdf#page=10|Equity Investments Level I Speed Review, PDF p. 10]]

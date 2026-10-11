@@ -34,6 +34,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-markets-p21]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Classify bonds by issuer, credit quality, and maturity. Fixed-income indexes commonly have more constituents, rebalance more often, and use market value of outstanding debt as a weighting basis; aggregate and narrow indexes serve different coverage goals.[^fi-markets-p21][^fi-markets-p22]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -44,3 +50,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-markets-p21]: [[fixed-income-level-1-speed-review.pdf#page=21|Fixed Income Level I Speed Review, PDF p. 21]]
+[^fi-markets-p22]: [[fixed-income-level-1-speed-review.pdf#page=22|Fixed Income Level I Speed Review, PDF p. 22]]

@@ -8,15 +8,18 @@ first_level: 1
 topics:
 - '[[Equity Investments]]'
 - '[[Alternative Investments]]'
+- '[[Corporate Issuers]]'
 prerequisites: []
 used_in: []
 related:
 - '[[Primary Market]]'
 - '[[Seasoned Offering]]'
+- '[[Direct Listing]]'
 contrasts_with: []
 source_notes:
 - '[[Source - Equity Investments Level 1 Speed Review]]'
 - '[[Source - Alternative Investments Level 1 Speed Review]]'
+- '[[Source - Corporate Issuers Level 1 Speed Review]]'
 status: trusted
 tags:
 - cfa/level-1
@@ -44,6 +47,28 @@ Do not merge Initial Public Offering with an abbreviation, translation, or neigh
 
 An initial public offering sells a company's shares to public investors and may provide a high-value private-equity exit.[^alt-l1-p19]
 
+### Corporate Issuers and Derivatives applications
+
+<!-- merged:ci-der-applications -->
+
+**Corporate Issuers application:** A private company may become public through an IPO, direct listing, or acquisition; a public company may be taken private. Use [[Corporate Issuers - Organization and Governance]] for the surrounding chapter context.[^ci-l1-p6]
+
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Primary-market classification distinguishes an issuer's first public sale from later seasoned issuance. Underwriting guarantees placement of the issue, whereas a best-efforts arrangement leaves the intermediary with no obligation for unsold securities. Markets may also be classified by delivery date, maturity, position or underlying, and direction of capital flow.[^eq-enrich-p7]
+
+<!-- enrichment:equity:end -->
+
+<!-- enrichment:corporate-issuers:start -->
+
+### Slide-level enrichment
+
+A private company may become public through an IPO, acquisition by a public company (including a SPAC transaction), or a direct listing. A direct listing issues no new shares and uses no underwriter, making it faster and less costly in the source. A public company can become private through a take-private transaction. Public-company counts tend to rise in emerging markets but have declined in developed markets amid M&A, greater private-capital availability, and firms remaining private longer.[^ci-l1-p6]
+
+<!-- enrichment:corporate-issuers:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Primary Market]], [[Seasoned Offering]]. Use the topic map to move outward to the wider model or workflow.
@@ -56,3 +81,6 @@ Within the source sequence, this concept is directly adjacent to [[Primary Marke
 [^eq-l1-p7]: [[equity-investments-level-1-speed-review.pdf#page=7|Equity Investments Level I Speed Review, PDF p. 7]]
 
 [^alt-l1-p19]: [[alternative-investments-level-1-speed-review.pdf#page=19|Alternative Investments Level I Speed Review, PDF p. 19]]
+[^ci-l1-p6]: [[corporate-issuers-level-1-speed-review.pdf#page=6|Corporate Issuers Level I Speed Review, PDF p. 6]]
+
+[^eq-enrich-p7]: [[equity-investments-level-1-speed-review.pdf#page=7|Equity Investments Level I Speed Review, PDF p. 7]]

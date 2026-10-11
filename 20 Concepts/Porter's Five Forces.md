@@ -34,15 +34,19 @@ tags:
 
 Porter's Five Forces evaluates rivalry, entry threat, substitutes, supplier power, and customer power as drivers of industry profitability.[^fsa-l1-p85]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Forecast challenge
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p85]
+Use the named forecasting biases in the source as pitfalls and use Porter's Five Forces to challenge industry assumptions rather than extrapolating company results mechanically.[^fsa-detail-p85]
+<!-- enrichment:fsa:end -->
 
-### Cross-topic applications
+<!-- enrichment:equity:start -->
 
-<!-- merged:eq-pm-applications -->
+### Equity slide enrichment
 
-**Equity Investments application:** Porter’s Five Forces: rivalry, entry, substitutes, buyer power, supplier power. PESTLE: political, economic, social, technological, legal, environmental.[^eq-l1-p59]
+Porter's framework examines rivalry, entry, substitutes, supplier power, and buyer power to assess long-run profitability. PESTLE examines political, economic, social, technological, legal, and environmental influences, focusing more on growth and market-share dynamics.[^eq-enrich-p59]
+
+<!-- enrichment:equity:end -->
 
 ## Connections
 
@@ -55,3 +59,6 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fsa-l1-p85]: [[financial-statement-analysis-level-1-speed-review.pdf#page=85|Financial Statement Analysis Level I Speed Review, PDF p. 85]]
 [^eq-l1-p59]: [[equity-investments-level-1-speed-review.pdf#page=59|Equity Investments Level I Speed Review, PDF p. 59]]
+[^fsa-detail-p85]: [[financial-statement-analysis-level-1-speed-review.pdf#page=85|Financial Statement Analysis Level I Speed Review, PDF p. 85]]
+
+[^eq-enrich-p59]: [[equity-investments-level-1-speed-review.pdf#page=59|Equity Investments Level I Speed Review, PDF p. 59]]

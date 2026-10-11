@@ -31,9 +31,15 @@ tags:
 
 Net realizable value is estimated selling price less estimated selling costs and is the IFRS ceiling used in inventory measurement.[^fsa-l1-p51]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Measurement formula
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p51]
+$$
+NRV=Estimated\ selling\ price-Estimated\ selling\ costs
+$$[^fsa-detail-p51]
+
+IFRS uses lower of cost and NRV and permits reversal up to the original write-down. The source's US-GAAP treatment applies lower of cost and NRV to non-LIFO inventory; LIFO or retail-method inventory uses replacement cost bounded by NRV and NRV less normal profit, with no reversal.[^fsa-detail-p51]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +51,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p51]: [[financial-statement-analysis-level-1-speed-review.pdf#page=51|Financial Statement Analysis Level I Speed Review, PDF p. 51]]
+[^fsa-detail-p51]: [[financial-statement-analysis-level-1-speed-review.pdf#page=51|Financial Statement Analysis Level I Speed Review, PDF p. 51]]

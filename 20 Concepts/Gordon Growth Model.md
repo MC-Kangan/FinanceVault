@@ -39,6 +39,20 @@ Use Gordon Growth Model as a distinct exam concept when navigating [[Equity Inve
 
 Do not merge Gordon Growth Model with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p73]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+For constant perpetual growth:[^eq-enrich-p73]
+
+$$
+V_0=\frac{D_1}{r-g},\qquad g=Retention\ rate\times ROE=(1-Payout\ ratio)\times ROE
+$$[^eq-enrich-p73]
+
+The model assumes constant perpetual dividend growth and $g<r$.[^eq-enrich-p73]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Ex-Dividend Date]], [[Two-Stage Dividend Discount Model]]. Use the topic map to move outward to the wider model or workflow.
@@ -49,3 +63,5 @@ Within the source sequence, this concept is directly adjacent to [[Ex-Dividend D
 
 ## Sources
 [^eq-l1-p73]: [[equity-investments-level-1-speed-review.pdf#page=73|Equity Investments Level I Speed Review, PDF p. 73]]
+
+[^eq-enrich-p73]: [[equity-investments-level-1-speed-review.pdf#page=73|Equity Investments Level I Speed Review, PDF p. 73]]

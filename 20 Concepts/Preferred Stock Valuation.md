@@ -38,6 +38,14 @@ Use Preferred Stock Valuation as a distinct exam concept when navigating [[Equit
 
 Do not merge Preferred Stock Valuation with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p73]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A perpetual preferred share with constant dividend is valued as $V_0=D/r$.[^eq-enrich-p73]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Two-Stage Dividend Discount Model]], [[Sustainable Growth Rate]]. Use the topic map to move outward to the wider model or workflow.
@@ -48,3 +56,5 @@ Within the source sequence, this concept is directly adjacent to [[Two-Stage Div
 
 ## Sources
 [^eq-l1-p73]: [[equity-investments-level-1-speed-review.pdf#page=73|Equity Investments Level I Speed Review, PDF p. 73]]
+
+[^eq-enrich-p73]: [[equity-investments-level-1-speed-review.pdf#page=73|Equity Investments Level I Speed Review, PDF p. 73]]

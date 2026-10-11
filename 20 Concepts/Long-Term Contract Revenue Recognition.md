@@ -31,9 +31,11 @@ tags:
 
 Long-term contract revenue may be recognized over time using progress measures such as an input method when the relevant criteria are met.[^fsa-l1-p16]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Input-method example
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p16]
+In year 1, progress is $420/700=60\%$ and revenue is $1{,}000\times60\%=600$ thousand. After the year-2 modification, cumulative progress is $670/820=81.71\%$; current-year revenue is cumulative revenue of $1{,}350\times81.71\%$ less the $600$ previously recognized, or approximately $503.049$ thousand.[^fsa-detail-p16]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +47,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p16]: [[financial-statement-analysis-level-1-speed-review.pdf#page=16|Financial Statement Analysis Level I Speed Review, PDF p. 16]]
+[^fsa-detail-p16]: [[financial-statement-analysis-level-1-speed-review.pdf#page=16|Financial Statement Analysis Level I Speed Review, PDF p. 16]]

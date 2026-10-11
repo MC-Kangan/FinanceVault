@@ -37,6 +37,14 @@ Use Equity Index as a distinct exam concept when navigating [[Equity Investments
 
 Do not merge Equity Index with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p22]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Equity indexes may be broad-market, multi-market, sector, or style indexes. Fixed-income indexes face a broad classification universe, maturity-driven turnover, dealer markets, and illiquidity. Real-estate indexes use appraisal, repeat-sales, or REIT data. Voluntary hedge-fund reporting can create survivorship bias, while commodity-index returns can differ from spot commodity performance.[^eq-enrich-p22]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Index Use]], [[Real Estate Index]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Index Use]], 
 
 ## Sources
 [^eq-l1-p22]: [[equity-investments-level-1-speed-review.pdf#page=22|Equity Investments Level I Speed Review, PDF p. 22]]
+
+[^eq-enrich-p22]: [[equity-investments-level-1-speed-review.pdf#page=22|Equity Investments Level I Speed Review, PDF p. 22]]

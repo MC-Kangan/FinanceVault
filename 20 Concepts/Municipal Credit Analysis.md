@@ -35,6 +35,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-credit-p86]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+General-obligation bonds are unsecured and supported by taxing authority; revenue bonds rely on project cash flows and therefore a narrower revenue source.[^fi-credit-p86]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

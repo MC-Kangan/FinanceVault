@@ -32,9 +32,11 @@ tags:
 
 Management Discussion and Analysis provides management's perspective on results, liquidity, capital resources, and known trends.[^fsa-l1-p10]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Management commentary
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p10]
+MD&A is normally unaudited and discusses the business, objectives and strategy, resources, risks and relationships, results, and critical performance measures. Treat it as useful management perspective rather than audited statement evidence.[^fsa-detail-p10]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +48,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p10]: [[financial-statement-analysis-level-1-speed-review.pdf#page=10|Financial Statement Analysis Level I Speed Review, PDF p. 10]]
+[^fsa-detail-p10]: [[financial-statement-analysis-level-1-speed-review.pdf#page=10|Financial Statement Analysis Level I Speed Review, PDF p. 10]]

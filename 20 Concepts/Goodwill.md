@@ -32,9 +32,15 @@ tags:
 
 Goodwill is the acquisition price excess attributable to unidentifiable future benefits; it is not amortized and is tested for impairment.[^fsa-l1-p30]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Acquisition calculation
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p30]
+$$
+Goodwill=Purchase\ consideration-Fair\ value\ of\ identifiable\ net\ assets\ acquired
+$$[^fsa-detail-p30]
+
+In the source example, paying 10 million for 80% of a target whose identifiable net assets have a fair value of 10 million produces 2 million of goodwill on the stated basis. Goodwill is not amortized and is tested annually for impairment.[^fsa-detail-p30]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +52,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p30]: [[financial-statement-analysis-level-1-speed-review.pdf#page=30|Financial Statement Analysis Level I Speed Review, PDF p. 30]]
+[^fsa-detail-p30]: [[financial-statement-analysis-level-1-speed-review.pdf#page=30|Financial Statement Analysis Level I Speed Review, PDF p. 30]]

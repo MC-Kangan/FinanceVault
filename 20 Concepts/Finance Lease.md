@@ -39,9 +39,18 @@ $$
 $$
 [^fsa-lease-p64]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Lessee comparison
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-lease-p64]
+| Treatment | Cash-flow classification | Expense pattern |
+| --- | --- | --- |
+| IFRS / US finance lease | Interest as CFO outflow; principal as CFF outflow | Interest plus straight-line ROU amortization; declining total expense |
+| US operating lease | Full payment as CFO outflow | Single level lease expense, with ROU adjustment |
+| Short-term / low-value exemption | Payment as CFO outflow | Straight-line rental expense |
+[^fsa-detail-p64]
+
+Finance-lease interest equals opening lease liability multiplied by the periodic rate; the liability follows the effective-interest method.[^fsa-detail-p64]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -56,3 +65,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-lease-p64]: [[financial-statement-analysis-level-1-speed-review.pdf#page=64|Financial Statement Analysis Level I Speed Review, PDF p. 64]]
+[^fsa-detail-p64]: [[financial-statement-analysis-level-1-speed-review.pdf#page=64|Financial Statement Analysis Level I Speed Review, PDF p. 64]]

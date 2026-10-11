@@ -35,6 +35,12 @@ Original issue discount is the difference between a bond's par value and its low
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p16]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Interest is generally ordinary income, while capital gains or losses may receive different treatment. Original-issue discount is generally amortized as taxable interest over the bond's life under the slide's stated treatment.[^fi-features-p16]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -45,3 +51,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p16]: [[fixed-income-level-1-speed-review.pdf#page=16|Fixed Income Level I Speed Review, PDF p. 16]]
+[^fi-features-p16]: [[fixed-income-level-1-speed-review.pdf#page=16|Fixed Income Level I Speed Review, PDF p. 16]]

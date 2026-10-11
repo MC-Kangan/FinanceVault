@@ -37,6 +37,14 @@ Use Best-Efforts Offering as a distinct exam concept when navigating [[Equity In
 
 Do not merge Best-Efforts Offering with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p7]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Primary-market classification distinguishes an issuer's first public sale from later seasoned issuance. Underwriting guarantees placement of the issue, whereas a best-efforts arrangement leaves the intermediary with no obligation for unsold securities. Markets may also be classified by delivery date, maturity, position or underlying, and direction of capital flow.[^eq-enrich-p7]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Underwritten Offering]], [[Private Placement]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Underwritten 
 
 ## Sources
 [^eq-l1-p7]: [[equity-investments-level-1-speed-review.pdf#page=7|Equity Investments Level I Speed Review, PDF p. 7]]
+
+[^eq-enrich-p7]: [[equity-investments-level-1-speed-review.pdf#page=7|Equity Investments Level I Speed Review, PDF p. 7]]

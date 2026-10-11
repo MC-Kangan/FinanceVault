@@ -31,9 +31,23 @@ tags:
 
 A tax loss carryforward can create a deferred tax asset because future taxable income may be offset by the unused loss, subject to the expectation that the benefit will be realized.[^fsa-tax-p75][^fsa-tax-p76]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Deferred-tax matrix and formula
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-tax-p75]
+| Item | Carrying value versus tax base | Result |
+| --- | --- | --- |
+| Asset | Greater | DTL |
+| Asset | Less | DTA |
+| Liability | Greater | DTA |
+| Liability | Less | DTL |
+[^fsa-detail-p75]
+
+$$
+DTA\ or\ DTL=Temporary\ difference\times Expected\ future\ tax\ rate
+$$[^fsa-detail-p78]
+
+Tax-loss carryforwards create a DTA subject to the source's recoverability assessment.[^fsa-detail-p75]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -46,3 +60,5 @@ Identify the definition, direction of the principal relationships, and the finan
 ## Sources
 [^fsa-tax-p75]: [[financial-statement-analysis-level-1-speed-review.pdf#page=75|Financial Statement Analysis Level I Speed Review, PDF p. 75]]
 [^fsa-tax-p76]: [[financial-statement-analysis-level-1-speed-review.pdf#page=76|Financial Statement Analysis Level I Speed Review, PDF p. 76]]
+[^fsa-detail-p75]: [[financial-statement-analysis-level-1-speed-review.pdf#page=75|Financial Statement Analysis Level I Speed Review, PDF p. 75]]
+[^fsa-detail-p78]: [[financial-statement-analysis-level-1-speed-review.pdf#page=78|Financial Statement Analysis Level I Speed Review, PDF p. 78]]

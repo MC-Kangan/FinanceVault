@@ -33,6 +33,12 @@ tags:
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-features-p16]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Interest is generally ordinary income, while capital gains or losses may receive different treatment. Original-issue discount is generally amortized as taxable interest over the bond's life under the slide's stated treatment.[^fi-features-p16]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.

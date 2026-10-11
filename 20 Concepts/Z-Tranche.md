@@ -36,6 +36,12 @@ A Z-tranche accrues interest rather than paying it currently until specified ear
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p101]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Sequential tranches retire in order; PAC tranches target scheduled principal within a band and shift more prepayment risk to support tranches. Z-tranches accrue interest until earlier tranches retire; PO and IO strips separate principal and interest, and floater/inverse-floater pairs redistribute rate sensitivity.[^fi-structured-p100][^fi-structured-p101]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -46,3 +52,5 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p101]: [[fixed-income-level-1-speed-review.pdf#page=101|Fixed Income Level I Speed Review, PDF p. 101]]
+[^fi-structured-p100]: [[fixed-income-level-1-speed-review.pdf#page=100|Fixed Income Level I Speed Review, PDF p. 100]]
+[^fi-structured-p101]: [[fixed-income-level-1-speed-review.pdf#page=101|Fixed Income Level I Speed Review, PDF p. 101]]

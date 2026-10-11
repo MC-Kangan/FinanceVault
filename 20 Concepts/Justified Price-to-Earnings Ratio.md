@@ -39,6 +39,20 @@ Use Justified Price-to-Earnings Ratio as a distinct exam concept when navigating
 
 Do not merge Justified Price-to-Earnings Ratio with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p75]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Gordon-growth fundamentals imply:[^eq-enrich-p75]
+
+$$
+\frac{P_0}{E_1}=\frac{1-b}{r-g},\qquad \frac{P_0}{E_0}=\frac{(1-b)(1+g)}{r-g}
+$$[^eq-enrich-p75]
+
+P/E falls as required return rises and increases with growth; its relationship with payout is ambiguous. Multiples enable cross-sectional and time-series comparison but may conflict with DCF, lose accounting comparability, and become cycle-dependent.[^eq-enrich-p75]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Leading Price Multiple]], [[Enterprise Value]]. Use the topic map to move outward to the wider model or workflow.
@@ -49,3 +63,5 @@ Within the source sequence, this concept is directly adjacent to [[Leading Price
 
 ## Sources
 [^eq-l1-p75]: [[equity-investments-level-1-speed-review.pdf#page=75|Equity Investments Level I Speed Review, PDF p. 75]]
+
+[^eq-enrich-p75]: [[equity-investments-level-1-speed-review.pdf#page=75|Equity Investments Level I Speed Review, PDF p. 75]]

@@ -49,6 +49,15 @@ A higher ratio means a larger operating-earnings cushion relative to interest ob
 
 Check the exact numerator and denominator definitions before comparing companies or periods. Accounting classifications and non-recurring operating items can affect reported EBIT and interest expense.[^fi-l1-p87]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Corporate credit analysis combines business model, competition, governance, and business risk with profitability, coverage, leverage, and cash-flow measures. These accounting-derived measures are genuine bridges between Financial Statement Analysis and Fixed Income.[^fi-credit-p87]
+
+$$EBIT\ margin=\frac{Operating\ income}{Revenue},\quad Interest\ coverage=\frac{Operating\ income}{Interest\ expense},\quad Debt/EBITDA=\frac{Debt}{EBITDA}$$
+[^fi-credit-p87]
+
 ## Connections
 
 - Calculate the ratio in [[Financial Statement Analysis]].
@@ -62,3 +71,4 @@ Check the exact numerator and denominator definitions before comparing companies
 ## Sources
 [^fsa-l1-p45]: [[financial-statement-analysis-level-1-speed-review.pdf#page=45|Financial Statement Analysis Level I Speed Review, PDF p. 45]]
 [^fi-l1-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]
+[^fi-credit-p87]: [[fixed-income-level-1-speed-review.pdf#page=87|Fixed Income Level I Speed Review, PDF p. 87]]

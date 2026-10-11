@@ -31,9 +31,22 @@ tags:
 
 Specific identification assigns the actual cost of each individually identifiable inventory item to cost of sales or ending inventory.[^fsa-l1-p50]
 
-### Exam focus
+<!-- enrichment:fsa:start -->
+### Rising-price comparison
 
-Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fsa-l1-p50]
+| Effect | LIFO | FIFO |
+| --- | --- | --- |
+| COGS | Higher | Lower |
+| Operating income, tax, and net income | Lower | Higher |
+| Inventory and working capital | Lower | Higher |
+| CFO | Higher | Lower |
+| Profit margins and current ratio | Lower | Higher |
+| Debt-to-assets and debt-to-equity | Higher | Lower |
+| Inventory turnover | Higher | Lower |
+[^fsa-detail-p50]
+
+The source shows LIFO as available under US GAAP but not IFRS.[^fsa-detail-p50]
+<!-- enrichment:fsa:end -->
 
 ## Connections
 
@@ -45,3 +58,4 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fsa-l1-p50]: [[financial-statement-analysis-level-1-speed-review.pdf#page=50|Financial Statement Analysis Level I Speed Review, PDF p. 50]]
+[^fsa-detail-p50]: [[financial-statement-analysis-level-1-speed-review.pdf#page=50|Financial Statement Analysis Level I Speed Review, PDF p. 50]]

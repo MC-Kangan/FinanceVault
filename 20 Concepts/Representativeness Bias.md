@@ -43,6 +43,14 @@ Use Representativeness Bias as a distinct exam concept when navigating [[Equity 
 
 Do not merge Representativeness Bias with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p34][^pm-l1-p28]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Overconfidence places excessive faith in one's ability to process and interpret security information, contributing to mispricing. Representativeness assesses new information and outcome probabilities by similarity to a current state or familiar classification. Market rationality does not require every individual to be rational.[^eq-enrich-p34]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Overconfidence Bias]], [[Information Cascade]], [[Confirmation Bias]], [[Illusion of Control Bias]]. Use the topic map to move outward to the wider model or workflow.
@@ -54,3 +62,5 @@ Within the source sequence, this concept is directly adjacent to [[Overconfidenc
 ## Sources
 [^eq-l1-p34]: [[equity-investments-level-1-speed-review.pdf#page=34|Equity Investments Level I Speed Review, PDF p. 34]]
 [^pm-l1-p28]: [[portfolio-management-level-1-speed-review.pdf#page=28|Portfolio Management Level I Speed Review, PDF p. 28]]
+
+[^eq-enrich-p34]: [[equity-investments-level-1-speed-review.pdf#page=34|Equity Investments Level I Speed Review, PDF p. 34]]

@@ -36,6 +36,15 @@ Recovery rate is the proportion of exposure recovered after default; percentage 
 
 Identify the definition, direction of the principal relationships, and the financial-statement or valuation effect tested by this concept.[^fi-l1-p80]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Credit risk includes both default likelihood and loss severity. Unsecured investment-grade analysis emphasizes probability of default, while high-yield analysis also emphasizes collateral, covenants, and loss given default.[^fi-credit-p80][^fi-credit-p81]
+
+$$Expected\ loss=PD\times LGD,\qquad LGD=EAD\times(1-RR)$$
+[^fi-credit-p80]
+
 ## Connections
 
 - Use [[Fixed Income]] to navigate the surrounding curriculum and related concepts.
@@ -46,3 +55,5 @@ Identify the definition, direction of the principal relationships, and the finan
 
 ## Sources
 [^fi-l1-p80]: [[fixed-income-level-1-speed-review.pdf#page=80|Fixed Income Level I Speed Review, PDF p. 80]]
+[^fi-credit-p80]: [[fixed-income-level-1-speed-review.pdf#page=80|Fixed Income Level I Speed Review, PDF p. 80]]
+[^fi-credit-p81]: [[fixed-income-level-1-speed-review.pdf#page=81|Fixed Income Level I Speed Review, PDF p. 81]]

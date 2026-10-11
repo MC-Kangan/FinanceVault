@@ -37,6 +37,14 @@ Use Market Value of Equity as a distinct exam concept when navigating [[Equity I
 
 Do not merge Market Value of Equity with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p42]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Book value of equity equals assets minus liabilities; market value equals price times shares outstanding. They are rarely equal: management directly affects book value but only indirectly affects market value. Cost of equity is used as a proxy for investors' minimum required return.[^eq-enrich-p42]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Book Value of Equity]], [[Cost of Equity]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Book Value of
 
 ## Sources
 [^eq-l1-p42]: [[equity-investments-level-1-speed-review.pdf#page=42|Equity Investments Level I Speed Review, PDF p. 42]]
+
+[^eq-enrich-p42]: [[equity-investments-level-1-speed-review.pdf#page=42|Equity Investments Level I Speed Review, PDF p. 42]]

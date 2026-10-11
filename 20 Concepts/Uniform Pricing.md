@@ -37,6 +37,14 @@ Use Uniform Pricing as a distinct exam concept when navigating [[Equity Investme
 
 Do not merge Uniform Pricing with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p10]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+Order matching applies price priority, then display priority, then time priority. The deck distinguishes uniform, discriminatory, and derivative pricing conventions.[^eq-enrich-p10]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Order Priority]], [[Discriminatory Pricing]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Order Priorit
 
 ## Sources
 [^eq-l1-p10]: [[equity-investments-level-1-speed-review.pdf#page=10|Equity Investments Level I Speed Review, PDF p. 10]]
+
+[^eq-enrich-p10]: [[equity-investments-level-1-speed-review.pdf#page=10|Equity Investments Level I Speed Review, PDF p. 10]]

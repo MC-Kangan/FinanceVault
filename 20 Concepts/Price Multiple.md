@@ -37,6 +37,14 @@ Use Price Multiple as a distinct exam concept when navigating [[Equity Investmen
 
 Do not merge Price Multiple with an abbreviation, translation, or neighbouring category. Apply the exact definition, classification, and formula convention shown on the cited source page.[^eq-l1-p71]
 
+<!-- enrichment:equity:start -->
+
+### Equity slide enrichment
+
+A price multiple compares share price with a monetary flow or value and can be benchmarked to a similar stock or an industry average or median. The source lists P/E, P/B, P/S, and P/CF. Trailing multiples use current or trailing denominators such as $P_0/E_0$; leading multiples use forward denominators such as $P_0/E_1$.[^eq-enrich-p74]
+
+<!-- enrichment:equity:end -->
+
 ## Connections
 
 Within the source sequence, this concept is directly adjacent to [[Residual Income Model]], [[Asset-Based Valuation]]. Use the topic map to move outward to the wider model or workflow.
@@ -47,3 +55,5 @@ Within the source sequence, this concept is directly adjacent to [[Residual Inco
 
 ## Sources
 [^eq-l1-p71]: [[equity-investments-level-1-speed-review.pdf#page=71|Equity Investments Level I Speed Review, PDF p. 71]]
+
+[^eq-enrich-p74]: [[equity-investments-level-1-speed-review.pdf#page=74|Equity Investments Level I Speed Review, PDF p. 74]]

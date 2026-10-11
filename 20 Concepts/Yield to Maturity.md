@@ -54,6 +54,12 @@ YTM is not a guaranteed return. Default, sale before maturity, or reinvestment a
 
 the assumptions required for realized return to equal YTM: full and timely payment, holding to maturity, and reinvestment of coupons at the YTM.[^fi-valuation-p42]
 
+### Slide-deck enrichment
+
+<!-- merged:fi-enrichment -->
+
+Bond value is the present value of promised cash flows. Coupon versus required yield determines premium, par, or discount status, and constant-yield prices pull toward par. Dirty price equals clean price plus accrued interest. Matrix pricing estimates thinly traded bonds from comparable securities and may interpolate between maturities.[^fi-valuation-p40][^fi-valuation-p41][^fi-valuation-p42][^fi-valuation-p44]
+
 ## Connections
 
 - Start from the cash-flow present value in [[Bond Pricing]].
@@ -67,3 +73,6 @@ the assumptions required for realized return to equal YTM: full and timely payme
 ## Sources
 [^fi-l1-p42]: [[fixed-income-level-1-speed-review.pdf#page=42|Fixed Income Level I Speed Review, PDF p. 42]]
 [^fi-valuation-p42]: [[fixed-income-level-1-speed-review.pdf#page=42|Fixed Income Level I Speed Review, PDF p. 42]]
+[^fi-valuation-p40]: [[fixed-income-level-1-speed-review.pdf#page=40|Fixed Income Level I Speed Review, PDF p. 40]]
+[^fi-valuation-p41]: [[fixed-income-level-1-speed-review.pdf#page=41|Fixed Income Level I Speed Review, PDF p. 41]]
+[^fi-valuation-p44]: [[fixed-income-level-1-speed-review.pdf#page=44|Fixed Income Level I Speed Review, PDF p. 44]]
